@@ -37,5 +37,21 @@ This is a **notes and documentation project** - a collection of thoughts, ideas,
 - File naming: use the domain name or site name (e.g., `wonjyou-studio.md`)
 - Include design observations, unique features, interesting content, behind the scenes engineering insights and what makes the site notable
 
+### 📚 Article Collection
+- When asked to "save an article" or "add an article link", use the following structure:
+  - **`articles/index.md`** - Master index with all articles (create if doesn't exist)
+  - **`articles/by-topic/`** - Themed collections (e.g., `technology.md`, `psychology.md`)
+  - **`articles/reading-log/`** - Monthly reading logs (e.g., `2025-01.md`)
+- Article format:
+  ```markdown
+  ### [Article Title](url)
+  *Source • Date read*
+  Quick note about why this caught your attention or key insight
+  Tags: #topic1 #topic2
+  ```
+- Add articles to relevant topic files if they fit a theme
+- Always update the master index when adding any article
+- Include brief personal reactions or connections to other ideas
+
 ## Remember
 This is a space for collecting and organizing interesting ideas, not for writing code. Every file should spark curiosity or capture a fascinating thought!

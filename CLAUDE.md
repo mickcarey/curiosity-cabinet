@@ -35,7 +35,7 @@ This is a **notes and documentation project** - a collection of thoughts, ideas,
 ### 🌐 Website Analyses
 - When asked to "analyse a website" or "add a website analysis", create the analysis in the **`websites/`** directory
 - File naming: use the domain name or site name (e.g., `wonjyou-studio.md`)
-- Include design observations, unique features, interesting content, and what makes the site notable
+- Include design observations, unique features, interesting content, behind the scenes engineering insights and what makes the site notable
 
 ## Remember
 This is a space for collecting and organizing interesting ideas, not for writing code. Every file should spark curiosity or capture a fascinating thought!

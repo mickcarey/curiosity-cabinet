@@ -8,9 +8,7 @@ Language Creators & Compiler Magicians
 - Grace Hopper - Invented the compiler! Plus COBOL, and literally found the first "bug"
 - Bjarne Stroustrup - C++ creator, both loved and cursed by millions
 - Guido van Rossum - Python's "Benevolent Dictator for Life" (recently retired from the role)
-- Anders Hejlsberg - Turbo Pascal, Delphi, C#, and TypeScript. The man who keeps reinventing programming
 - Yukihiro "Matz" Matsumoto - Ruby creator who optimized for developer happiness
-- Brendan Eich - Created JavaScript in 10 days, then spent decades apologizing (kidding!)
 - James Gosling - Father of Java, the language that promised "write once, run anywhere"
 
 Game Development Legends

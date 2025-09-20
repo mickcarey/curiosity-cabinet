@@ -1,7 +1,5 @@
 Operating Systems & Infrastructure Wizards
 
-- Ken Thompson - Co-creator of Unix, B language, UTF-8, and Go. The quiet genius who influenced everything
-- Dennis Ritchie - The "R" in "K&R", created C language and co-created Unix. Every modern language owes him
 - Brian Kernighan - The "K" in "K&R", Unix philosopher and "Hello, World" popularizer
 - Rob Pike - UTF-8, Plan 9, Go language. Master of elegant simplicity
 
@@ -17,7 +15,6 @@ Language Creators & Compiler Magicians
 
 Game Development Legends
 
-- Shigeru Miyamoto - Not just a programmer but revolutionized game design (Mario, Zelda, everything Nintendo)
 - Sid Meier - Civilization creator, master of "just one more turn"
 - Will Wright - SimCity, The Sims - proved games could be about creation, not destruction
 - Markus "Notch" Persson - Minecraft creator, built a billion-dollar game in Java (proving anything's possible)
@@ -45,7 +42,6 @@ Security & Cryptography Wizards
 
 Modern Tech Titans
 
-- Margaret Hamilton - Apollo mission software lead, coined "software engineering"
 - Frances Allen - First woman to win Turing Award, compiler optimization pioneer
 - Barbara Liskov - Liskov Substitution Principle, distributed computing pioneer
 - Donald Knuth - The Art of Computer Programming, TeX, offered rewards for bug finds

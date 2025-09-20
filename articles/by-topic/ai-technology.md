@@ -12,5 +12,3 @@ Why the rush to automate away entry-level positions might be Silicon Valley's bi
 **The paradox:** AI can handle 50-60% of junior tasks, but the remaining 40-50% is where all the magic happens—the messy, human bits where judgment meets creativity.
 
 **Favorite quote:** Work should remain "a site of growth, resilience, and shared human achievement" rather than just an optimization problem to be solved.
-
-Tags: #ai #future-of-work #automation #human-ai-collaboration

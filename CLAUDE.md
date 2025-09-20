@@ -47,7 +47,6 @@ This is a **notes and documentation project** - a collection of thoughts, ideas,
   ### [Article Title](url)
   *Source • Date read*
   Quick note about why this caught your attention or key insight
-  Tags: #topic1 #topic2
   ```
 - Add articles to relevant topic files if they fit a theme
 - Always update the master index when adding any article

@@ -4,6 +4,13 @@ Exploring the intersection of artificial intelligence and human ingenuity
 
 ## Articles
 
+### [How Claude Code Is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
+*The Pragmatic Engineer • September 2025*
+
+A fascinating deep-dive into the engineering behind Claude Code—Anthropic's AI coding assistant. This behind-the-scenes look reveals the architectural decisions, technical challenges, and innovative approaches that went into building a tool that can actually write and modify code. It's like getting a backstage pass to one of the most interesting engineering projects in AI right now.
+
+**The wow moment:** The intricate dance between safety, capability, and usability that shapes every architectural decision. It's not just about making an AI that can code—it's about making one that codes responsibly.
+
 ### [The Perils of Using AI to Replace Entry-Level Jobs](https://hbr.org/2025/09/the-perils-of-using-ai-to-replace-entry-level-jobs)
 *Harvard Business Review • September 2025*
 

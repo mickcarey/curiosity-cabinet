@@ -4,6 +4,13 @@ A cabinet of fascinating reads, organized by curiosity rather than convention!
 
 ## Latest Additions
 
+### [How Claude Code Is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
+*The Pragmatic Engineer • September 2025 • Read: September 2025*
+
+An engineering deep-dive into the architecture and design decisions behind Claude Code. This peek behind the curtain shows how Anthropic tackled the challenge of building an AI that can actually understand, write, and modify code safely and effectively. It's a masterclass in balancing capability with responsibility in AI development.
+
+**Engineering gold:** The thoughtful approach to tool use, context management, and safety boundaries that makes Claude Code both powerful and trustworthy.
+
 ### [Dev Culture Is Dying: The Curious Developer Is Gone](https://dayvster.com/blog/dev-culture-is-dying-the-curious-developer-is-gone/)
 *Dayvi Schuster • September 2025 • Read: September 2025*
 

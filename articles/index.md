@@ -27,10 +27,17 @@ A warning against the short-sighted elimination of entry-level positions through
 
 ---
 
+## Special Collections
+- 🚂 [Train Reading - September 2025](train-reading-september-2025.md) - *Fresh! A delightfully weird collection for your journey*
+
 ## By Topic
 - [AI & Technology](by-topic/ai-technology.md)
 - [Developer Culture](by-topic/developer-culture.md)
 - [Work & Organizations](by-topic/work-organizations.md)
+- [Science & Nature](by-topic/science-nature.md)
+- [History & Culture](by-topic/history-culture.md)
+- [Psychology & Human Behavior](by-topic/psychology-behavior.md)
+- [Internet & Digital Culture](by-topic/internet-culture.md)
 
 ## Reading Log
 - [September 2025](reading-log/2025-09.md)

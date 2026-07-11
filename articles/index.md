@@ -4,6 +4,26 @@ A cabinet of fascinating reads, organized by curiosity rather than convention!
 
 ## Latest Additions
 
+### [The Long Game: Endurance Fitness for Running, Surfing & Not Giving Up](by-topic/health-fitness-endurance.md)
+*Original Article • March 2026*
+
+A deep dive into energy systems, cardiovascular adaptation, respiratory physiology, CO2 tolerance, and the specific demands of long-distance running and water sports like surfing. Covers the polarised training model, the science of fatigue, and breath-hold training for wipeouts. An engine manual for the human body going long.
+
+### [Gravity Is Your Barbell: Progressions & Leverage in Bodyweight Training](by-topic/health-fitness-bodyweight.md)
+*Original Article • March 2026*
+
+How physics and leverage allow bodyweight training to scale from beginner to elite gymnast. Covers the push, pull, squat, and hinge progressions — from wall push-ups to the planche, from assisted squats to the pistol. Includes isometric work, core progressions, and the principle of progressive overload without a single barbell in sight.
+
+### [The Magnificent Machine: Human Anatomy for Movement & Injury Prevention](by-topic/health-fitness-anatomy.md)
+*Original Article • March 2026*
+
+A practical tour of the musculoskeletal architecture — the joint-by-joint model, spinal mechanics, hip complex, the knee's structural limitations, shoulder stability, and core anatomy. Traces the anatomical roots of the most common movement injuries and explains why the pain is never quite where the problem is.
+
+### [The Art of Not Being a Stiff Board: Stretching, Flexibility & Mobility](by-topic/health-fitness-flexibility.md)
+*Original Article • March 2026*
+
+The complete guide to flexibility vs mobility (they're not the same thing), the neuroscience of the stretch reflex, five types of stretching and when to use each, and how to build a sustainable daily practice. Because your factory-fitted range of motion deserves some maintenance.
+
 ### [How Claude Code Is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built)
 *The Pragmatic Engineer • September 2025 • Read: September 2025*
 
@@ -31,6 +51,8 @@ A warning against the short-sighted elimination of entry-level positions through
 - [AI & Technology](by-topic/ai-technology.md)
 - [Developer Culture](by-topic/developer-culture.md)
 - [Work & Organizations](by-topic/work-organizations.md)
+- [Health & Fitness](by-topic/health-fitness.md)
 
 ## Reading Log
+- [March 2026](reading-log/2026-03.md)
 - [September 2025](reading-log/2025-09.md)

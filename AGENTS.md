@@ -40,6 +40,20 @@ Good target: "museum guide who understands orbital mechanics, can explain black 
 
 Bad target: "enterprise wiki page that has never seen sunlight."
 
+## Claude-Style Calibration
+
+Use the stronger existing article style as the house reference, especially the health and fitness series under `articles/by-topic/`. Do not use `companies/adobe.md` or `concepts/from-pikes-to-prison-reform.md` as tone anchors when matching the preferred article voice.
+
+The target is not merely "add jokes." The target is useful explanation with comic voltage running through the actual teaching:
+
+- Start with a concrete human moment: the awkward toe-touch, the long-run suffering, the "my back just made a bubble-wrap noise" problem. Let the reader feel the practical stakes before the theory arrives with a clipboard.
+- Explain the mechanism clearly, then attach a sticky analogy. Flexibility vs mobility becomes "long leash vs trained dog"; injury tracing becomes debugging upstream; endurance fatigue becomes a negotiation with the body's internal risk manager.
+- Put humour beside the facts, not after them. The joke should make the concept easier to remember, like a guitar riff that tells the drummer where the chorus is.
+- Prefer punchy reversals and memorable reframes: "the pain is in the back; the problem is in the hip", "easy should mean easy", "the message says stop, but it is a request, not a command."
+- Use occasional absurd specificity, but keep it visibly playful and lightweight. A suspiciously confident metaphor is welcome; invented factual claims are not.
+- Keep the prose conversational and direct. Use short paragraphs, clean headings, bold labels, and lists where they help. The reader should feel guided, not buried under a textbook wearing a novelty hat.
+- Make the ending land with a practical takeaway or memorable principle, not a limp summary. Good notes leave the reader with a usable mental model and at least one phrase that follows them around like a catchy bassline.
+
 ## Humour Directive
 
 Humour is a core part of the writing, not decorative seasoning sprinkled on after the facts have finished their annual compliance training.

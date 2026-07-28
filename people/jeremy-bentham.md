@@ -6,6 +6,8 @@ Jeremy Bentham (1748–1832) tried to make law answer a blunt engineering questi
 
 Applied to punishment, that was dynamite in a waistcoat. If punishment causes pain, it is itself an evil and can be justified only when it prevents greater harm. Tradition, vengeance, and a judge’s theatrical eyebrow were not enough.
 
+Bentham had the intoxicating confidence of a man who believed society’s moral engine could be opened on a workbench, measured, relabelled, and reassembled with two fewer cruelties and a vastly improved spreadsheet. This is admirable right up to the moment he reaches for the surveillance components.
+
 Then Bentham designed the Panopticon, a prison organised around possible constant observation, and the humane reform story acquired ominous synthesiser music.
 
 ## The Interesting Bits
@@ -44,6 +46,8 @@ Bentham’s proposed Panopticon placed a watchtower at the centre of a circular 
 Bentham promoted it as economical, inspectable, and reformative. He imagined not only prisons but schools, hospitals, workhouses, and factories using the principle.
 
 Modern readers often see the darker pattern: power becomes efficient when people internalise surveillance. Michel Foucault later made the Panopticon a symbol of modern disciplinary society.
+
+The design has the structure of an escalating cover story: observation encourages good behaviour; unseen observation makes it cheaper; uncertainty makes it continuous; and soon an entire institution is being supervised by an imaginary man in a tower who is apparently also a licensed physiotherapist. Every step follows the previous one. The destination is nevertheless alarming.
 
 Bentham therefore embodies a major historical trade:
 

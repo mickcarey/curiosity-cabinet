@@ -14,6 +14,8 @@ She first visited Newgate in the 1810s. Women awaiting trial, convicted prisoner
 
 Fry returned with clothing and practical help. In 1817 she helped establish the Association for the Improvement of the Female Prisoners in Newgate, an organised group of women working directly inside a male-governed penal world.
 
+Her method had a practical scientist’s rhythm: observe the actual conditions, reject the convenient explanation, change something concrete, return, and see whether it helped. No grand theory could make a freezing child warmer. Blankets remained stubbornly evidence-based.
+
 ## Signature Ideas
 
 ### Prisoners remained human
@@ -61,6 +63,7 @@ That is a crucial stage in the [long movement away from spectacular punishment](
 ## Strange But True
 
 - Fry and her husband Joseph had eleven children while she maintained an enormous programme of travel, correspondence, visiting, and campaigning. Her calendar presumably emitted smoke.
+- Had she needed a socially acceptable explanation for yet another prison inspection, one suspects a magnificently fictional cousin with a textile concern and urgent parliamentary business would have materialised by luncheon.
 - Her work extended beyond prisons to homelessness, nursing, and mental-health institutions.
 - She became an international celebrity and met royalty, yet her central method remained the stubbornly unglamorous prison visit.
 - Her image appeared on the Bank of England £5 note from 2002 to 2017.
@@ -87,4 +90,3 @@ That question applies to prisons, immigration detention, youth justice, psychiat
 - [National Portrait Gallery — Elizabeth Fry and civic values](https://www.npg.org.uk/assets/files/pdf/learning/Portraiture_Citizenship_2018.pdf)
 - [The Elizabeth Fry Society — biographical overview](https://www.whoiselizabethfry.org.uk/about/)
 - [UK Parliament — Elizabeth Fry](https://www.parliament.uk/about/living-heritage/transformingsociety/laworder/policeprisons/overview/elizabethfry/)
-

@@ -6,6 +6,8 @@ Vlad III, prince of Wallachia (born around 1431 and dead by early 1477), is reme
 
 He is also a warning about sources. The historical ruler was brutal. The familiar mega-villain was assembled from fact, hostile propaganda, heroic counter-traditions, and a later fictional vampire who borrowed his name but not his complete résumé.
 
+His reputation is therefore two investigations wearing one cloak: what Vlad did, and what generations of frightened, hostile, admiring, or commercially alert people needed “Vlad” to mean. Pull those threads apart and the story becomes more interesting, not less—although the cloak remains extremely banned from the laboratory.
+
 ## The World Around Him
 
 Wallachia sat between powerful neighbours, particularly the expanding Ottoman Empire and the Kingdom of Hungary. Its throne was less a comfortable chair than a medieval ejector seat. Rival noble factions, foreign powers, tribute, hostage-taking, and repeated changes of ruler were normal political weather.
@@ -32,6 +34,8 @@ The most famous story describes Mehmed II encountering a “forest” of impaled
 German-language pamphlets portrayed Vlad as a monstrous tyrant and circulated lurid stories of mass killing. Some originated in communities hostile to him; the new medium of print gave these accounts impressive touring legs.
 
 Other traditions, particularly later Romanian ones, presented him as a hard but effective defender of order and independence. Here Vlad becomes the ruler who frightened thieves so thoroughly that a golden cup could supposedly remain beside a public fountain.
+
+At this point the stories behave like an improvised fake biography that has survived too many follow-up questions. One audience needs an inhuman monster; another needs an incorruptible national guardian; tourism needs a vampire with dependable opening hours. Each new version explains the previous version while quietly adding a cousin who once trained dolphins in Paraguay.
 
 Both portraits have agendas. Even modern estimates of his victims vary enormously, and recent scholarship argues that familiar totals were inflated by sensational chronicles. The responsible conclusion is not “therefore nothing happened.” It is:
 
@@ -80,4 +84,3 @@ The reformers in this collection attacked different joints in that machinery:
 - [UCL Discovery — discussion of contemporary imagery and impalement in Vlad’s region](https://discovery.ucl.ac.uk/1322691/1/1322691_Volume_1.pdf)
 - [Live Science — overview with discussion of recent scholarship and inflated figures](https://www.livescience.com/40843-real-dracula-vlad-the-impaler.html)
 - [The British Museum — Vlad II and the Order of the Dragon](https://www.britishmuseum.org/collection/term/BIOG200839)
-

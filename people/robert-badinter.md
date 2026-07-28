@@ -22,6 +22,8 @@ In the 1977 trial of Patrick Henry, accused of murdering a child, Badinter confr
 
 Badinter went on to save several other defendants from execution. He did not make abolition comfortable. He made the case when grief and public anger made it most unpopular—which is when principles discover whether they are load-bearing or merely decorative cushions.
 
+His problem had the shape of an impossible rescue calculation: protect society, honour victims, respect public fear, and still remove the irreversible act. The answer was not to pretend one variable did not exist. It was to show that a justice system confident enough to punish could also be disciplined enough not to kill.
+
 ## The 1981 Abolition
 
 President François Mitterrand appointed Badinter minister of justice in 1981. On 17 September he addressed the National Assembly on the government’s abolition bill.
@@ -45,6 +47,8 @@ Courts can make mistakes. A prison sentence can at least be halted or corrected.
 Badinter’s victory raises an enduring democratic question: should legislators follow majority opinion when a fundamental right is at stake, or lead it?
 
 He and the abolitionist majority chose leadership. Democracy, in this view, is not three wolves and a sheep running a focus group on lunch.
+
+Nor can a state defend execution with the institutional equivalent of an improvised fake uncle: “the guillotine is regrettable, certainly, but it is also a decorated deterrence consultant who once saved Easter.” If the penalty is irreversible, the justification must survive evidence, error, and principle—not merely arrive wearing a lanyard.
 
 ### The condemned person is more than the crime
 

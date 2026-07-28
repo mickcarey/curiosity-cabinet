@@ -8,6 +8,8 @@ Cesare Beccaria (1738–1794) looked at an 18th-century criminal system full of 
 
 His short 1764 book, *On Crimes and Punishments*, became one of the foundational texts of modern criminal-law reform. It argued that law should prevent harm through public, proportionate, predictable penalties—not perform vengeance with props borrowed from a metal band’s least reassuring tour.
 
+Beccaria’s gift was to approach inherited cruelty like a scientist confronting a machine everyone else insists is traditional. Label the inputs. State the claimed output. Test whether the mechanism works. Ask why the lever marked TORTURE is connected directly to the warning light marked UNRELIABLE EVIDENCE. Try not to let the magistrate lick the sample.
+
 ## The Interesting Bits
 
 Beccaria was a Milanese aristocrat associated with a circle of Enlightenment reformers sometimes called the Academy of Fists. The name suggests either intellectual combat or a regional wrestling promotion. In practice, the group debated economics, law, and government.
@@ -46,6 +48,8 @@ Beccaria’s attack on torture was a logic trap:
 
 The method is therefore morally vicious and informationally defective—the legal equivalent of testing a smoke alarm with a flamethrower.
 
+The delightful intellectual manoeuvre is that Beccaria does not need to know what happened in the interrogation room. He checks both possible states—guilt established and guilt not established—and torture fails in either one. It is a two-line proof with several centuries of blood on the error log.
+
 ### The death penalty lacks necessity
 
 Beccaria made one of the earliest sustained modern cases against capital punishment. He argued that the state generally had no need to kill a citizen and that long-lasting loss of liberty could create a stronger deterrent impression than an execution.
@@ -82,4 +86,3 @@ None of these objections erases his contribution. They remind us that replacing 
 - [Cambridge University Press — “Of torture”](https://www.cambridge.org/core/books/abs/beccaria-on-crimes-and-punishments-and-other-writings/of-torture/41ED74477646ED726FEBD0783F7C70EE)
 - [Online Library of Liberty — *An Essay on Crimes and Punishments*](https://oll.libertyfund.org/titles/beccaria-an-essay-on-crimes-and-punishments)
 - [Encyclopaedia Britannica — Cesare Beccaria](https://www.britannica.com/biography/Cesare-Beccaria)
-

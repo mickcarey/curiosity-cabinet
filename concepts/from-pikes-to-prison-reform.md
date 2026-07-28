@@ -6,6 +6,8 @@ How did societies travel from severed heads above city gates and bodies displaye
 
 The short answer is: slowly, unevenly, and with frequent backsliding. Humanity did not wake up one Tuesday, put the impaling stake in the council hard rubbish, and subscribe to a human-rights newsletter. Ideas changed. States changed. Technology changed. Public feeling changed. Reformers kept making cruelty harder to defend.
 
+The useful way into the problem is to treat civilisation like an alarming science experiment whose lab notes span several centuries. Change one variable at a time: who holds power, what punishment is supposed to achieve, what counts as evidence, who gets recognised as fully human, and whether anybody is allowed to inspect the basement. Suddenly the impossible historical leap becomes a sequence of mechanisms. Extremely grim mechanisms, yes, but mechanisms we can examine without shouting “science!” and accidentally inventing a prison.
+
 This note follows that crooked road. It discusses torture and execution without dwelling on anatomical detail; the point is to understand the machinery, not give the machinery a drum solo.
 
 ## What Spectacular Punishment Was For
@@ -29,6 +31,8 @@ The exact methods varied by place, period, offence, and social rank. “The past
 [Vlad III of Wallachia](../people/vlad-iii-dracula.md) became inseparable from impalement because he used exemplary violence as political and military theatre. Accounts describe forests of stakes intended to punish enemies and terrify others into obedience.
 
 But Vlad also demonstrates a historian’s recurring nuisance: atrocity stories are useful propaganda. Hostile German pamphlets, Ottoman reports, later nationalism, and Dracula tourism all helped build the legend. The numbers in sensational accounts should not be swallowed whole like a pelican finding a calculator. The underlying brutality is well supported; its reported scale is contested.
+
+Propaganda operates on the Ricky Stanicky principle: begin with a useful story, add whatever details rescue the current situation, and repeat it with such majestic confidence that somebody eventually orders commemorative glassware. Unlike that fictional escalation, however, Vlad’s legend grew around genuine state violence. Separating invention from evidence sharpens the indictment; it does not dissolve it.
 
 That distinction matters. Accuracy is not an apology for cruelty. It is how we avoid replacing history with a horror franchise.
 
@@ -129,4 +133,3 @@ That question did not finish history. It did, however, ruin the old show.
 - [UCL — The Bentham Project](https://www.ucl.ac.uk/laws/research/research-projects/bentham-project/about-bentham-project)
 - [Amnesty International — Universal Declaration of Human Rights](https://www.amnesty.org/en/what-we-do/universal-declaration-of-human-rights/)
 - [Élysée — Robert Badinter and abolition](https://www.elysee.fr/emmanuel-macron/2024/02/09/disparition-de-robert-badinter)
-

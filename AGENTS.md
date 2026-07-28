@@ -22,7 +22,7 @@ This is not an application repo. No app to compile. No service to deploy. No tin
 - Be conversational rather than sterile or professionally beige.
 - Explain clearly first, then make the idea memorable with a good analogy, vivid image, or sharp little turn of phrase.
 - Use emojis as visual colour in titles, section headings, article lists, and callouts. They should help the page breathe and break up dense text.
-- Let the topic set the volume. A Brendan Eich profile can be bouncy and emoji-rich; a Cesare Beccaria profile can still be witty, but should respect the moral weight of crime, punishment, torture, and reform.
+- Let the topic set the volume. Light or eccentric subjects can be bouncy and emoji-rich; serious subjects can still be witty, but the humour should respect the weight of the material.
 - If the writing starts trying too hard to be funny, simplify. The joke should serve the idea, not leap in front of it wearing tap shoes.
 
 Good target: "smart friend explaining the cool part, with enough humour and colour that the facts actually stick."

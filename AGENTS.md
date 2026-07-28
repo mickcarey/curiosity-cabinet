@@ -51,6 +51,7 @@ The target is not merely "add jokes." The target is useful explanation with comi
 - Put humour beside the facts, not after them. The joke should make the concept easier to remember, like a guitar riff that tells the drummer where the chorus is.
 - Prefer punchy reversals and memorable reframes: "the pain is in the back; the problem is in the hip", "easy should mean easy", "the message says stop, but it is a request, not a command."
 - Use occasional absurd specificity, but keep it visibly playful and lightweight. A suspiciously confident metaphor is welcome; invented factual claims are not.
+- Use emojis as visual colour and navigation, Claude-style. They work well in article titles, major section headings, reading-log headings, and important callouts because they break up dense text and give the page a quick visual rhythm. Use them intentionally, like stage lights, not like someone emptied a sticker drawer into the Markdown.
 - Keep the prose conversational and direct. Use short paragraphs, clean headings, bold labels, and lists where they help. The reader should feel guided, not buried under a textbook wearing a novelty hat.
 - Make the ending land with a practical takeaway or memorable principle, not a limp summary. Good notes leave the reader with a usable mental model and at least one phrase that follows them around like a catchy bassline.
 
@@ -187,7 +188,7 @@ Use Markdown like a good set list: structured enough that the drummer knows wher
 - Add small "why this matters" moments when they sharpen the note.
 - Include follow-up references when the topic naturally name-drops people, books, theories, tools, places, or movements.
 
-Emoji are allowed when they add warmth, but do not turn the page into confetti. A curiosity cabinet needs labels on the jars.
+Emoji are encouraged when they add visual rhythm, scanning landmarks, or useful flavour. Prefer one well-chosen emoji in page titles, section headers, article lists, and compact callouts over random inline sprinkles. A curiosity cabinet needs labels on the jars; a few bright labels help, a glitter cannon does not.
 
 ## Research And Sources
 

@@ -1,6 +1,8 @@
-# Jeremy Bentham
+# 👁️ Jeremy Bentham
 
-## Why He Matters
+*The philosopher who tried to spreadsheet morality, redesign punishment, and then accidentally invented one of history’s most unsettling surveillance metaphors. Productive fellow. Slightly alarming stationery.*
+
+## ✨ Why He Matters
 
 Jeremy Bentham (1748–1832) tried to make law answer a blunt engineering question: does this institution produce more well-being than suffering?
 
@@ -8,9 +10,9 @@ Applied to punishment, that was dynamite in a waistcoat. If punishment causes pa
 
 Bentham had the intoxicating confidence of a man who believed society’s moral engine could be opened on a workbench, measured, relabelled, and reassembled with two fewer cruelties and a vastly improved spreadsheet. This is admirable right up to the moment he reaches for the surveillance components.
 
-Then Bentham designed the Panopticon, a prison organised around possible constant observation, and the humane reform story acquired ominous synthesiser music.
+Then Bentham designed the Panopticon, a prison organised around possible constant observation, and the humane reform story acquired ominous synthesiser music. The album was called *Now That’s What I Call Institutional Anxiety*.
 
-## The Interesting Bits
+## 🧠 The Interesting Bits
 
 Bentham was an English philosopher, legal reformer, relentless manuscript producer, and central architect of classical utilitarianism. He argued that policy should aim at the greatest happiness and assess actions through their consequences.
 
@@ -18,9 +20,9 @@ He found English common law obscure, inconsistent, and inaccessible. His answer 
 
 He proposed reforms across an astonishing range of subjects, including government, education, poor relief, sexuality, animal treatment, and prisons. UCL’s Bentham Project works through roughly 60,000 manuscript folios. The man apparently regarded “maybe stop writing now” as an unconstitutional proposal.
 
-## Signature Ideas
+## 💡 Signature Ideas
 
-### Punishment starts in moral debt
+### 🧾 Punishment starts in moral debt
 
 Bentham’s baseline was that all punishment is harmful. It therefore needs a consequential justification such as:
 
@@ -33,13 +35,13 @@ Punishment should not occur when it is groundless, ineffective, unprofitable, or
 
 That framework helped move criminal justice away from sacred vengeance and toward explicit policy goals. It also invited a permanent argument about whose happiness counts and who gets handed the calculator.
 
-### Proportionality should be designed
+### 📏 Proportionality should be designed
 
 A penalty needed enough force to outweigh the expected benefit of offending, but excess severity created needless suffering. Bentham tried to make penalties predictable and calibrated rather than arbitrary.
 
 It is criminal law as interface design: make consequences legible, consistent, and no more hostile than the function requires. Regrettably, most interfaces do not include transportation to Australia.
 
-### The Panopticon
+### 👀 The Panopticon
 
 Bentham’s proposed Panopticon placed a watchtower at the centre of a circular institution. People in the surrounding cells could not know when they were being watched, so the possibility of observation was meant to encourage continuous self-discipline.
 
@@ -55,13 +57,13 @@ Bentham therefore embodies a major historical trade:
 
 That is an improvement in some respects and a warning in others. The dungeon changed key, but the bass line continued.
 
-## Strange But True
+## 🎩 Strange But True
 
 Bentham requested that his body be dissected and preserved after death. His dressed skeleton and wax head became UCL’s “Auto-Icon,” now displayed at the university.
 
-This was consistent with his support for medical dissection and his campaign against taboos that prevented bodies from being useful after death. It was also extremely on-brand. Some philosophers leave a school of thought; Bentham additionally left himself in a glass case.
+This was consistent with his support for medical dissection and his campaign against taboos that prevented bodies from being useful after death. It was also extremely on-brand. Some philosophers leave a school of thought; Bentham additionally left himself in a glass case, as if footnotes had finally achieved skeleton form.
 
-## What He Changed
+## 🌍 What He Changed
 
 Bentham helped give reformers a reusable test: punishment is not self-justifying. Officials must explain what good it achieves, whether a less harmful option would work, and whether the penalty matches the offence.
 
@@ -71,7 +73,7 @@ This connects him to:
 - [Elizabeth Fry](elizabeth-fry.md), who confronted what institutional punishment did in daily practice;
 - the wider move [from spectacular punishment to modern criminal justice](../concepts/from-pikes-to-prison-reform.md).
 
-## Contradictions and Limits
+## 🧱 Contradictions and Limits
 
 - A system optimised for aggregate welfare may sacrifice unpopular minorities.
 - Surveillance can produce orderly institutions while crushing privacy and autonomy.
@@ -80,7 +82,7 @@ This connects him to:
 
 His importance lies partly in this ambiguity. Modern punishment is not simply ancient cruelty with the cruelty removed. It carries Bentham’s promise of rational prevention and his nightmare of frictionless observation.
 
-## Follow-Up Rabbit Holes
+## 🕳️ Follow-Up Rabbit Holes
 
 - Michel Foucault’s use of the Panopticon in *Discipline and Punish*.
 - Bentham’s “felicific calculus” and whether well-being can be compared.
@@ -88,7 +90,7 @@ His importance lies partly in this ambiguity. Modern punishment is not simply an
 - His arguments about animal suffering.
 - The difference between external inspection of institutions and internal surveillance of inmates.
 
-## Sources and Further Reading
+## 📚 Sources and Further Reading
 
 - [UCL — About the Bentham Project](https://www.ucl.ac.uk/laws/research/research-projects/bentham-project/about-bentham-project)
 - [UCL Discovery — Bentham’s penal theory and punishment](https://discovery.ucl.ac.uk/id/eprint/10219771)

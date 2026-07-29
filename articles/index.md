@@ -4,6 +4,31 @@ A cabinet of fascinating reads, organized by curiosity rather than convention!
 
 ## Latest Additions
 
+### [Consciousness and the Mind: The Universe Looking Back at Itself](by-topic/consciousness-and-the-mind.md)
+*Original Article • July 2026*
+
+A broad map of subjective experience, selfhood, animal consciousness, machine minds, and the stubborn question of why physical matter ever has an inner view. Complements the octopus and Chinese Room notes without wearing their jackets and pretending nobody noticed.
+
+### [How Civilisations Succeed or Fail](by-topic/how-civilisations-succeed-or-fail.md)
+*Original Article • July 2026*
+
+Why societies remain adaptive or become brittle: state capacity, legitimacy, trust, complexity, information quality, authoritarian rigidity, and the warning lights that show up before the wheels wobble.
+
+### [The Origins and Limits of the Universe](by-topic/origins-and-limits-of-the-universe.md)
+*Original Article • July 2026*
+
+A cosmology primer on the Big Bang, cosmic microwave background, inflation, dark matter, dark energy, and why "before the Big Bang" may or may not be a meaningful question.
+
+### [How Intelligence Really Works](by-topic/how-intelligence-really-works.md)
+*Original Article • July 2026*
+
+Learning, memory, creativity, intuition, bounded rationality, AI, and the excellent horror show where smart people use their intelligence to defend false beliefs with premium-grade confidence.
+
+### [Designing a Genuinely Good Society](by-topic/designing-a-genuinely-good-society.md)
+*Original Article • July 2026*
+
+An anti-utopian design sketch for combining freedom, fairness, meaningful work, technological progress, community, and sustainability without pretending tradeoffs can be deleted like an awkward email draft.
+
 ### [The Long Game: Endurance Fitness for Running, Surfing & Not Giving Up](by-topic/health-fitness-endurance.md)
 *Original Article • March 2026*
 
@@ -48,11 +73,17 @@ A warning against the short-sighted elimination of entry-level positions through
 ---
 
 ## By Topic
+- [Consciousness and the Mind](by-topic/consciousness-and-the-mind.md)
+- [How Civilisations Succeed or Fail](by-topic/how-civilisations-succeed-or-fail.md)
+- [The Origins and Limits of the Universe](by-topic/origins-and-limits-of-the-universe.md)
+- [How Intelligence Really Works](by-topic/how-intelligence-really-works.md)
+- [Designing a Genuinely Good Society](by-topic/designing-a-genuinely-good-society.md)
 - [AI & Technology](by-topic/ai-technology.md)
 - [Developer Culture](by-topic/developer-culture.md)
 - [Work & Organizations](by-topic/work-organizations.md)
 - [Health & Fitness](by-topic/health-fitness.md)
 
 ## Reading Log
+- [July 2026](reading-log/2026-07.md)
 - [March 2026](reading-log/2026-03.md)
 - [September 2025](reading-log/2025-09.md)

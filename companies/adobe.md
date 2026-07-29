@@ -1,10 +1,12 @@
-# Adobe
+# 🎨 Adobe
 
-*A story about two mathematicians, one creek, a laser printer, several borrowed geniuses, and the gradual discovery that a monthly invoice can be more powerful than a printing press.*
+*Two mathematicians, one creek, a laser printer, several borrowed geniuses, and the gradual discovery that a monthly invoice can be more powerful than a printing press.*
 
-## Why Adobe Matters
+## ✨ Why Adobe Matters
 
-Adobe did not begin by trying to own creativity. It began with a problem so unglamorous it should have arrived wearing beige trousers: **how do you make a computer and a printer agree on what a page looks like?**
+Adobe did not begin by trying to own creativity. It began with a beautifully unglamorous problem: **how do you make a computer and a printer agree on what a page looks like?**
+
+That sounds small until you realise it is basically the Treaty of Versailles for fonts, margins, curves, and every newsletter ever produced by someone named Sandra with access to clip art.
 
 Solving that problem helped ignite desktop publishing. From there, Adobe accumulated tools that changed photography, illustration, filmmaking, documents, web animation, advertising, and the economics of creative work. It became less a software company than a geological layer. Dig anywhere in modern media and eventually you hit an `.ai`, `.psd`, `.pdf`, or the fossilised remains of a Flash loading screen stuck at 97%.
 
@@ -21,7 +23,7 @@ The interesting part is that Adobe’s empire was not built by one lone genius g
 
 That is the Adobe story: invention, partnership, acquisition, reinvention, and the occasional business decision that made customers stare into the middle distance like a golfer whose ball has entered a lake with unusual confidence.
 
-## Before Adobe: Two Men At Xerox PARC
+## 🧪 Before Adobe: Two Men At Xerox PARC
 
 In the late 1970s, **John Warnock** and **Charles “Chuck” Geschke** worked at Xerox’s Palo Alto Research Center, better known as **PARC**. PARC was one of history’s great idea factories: graphical interfaces, Ethernet, laser printing, object-oriented computing, and enough squandered commercial opportunity to make a venture capitalist chew through a mahogany desk.
 
@@ -37,7 +39,7 @@ So the pair left.
 
 Sources: [Adobe’s founders](https://www.adobe.com/about-adobe/leaders/founders.html), [Computer History Museum oral history with John Warnock](https://archive.computerhistory.org/resources/access/text/2017/06/102738071-05-01-acc.pdf).
 
-## 1982: A Company Named After The Water Out Back
+## 🌊 1982: A Company Named After The Water Out Back
 
 Warnock and Geschke founded Adobe in **December 1982**. The name came from **Adobe Creek**, which ran behind Warnock’s home in Los Altos, California. Other technology firms reached for mythological beings, fruit, or acronyms assembled during a carbon-monoxide leak. Adobe looked out the back window and named itself after some water.
 
@@ -47,7 +49,7 @@ The founders first considered building a complete printing system. Instead, they
 
 They called it **PostScript**.
 
-## PostScript: Teaching Printers To Think In Shapes
+## 🖨️ PostScript: Teaching Printers To Think In Shapes
 
 PostScript described a page using mathematical instructions. Text, lines, curves, and images could be defined independently of a particular printer and reproduced at high quality. Instead of telling the printer, “put ink on these exact dots and good luck, champion,” the computer could describe the page’s geometry and let the output device render it at the appropriate resolution.
 
@@ -69,7 +71,7 @@ It was the publishing equivalent of the home recording revolution. The studio di
 
 Sources: [Adobe on forty years of innovation](https://blog.adobe.com/en/publish/2022/12/05/celebrating-special-milestone-10-things-you-might-not-know-about-adobes-40-years-innovation), [Computer History Museum on desktop publishing](https://www.computerhistory.org/revolution/the-web/20/381).
 
-## Paul Brainerd And The Missing Instrument
+## 🧰 Paul Brainerd And The Missing Instrument
 
 PostScript and the LaserWriter were impressive machinery, but users still needed an approachable way to assemble pages. That came from **Paul Brainerd**, a newspaper veteran who founded **Aldus Corporation** in 1984.
 
@@ -81,7 +83,7 @@ The merger also brought an awkward overlap: Aldus owned **FreeHand**, a direct c
 
 Sources: [Computer History Museum on the Adobe–Aldus merger](https://www.computerhistory.org/tdih/august/31/), [FTC on the Adobe–Aldus consent order](https://www.ftc.gov/news-events/news/press-releases/1995/12/adobe-systems-incorporated-has-petitioned-ftc-reopen-modify-october-1994-consent-order).
 
-## The Knoll Brothers Make Reality Optional
+## 🖼️ The Knoll Brothers Make Reality Optional
 
 Adobe’s most famous product began elsewhere.
 
@@ -93,7 +95,7 @@ Photoshop’s great conceptual trick was not merely that it could alter photogra
 
 Photoshop became central to photography, publishing, advertising, film, science, and web design. Its name became a verb, which is the branding equivalent of being elected pope, except people mostly invoke you when a celebrity’s elbows look suspicious.
 
-### Russell Brown: The Evangelist In The Lab Coat
+### 🧑‍🔬 Russell Brown: The Evangelist In The Lab Coat
 
 Technology does not spread through engineering alone. It needs translators, performers, and at least one person willing to conduct a product demonstration as if revealing an alien artefact.
 
@@ -101,7 +103,7 @@ Technology does not spread through engineering alone. It needs translators, perf
 
 Sources: [Adobe on Photoshop’s origin](https://blog.adobe.com/en/publish/2017/12/06/photoshop-changing-photo-changing-industry), [Computer History Museum’s Photoshop exhibit](https://www.computerhistory.org/makesoftware/exhibit/photoshop/).
 
-## Warnock’s Impossible Document
+## 📄 Warnock’s Impossible Document
 
 By the early 1990s, Adobe had helped documents move from screen to printer. Warnock now wanted them to move reliably between computers.
 
@@ -113,7 +115,7 @@ PDF may be Adobe’s most important creation because it became boring. Courts, r
 
 Source: [PDF Association on ISO 32000-1](https://pdfa.org/resource/iso-32000-1/).
 
-## Chuck Geschke And The Human Company
+## 🤝 Chuck Geschke And The Human Company
 
 Geschke’s influence went beyond engineering and management. He and Warnock said they wanted Adobe to be a company where they themselves would want to work, built around trust, respect, and technical ambition.
 
@@ -123,7 +125,7 @@ Geschke served as Adobe’s president and later co-chairman. Warnock served as C
 
 Source: [Adobe’s founders](https://www.adobe.com/about-adobe/leaders/founders.html).
 
-## Macromedia And The Noisy Internet
+## ⚡ Macromedia And The Noisy Internet
 
 Adobe dominated print and images, but another company was defining the expressive early web.
 
@@ -141,7 +143,7 @@ Flash did not simply fail. It carried animation, games, and video across the web
 
 Sources: [Adobe–Macromedia acquisition announcement](https://www.sec.gov/Archives/edgar/data/913949/000104746905010580/a2156088zex-99_1.htm), [Web Design Museum on FutureSplash Animator](https://www.webdesignmuseum.org/software/futuresplash-animator-in-1996), [Adobe Flash end-of-life notice](https://community.adobe.com/announcements-637/update-on-flash-player-eol-719213).
 
-## Shantanu Narayen Changes The Business
+## 💳 Shantanu Narayen Changes The Business
 
 **Shantanu Narayen** joined Adobe in 1998, became president and chief operating officer in 2005, and succeeded **Bruce Chizen** as CEO in 2007. By then Adobe possessed famous products but faced piracy, irregular upgrade cycles, a shifting web, and customers who could quite reasonably keep using an old Creative Suite box for years.
 
@@ -155,7 +157,7 @@ This was not merely a pricing change. Narayen refactored Adobe’s relationship 
 
 Adobe also expanded aggressively into enterprise marketing. Acquisitions including **Omniture**, **Day Software**, **Magento**, **Marketo**, and **Workfront** moved the company from helping people create content to helping organisations manage, distribute, personalise, measure, and monetise it.
 
-## The People Adobe Bought Along The Way
+## 🛒 The People Adobe Bought Along The Way
 
 Adobe’s history is partly a history of recognising good ideas after other people had already wrestled them into existence:
 
@@ -173,7 +175,7 @@ This is not evidence that Adobe cannot invent. PostScript and PDF settle that ar
 
 Sometimes that works beautifully. Sometimes a beloved product is absorbed, repositioned, or retired. Buying a brilliant band does not guarantee the reunion album will have any songs on it.
 
-## The Figma Deal That Wasn’t
+## 🧩 The Figma Deal That Wasn’t
 
 In 2022, Adobe agreed to buy **Figma** for approximately **$20 billion**. Figma, co-founded by **Dylan Field and Evan Wallace**, had made interface design collaborative, browser-native, and multiplayer. It represented a product philosophy very different from Adobe’s traditional specialist desktop applications.
 
@@ -183,7 +185,7 @@ The episode matters because it revealed Adobe’s strategic anxiety. Figma had n
 
 Sources: [Adobe and Figma termination announcement](https://news.adobe.com/news/news-details/2023/adobe-and-figma-mutually-agree-to-terminate-merger-agreement), [UK Competition and Markets Authority inquiry](https://www.gov.uk/cma-cases/adobe-slash-figma-merger-inquiry).
 
-## Adobe Today
+## 🔮 Adobe Today
 
 As of **July 2026**, Adobe is no longer primarily the PostScript company, although its original instinct remains visible: identify a messy boundary between human intent and technical output, then build the layer everyone must pass through.
 
@@ -203,7 +205,7 @@ Narayen announced in March 2026 that he would step down as CEO once a successor 
 
 Sources: [Adobe FY2025 Form 10-K](https://www.sec.gov/Archives/edgar/data/796343/000079634326000003/adbe-20251128.htm), [Adobe leadership transition](https://news.adobe.com/news/2026/03/leadership-update), [Adobe completes Semrush acquisition](https://news.adobe.com/news/2026/04/adobe-completes-semrush-acquisition), [Adobe announces Topaz Labs acquisition](https://news.adobe.com/news/2026/06/adobe-to-acquire-topaz-labs).
 
-## The Shape Of The Whole Story
+## 🧭 The Shape Of The Whole Story
 
 Adobe began with two researchers who believed a page could be described mathematically. That idea connected a Macintosh to a laser printer and helped move publishing onto the desktop. The company then widened its definition of a page until it included photographs, illustrations, films, websites, contracts, shopping journeys, advertising campaigns, and AI-generated flamingos wearing dinner jackets.
 
@@ -220,7 +222,7 @@ At its most frustrating, Adobe mistakes dependence for affection. Subscription l
 
 That tension is the present-day Adobe: a company born from the liberation of the printed page, now powerful enough to feel like part studio, part utility company, and part landlord. The founders taught printers to understand ideas. Their successors built a very profitable gate around the ideas, added excellent lighting, and are currently installing an AI fog machine.
 
-## Follow-Up Rabbit Holes
+## 🕳️ Follow-Up Rabbit Holes
 
 - **John Warnock’s Camelot paper** and the path from PostScript to PDF.
 - **Charles Geschke’s leadership philosophy** and Adobe’s early culture.
@@ -233,7 +235,7 @@ That tension is the present-day Adobe: a company born from the liberation of the
 - **Shantanu Narayen’s subscription pivot** as one of software’s defining business transformations.
 - **Content Credentials** and whether provenance can survive contact with the actual internet.
 
-## Source Shelf
+## 📚 Source Shelf
 
 - [Adobe founders](https://www.adobe.com/about-adobe/leaders/founders.html)
 - [Adobe: forty years of innovation](https://blog.adobe.com/en/publish/2022/12/05/celebrating-special-milestone-10-things-you-might-not-know-about-adobes-40-years-innovation)

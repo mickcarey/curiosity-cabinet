@@ -45,7 +45,7 @@ Think "museum of interesting thoughts" rather than "technical documentation."
 
 When asked to add a new biography, profile, or person:
 
-- Create the file in `people/`.
+- Create the file in `👤-people/`.
 - Name it with lowercase words separated by hyphens, such as `ada-lovelace.md`.
 - Include what makes the person fascinating, not just a timeline.
 - Add interesting facts, quirks, contradictions, signature ideas, notable work, and why they matter.
@@ -71,7 +71,7 @@ Suggested shape:
 
 When asked to analyse a website or add a website analysis:
 
-- Create the file in `websites/`.
+- Create the file in `🌐-websites/`.
 - Name it after the domain or site name, such as `wonjyou-studio.md`.
 - Include design observations, unique features, content strategy, interaction details, engineering clues, and what makes the site notable.
 - Separate observation from inference. If something is a guess, say so.
@@ -101,8 +101,8 @@ Suggested shape:
 When asked to save an article or add an article link:
 
 - Add it directly to a relevant Markdown file in the most logical folder.
-- Use `articles/by-topic/` for article collections that fit an existing or useful theme.
-- Create missing Markdown files or directories as needed, but do not maintain central indexes or monthly reading logs.
+- Use `📰-articles/` for article collections that fit an existing or useful theme.
+- Create missing Markdown files as needed, but do not maintain central indexes, topic-index directories, or monthly reading logs.
 - Use the current local date only when the note itself benefits from a read date.
 
 Article entries should use this format:

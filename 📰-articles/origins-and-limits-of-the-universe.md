@@ -125,9 +125,9 @@ That is not a bad Tuesday.
 
 ## Related Cabinet Notes 🔗
 
-- [The Fermi Paradox](../../concepts/fermi-paradox.md)
-- [Quantum Mechanics for Curious Minds](../../airplane-reading/quantum-mechanics-for-curious-minds.md)
-- [Quantum Weirdness: Reality Is Broken](../../airplane-reading/quantum-weirdness-reality-is-broken.md)
+- [The Fermi Paradox](../💡-concepts/fermi-paradox.md)
+- [Quantum Mechanics for Curious Minds](../✈️-airplane-reading/quantum-mechanics-for-curious-minds.md)
+- [Quantum Weirdness: Reality Is Broken](../✈️-airplane-reading/quantum-weirdness-reality-is-broken.md)
 
 ## Sources and Further Reading 📚
 

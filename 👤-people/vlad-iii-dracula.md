@@ -51,7 +51,7 @@ History frequently hands us a smoke machine and asks for a census.
 
 Vlad’s violence was not merely an uncontrolled temper. It communicated rules, punished defiance, intimidated armies, and helped a precarious ruler compensate for limited resources.
 
-That is what makes him relevant to the broader [history of punishment](../concepts/from-pikes-to-prison-reform.md). Spectacular punishment was a communications system. Where a modern state might use police presence, court records, prisons, and broadcasting, a ruler with fragile reach might use a visible dead body.
+That is what makes him relevant to the broader [history of punishment](../💡-concepts/from-pikes-to-prison-reform.md). Spectacular punishment was a communications system. Where a modern state might use police presence, court records, prisons, and broadcasting, a ruler with fragile reach might use a visible dead body.
 
 Explanation is not exoneration. “Strategic” cruelty remains cruelty; giving the nightmare a flowchart does not make it less of a nightmare.
 

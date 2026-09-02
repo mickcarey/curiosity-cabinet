@@ -135,9 +135,9 @@ Those are not the same question. They may not even play the same sport.
 
 ## Related Cabinet Notes 🔗
 
-- [The Mystery of Octopus Intelligence](../../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md)
-- [The Chinese Room](../../💡-concepts/chinese-room.md)
-- [How Your Brain Tricks You Daily](../../✈️-airplane-reading/how-your-brain-tricks-you-daily.md)
+- [The Mystery of Octopus Intelligence](../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md)
+- [The Chinese Room](../💡-concepts/chinese-room.md)
+- [How Your Brain Tricks You Daily](../✈️-airplane-reading/how-your-brain-tricks-you-daily.md)
 
 ## Sources and Further Reading 📚
 

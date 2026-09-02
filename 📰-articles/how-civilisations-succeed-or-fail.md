@@ -138,9 +138,9 @@ Healthy societies bend, argue, repair, experiment, remember, and occasionally ap
 
 ## Related Cabinet Notes 🔗
 
-- [The Beautiful Mess of Civilization](../../💡-concepts/the-beautiful-mess-of-civilization.md)
-- [The Fermi Paradox](../../💡-concepts/fermi-paradox.md)
-- [Dee Hock](../../👤-people/dee-hock.md)
+- [The Beautiful Mess of Civilization](../💡-concepts/the-beautiful-mess-of-civilization.md)
+- [The Fermi Paradox](../💡-concepts/fermi-paradox.md)
+- [Dee Hock](../👤-people/dee-hock.md)
 
 ## Sources and Further Reading 📚
 

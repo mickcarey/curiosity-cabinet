@@ -148,10 +148,10 @@ A sharp mind is not the one that never falls for nonsense. It is the one that no
 
 ## Related Cabinet Notes 🔗
 
-- [How Your Brain Tricks You Daily](../../✈️-airplane-reading/how-your-brain-tricks-you-daily.md)
-- [The Chinese Room](../../💡-concepts/chinese-room.md)
-- [Dunning-Kruger Effect](../../🪞-psychology/dunning-kruger-effect.md)
-- [Cognitive Biases in Debugging](../../🪞-psychology/cognitive-biases-in-debugging.md)
+- [How Your Brain Tricks You Daily](../✈️-airplane-reading/how-your-brain-tricks-you-daily.md)
+- [The Chinese Room](../💡-concepts/chinese-room.md)
+- [Dunning-Kruger Effect](../🪞-psychology/dunning-kruger-effect.md)
+- [Cognitive Biases in Debugging](../🪞-psychology/cognitive-biases-in-debugging.md)
 
 ## Sources and Further Reading 📚
 

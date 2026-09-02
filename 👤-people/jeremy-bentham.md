@@ -82,14 +82,6 @@ This connects him to:
 
 His importance lies partly in this ambiguity. Modern punishment is not simply ancient cruelty with the cruelty removed. It carries Bentham’s promise of rational prevention and his nightmare of frictionless observation.
 
-## 🕳️ Follow-Up Rabbit Holes
-
-- Michel Foucault’s use of the Panopticon in *Discipline and Punish*.
-- Bentham’s “felicific calculus” and whether well-being can be compared.
-- His surprisingly radical unpublished writing on sexuality.
-- His arguments about animal suffering.
-- The difference between external inspection of institutions and internal surveillance of inmates.
-
 ## 📚 Sources and Further Reading
 
 - [UCL — About the Bentham Project](https://www.ucl.ac.uk/laws/research/research-projects/bentham-project/about-bentham-project)

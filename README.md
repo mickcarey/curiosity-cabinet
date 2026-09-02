@@ -17,6 +17,8 @@ This is my digital commonplace book – a place where I collect interesting idea
 
 No map needed – just wander! Pick a folder, follow a link, get lost. The best discoveries happen when you're not looking for them.
 
+The emoji folder names deliberately scramble neat alphabetical order a little. That is part of the charm: this cabinet is built for curious wandering, not speed-running your way to a perfectly filtered filing system. Let the shelves wink at you first; the exact destination can make itself known second.
+
 ---
 
 *"The cure for boredom is curiosity. There is no cure for curiosity."* – Dorothy Parker

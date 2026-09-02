@@ -100,11 +100,10 @@ Suggested shape:
 
 When asked to save an article or add an article link:
 
-- Update `articles/index.md`.
-- Add it to a relevant file in `articles/by-topic/` when it fits an existing or useful theme.
-- Add it to the appropriate monthly log in `articles/reading-log/`, such as `2026-07.md`.
-- Create missing Markdown files or directories as needed.
-- Use the current local date unless the user gives a specific date.
+- Add it directly to a relevant Markdown file in the most logical folder.
+- Use `articles/by-topic/` for article collections that fit an existing or useful theme.
+- Create missing Markdown files or directories as needed, but do not maintain central indexes or monthly reading logs.
+- Use the current local date only when the note itself benefits from a read date.
 
 Article entries should use this format:
 

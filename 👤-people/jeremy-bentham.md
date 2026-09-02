@@ -71,7 +71,7 @@ This connects him to:
 
 - [Cesare Beccaria](cesare-beccaria.md), whose work strongly shaped utilitarian penal reform;
 - [Elizabeth Fry](elizabeth-fry.md), who confronted what institutional punishment did in daily practice;
-- the wider move [from spectacular punishment to modern criminal justice](../concepts/from-pikes-to-prison-reform.md).
+- the wider move [from spectacular punishment to modern criminal justice](../💡-concepts/from-pikes-to-prison-reform.md).
 
 ## 🧱 Contradictions and Limits
 

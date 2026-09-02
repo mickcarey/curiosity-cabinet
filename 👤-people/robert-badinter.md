@@ -60,7 +60,7 @@ Badinter defended people accused of horrific acts without pretending the acts we
 
 France’s last public execution occurred in 1939. Its final execution took place in 1977, out of public view. Badinter’s achievement in 1981 removed the guillotine from law rather than merely moving it behind a prison wall.
 
-This completes one arc in the broader story [from public bodily punishment to human-rights law](../concepts/from-pikes-to-prison-reform.md):
+This completes one arc in the broader story [from public bodily punishment to human-rights law](../💡-concepts/from-pikes-to-prison-reform.md):
 
 - spectacular execution becomes concealed execution;
 - concealed execution becomes politically contestable;

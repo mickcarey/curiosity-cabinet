@@ -267,4 +267,4 @@ It is, genuinely, unlike anything else.
 
 ---
 
-**See also**: [Pavel Durov — The Man Behind the Machine](../people/pavel-durov.md)
+**See also**: [Pavel Durov — The Man Behind the Machine](../👤-people/pavel-durov.md)

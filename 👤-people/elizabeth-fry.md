@@ -60,7 +60,7 @@ Fry gave evidence to a House of Commons committee in 1818—an unusual public ro
 
 Her campaigning contributed to a climate in which prisons were expected to provide classification, women’s supervision, instruction, and inspection. Not every proposal was adopted, and reforms often worked poorly. Still, she made prison conditions visible as a measure of society rather than merely a consequence for criminals.
 
-That is a crucial stage in the [long movement away from spectacular punishment](../concepts/from-pikes-to-prison-reform.md). Once punishment disappeared behind walls, somebody had to insist on looking behind the walls.
+That is a crucial stage in the [long movement away from spectacular punishment](../💡-concepts/from-pikes-to-prison-reform.md). Once punishment disappeared behind walls, somebody had to insist on looking behind the walls.
 
 ## 🎩 Strange But True
 

@@ -119,13 +119,6 @@ What counts as "success" varies wildly across cultures:
 - **Different definitions**: Success might mean happiness, community contribution, or spiritual development
 - **Multiple intelligences**: Musical, spatial, interpersonal - honor the kid you have, not the one in the parenting book
 
-## The Research Rabbit Holes Worth Exploring 🐰
-
-- **Anders Ericsson's deliberate practice research**: It's not about 10,000 hours - it's about the right kind of practice
-- **Carol Dweck's mindset work**: But the newer critiques too - it's more nuanced than just "growth mindset good"
-- **The ACEs studies**: Adverse childhood experiences matter, but resilience can be built
-- **The Danish "hygge" approach**: Maybe happiness IS success?
-
 ## The Bottom Line 💡
 
 Raising successful kids isn't about tiger parenting or helicopter hovering. It's about:

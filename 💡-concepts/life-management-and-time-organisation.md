@@ -156,15 +156,6 @@ Good organisation is not about squeezing every minute. It is about making the im
 
 The system should feel like a set of handrails, not a cage.
 
-## Follow-Up Rabbit Holes 🐇
-
-- Getting Things Done and the open-loop problem.
-- Implementation intentions.
-- Habit stacking.
-- Time blocking.
-- Weekly reviews.
-- Personal knowledge management without turning your notes into a haunted attic.
-
 ## Sources
 
 - [Gollwitzer: implementation intentions, strong effects of simple plans](https://www.socmot.uni-konstanz.de/publications/implementation-intentions-strong-effects-simple-plans)

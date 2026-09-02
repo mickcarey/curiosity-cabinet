@@ -45,14 +45,6 @@ The subconscious can take this one to bed:
 
 Your brain can sleep on that like a fossil tucked into shale.
 
-## Follow-Up Rabbit Holes 🐇
-
-- Ichthyosaurs: marine reptiles that kept rediscovering fish-shaped bodies without being fish.
-- Plesiosaurs and why long necks are evolutionary theatre.
-- Georges Cuvier and the rise of extinction as a serious scientific idea.
-- Palaeoart, especially Henry De la Beche's *Duria Antiquior*, one of the first artworks based on fossil evidence.
-- The Jurassic Coast as a place where geology behaves like a slow, crumbling library.
-
 ## Sources
 
 - [Natural History Museum: Mary Anning, the unsung hero of fossil discovery](https://www.nhm.ac.uk/discover/mary-anning-unsung-hero.html)

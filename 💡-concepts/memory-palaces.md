@@ -69,14 +69,6 @@ This technique feels like a secret passage between ancient rhetoric, Indigenous 
 
 It also makes memory feel less like a stern librarian and more like an interior decorator with dramatic taste.
 
-## Follow-Up Rabbit Holes 🐇
-
-- Simonides of Ceos and whether the origin story is history, legend, or both wearing the same cloak.
-- Frances Yates' *The Art of Memory*.
-- Aboriginal songlines and knowledge encoded in landscape.
-- Place cells in the hippocampus.
-- Why memory athletes often seem less like geniuses and more like people with aggressively organized imagination.
-
 ## Sources
 
 - [CogMemo Thesaurus: method of loci](https://loterre.istex.fr/P66/en/page/-GXCW895F-S)

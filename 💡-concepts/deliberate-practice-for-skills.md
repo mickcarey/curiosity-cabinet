@@ -139,14 +139,6 @@ Deliberate practice is humbling because it strips away the romance of "talent" a
 
 You do not need to become obsessed with mastery. You can just become better at choosing the next useful rep.
 
-## Follow-Up Rabbit Holes 🐇
-
-- Anders Ericsson and deliberate practice.
-- Contextual interference in motor learning.
-- Metronome work and tempo ladders.
-- Small-sided games in football coaching.
-- Video self-review: painful, efficient, emotionally crunchy.
-
 ## Sources
 
 - [Ericsson, Krampe, and Tesch-Romer: the role of deliberate practice in expert performance](https://doi.org/10.1037/0033-295X.100.3.363)

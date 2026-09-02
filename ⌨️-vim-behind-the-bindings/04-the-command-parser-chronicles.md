@@ -362,7 +362,7 @@ All while maintaining undo history!
 
 ## The Recursive Mapping Resolver 🌀
 
-### The Remap Rabbit Hole
+### Recursive Remaps
 
 When you define mappings that trigger other mappings:
 

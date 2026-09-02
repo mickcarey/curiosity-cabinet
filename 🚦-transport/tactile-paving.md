@@ -71,14 +71,6 @@ Tactile paving is a reminder that cities are full of hidden languages:
 
 The built world is always communicating. The question is who it was designed to include in the conversation.
 
-## Follow-Up Rabbit Holes 🐇
-
-- Universal design and the curb-cut effect.
-- Audible pedestrian signals.
-- Why accessibility improvements often help far more people than originally expected.
-- Japanese railway station design.
-- The difference between warning surfaces and guidance surfaces.
-
 ## Sources
 
 - [Okayama Prefecture: tactile paving was born in Okayama](https://www.pref.okayama.jp/page/950468.html)

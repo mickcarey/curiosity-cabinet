@@ -77,14 +77,6 @@ His deeper achievement was to change the burden of proof. The question was no lo
 
 None of these objections erases his contribution. They remind us that replacing cruelty requires more than changing the sentence; it requires examining the entire institution that produces it.
 
-## 🕳️ Follow-Up Rabbit Holes
-
-- Pietro Verri’s writings on torture.
-- The Leopoldine Code and Tuscany’s abolition of capital punishment.
-- Beccaria’s influence on American founders and early penal law.
-- Whether severity, certainty, or social conditions matter most in deterrence.
-- The presumption of innocence and the history of evidentiary rules.
-
 ## 📚 Sources and Further Reading
 
 - [Cambridge University Press — “Of torture”](https://www.cambridge.org/core/books/abs/beccaria-on-crimes-and-punishments-and-other-writings/of-torture/41ED74477646ED726FEBD0783F7C70EE)

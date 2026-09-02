@@ -115,16 +115,6 @@ That question did not finish history. It did, however, ruin the old show.
 - **1981:** France abolishes the death penalty after Badinter leads the government’s case.
 - **Now:** the argument continues, because civilisation is a maintenance project, not a trophy.
 
-## 🕳️ Follow-Up Rabbit Holes
-
-- Michel Foucault’s *Discipline and Punish*: did punishment become gentler, or merely quieter and more pervasive?
-- John Howard and the birth of systematic prison inspection.
-- The “Bloody Code,” under which 18th-century Britain made a startling range of offences capital.
-- Transportation to penal colonies: reform, exile, coerced labour, empire—or the full cursed playlist?
-- Restorative justice and whether repairing harm offers a different foundation from punishment.
-- Why certainty of punishment may deter more effectively than severity.
-- The history of wrongful convictions and the special horror of irreversible penalties.
-
 ## 📚 Sources and Further Reading
 
 - [London Museum — London’s public executions](https://www.londonmuseum.org.uk/collections/london-stories/londons-public-executions/)

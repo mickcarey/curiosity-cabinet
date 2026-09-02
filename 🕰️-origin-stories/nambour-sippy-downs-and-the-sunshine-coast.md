@@ -77,14 +77,6 @@ The Sunshine Coast itself is a name layered over older places. It is Country, th
 
 It looks sunny and relaxed from the outside. Underneath, it is a machine made of creeks, roads, sugar mills, land acts, tourism brochures, council votes, and people arguing over what to call the place.
 
-## Follow-Up Rabbit Holes 🕳️
-
-- The Moreton Central Sugar Mill and the cane tramways through Nambour.
-- The Bunya gatherings and First Nations trade networks of southeast Queensland.
-- David Low, Eddie De Vere, and the politics of Sunshine Coast promotion.
-- How Sippy Downs' drainage problems shaped later development.
-- The shift from Nambour as regional centre to Maroochydore as coastal commercial hub.
-
 ## Sources
 
 - [Sunshine Coast Council: First Nations early history](https://heritage.sunshinecoast.qld.gov.au/first-nations/early-history)

@@ -72,14 +72,6 @@ Pokies make random losses feel meaningful; sports betting makes priced risk feel
 
 That is the cabinet specimen. Different boxes, same lure: "You are not just gambling. You are reading the pattern."
 
-## Things To Notice Next Time
-
-- Does the venue or app make losing feel quiet and winning feel loud?
-- Are you betting because the match is interesting, or because the bet makes it interesting?
-- Did the "almost" result teach you anything real, or just make you want another try?
-- Are you counting net money, or counting emotionally satisfying moments?
-- Is the product selling entertainment, or selling the feeling that you are due?
-
 ## Sources
 
 - [Clark et al. 2009: Gambling near-misses enhance motivation to gamble and recruit win-related brain circuitry](https://www.sciencedirect.com/science/article/pii/S0896627309000373)

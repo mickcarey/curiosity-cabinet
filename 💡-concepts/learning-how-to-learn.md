@@ -114,14 +114,6 @@ Learning loves repetition, but it loves *informative* repetition most. Ten mindf
 - **Dunning-Kruger effect:** early fluency can inflate confidence before skill is actually stable.
 - **Sunk cost fallacy:** practice time does not count if the method is broken.
 
-## Follow-Up Rabbit Holes 🐇
-
-- Retrieval practice.
-- Deliberate practice.
-- Interleaving and contextual interference.
-- Sleep and memory consolidation.
-- Transfer of learning: the difference between "I can do it here" and "I can do it anywhere."
-
 ## Sources
 
 - [Dunlosky et al.: improving students' learning with effective learning techniques](https://pubmed.ncbi.nlm.nih.gov/26173288/)

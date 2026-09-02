@@ -73,14 +73,6 @@ Imagine a sleeping city with two circulatory systems:
 
 Every city has a second city hidden inside it. Pneumatic tubes just made that fact audible.
 
-## Follow-Up Rabbit Holes 🐇
-
-- Paris' pneumatic post, which lasted far longer than many other systems.
-- Hospital tube networks and how they avoid sending the wrong sample to the wrong floor.
-- Cash-carrying tubes in department stores.
-- Hyperloop as a grandchild of the same "what if tube?" impulse.
-- Other dead urban infrastructures: horse tunnels, mail railways, coal chutes, and speaking tubes.
-
 ## Sources
 
 - [National Postal Museum: Pneumatic Tube Mail](https://postalmuseum.si.edu/exhibition/customers-and-communities-serving-the-cities-city-free-delivery/pneumatic-tube-mail)

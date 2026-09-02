@@ -77,14 +77,6 @@ From Earth, all we see is the light stuttering.
 
 Somewhere between the star and us, the past keeps passing in front of the present.
 
-## Follow-Up Rabbit Holes 🐇
-
-- The Planet Hunters citizen science project.
-- Dyson spheres and why they are useful as thought experiments even when they are not the answer.
-- Exocomets and dusty debris disks.
-- Brown dwarfs: too big to be planets, too small to shine properly as stars.
-- Kepler light curves and how dips become detective stories.
-
 ## Sources
 
 - [NASA/JPL: mysterious dimming of Tabby's Star may be caused by dust](https://www.jpl.nasa.gov/news/mysterious-dimming-of-tabbys-star-may-be-caused-by-dust/)

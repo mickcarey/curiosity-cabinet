@@ -222,19 +222,6 @@ At its most frustrating, Adobe mistakes dependence for affection. Subscription l
 
 That tension is the present-day Adobe: a company born from the liberation of the printed page, now powerful enough to feel like part studio, part utility company, and part landlord. The founders taught printers to understand ideas. Their successors built a very profitable gate around the ideas, added excellent lighting, and are currently installing an AI fog machine.
 
-## 🕳️ Follow-Up Rabbit Holes
-
-- **John Warnock’s Camelot paper** and the path from PostScript to PDF.
-- **Charles Geschke’s leadership philosophy** and Adobe’s early culture.
-- **Marva Warnock** and the often-uncredited design work around famous founders.
-- **Paul Brainerd, Aldus, and PageMaker** as the human side of desktop publishing.
-- **Thomas and John Knoll** and Photoshop’s connection to Industrial Light & Magic.
-- **Russell Brown’s Photoshop demonstrations** as a study in technical storytelling.
-- **Jonathan Gay, FutureWave, and Flash** before Macromedia.
-- **Dylan Field and Evan Wallace** and why Figma changed design without copying Adobe’s model.
-- **Shantanu Narayen’s subscription pivot** as one of software’s defining business transformations.
-- **Content Credentials** and whether provenance can survive contact with the actual internet.
-
 ## 📚 Source Shelf
 
 - [Adobe founders](https://www.adobe.com/about-adobe/leaders/founders.html)

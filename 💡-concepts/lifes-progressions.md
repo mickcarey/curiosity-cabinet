@@ -221,14 +221,6 @@ The point is not to live perfectly. Perfect lives are usually fictional, edited,
 
 The point is to become easier to respect from your own deathbed.
 
-## Follow-Up Rabbit Holes 🐇
-
-- Ask three older people: "What did you worry about that turned out not to matter?"
-- Ask a parent or grandparent: "What do you understand now about family that you did not understand at my age?"
-- Write a one-page "future deathbed audit" of your current calendar.
-- Pick one neglected friendship and make contact without making it weirdly ceremonial.
-- Choose one skill you would be proud to still be practicing in 20 years.
-
 ## Sources
 
 - [Bronnie Ware: Regrets of the Dying](https://bronnieware.com/regrets-of-the-dying/)

@@ -233,10 +233,6 @@ WebGPU opens doors to experiences that were previously impossible on the web:
 
 The web is no longer just documents and forms – it's becoming a legitimate platform for high-performance computing and graphics. We're living in exciting times!
 
-## A Rabbit Hole to Explore 🐰
-
-Did you know that WebGPU's compute shaders can theoretically be used to implement a neural network entirely on the GPU? Imagine training a small AI model right in your browser tab while you browse Reddit in another. The future is weird and wonderful!
-
 ---
 
 *Remember: With great GPU power comes great responsibility. Use your newfound WebGPU knowledge wisely, and may your frame rates be high and your temperatures low!* 🌟

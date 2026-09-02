@@ -86,13 +86,6 @@ The RSL club is a very Australian institutional mash-up:
 
 It is not one thing. It is a century of social need, regulation, mateship, fundraising, and hospitality economics folded into one building.
 
-## Follow-Up Rabbit Holes 🕳️
-
-- How did soldier-settlement schemes work out for returning World War I veterans?
-- Why did some states separate RSL sub-branches from licensed clubs more sharply than Queensland?
-- How much local community funding from clubs comes from gambling revenue, and who bears the losses?
-- Why did sports betting become so visually welded to Australian sport after mobile apps arrived?
-
 ## Sources
 
 - [RSL Australia: About RSL Australia](https://www.rslaustralia.org/about-us/)

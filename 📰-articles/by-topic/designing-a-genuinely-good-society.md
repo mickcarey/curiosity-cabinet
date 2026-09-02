@@ -183,10 +183,10 @@ Less glamorous than utopia. Much more likely to work.
 
 ## Related Cabinet Notes 🔗
 
-- [The Beautiful Mess of Civilization](../../concepts/the-beautiful-mess-of-civilization.md)
-- [Jeremy Bentham](../../people/jeremy-bentham.md)
-- [Aristotle](../../people/aristotle.md)
-- [Dee Hock](../../people/dee-hock.md)
+- [The Beautiful Mess of Civilization](../../💡-concepts/the-beautiful-mess-of-civilization.md)
+- [Jeremy Bentham](../../👤-people/jeremy-bentham.md)
+- [Aristotle](../../👤-people/aristotle.md)
+- [Dee Hock](../../👤-people/dee-hock.md)
 
 ## Sources and Further Reading 📚
 

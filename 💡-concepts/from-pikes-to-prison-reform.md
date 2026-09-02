@@ -30,7 +30,7 @@ The exact methods varied by place, period, offence, and social rank. “The past
 
 ## 🩸 A Case Study in Rule by Terror
 
-[Vlad III of Wallachia](../people/vlad-iii-dracula.md) became inseparable from impalement because he used exemplary violence as political and military theatre. Accounts describe forests of stakes intended to punish enemies and terrify others into obedience.
+[Vlad III of Wallachia](../👤-people/vlad-iii-dracula.md) became inseparable from impalement because he used exemplary violence as political and military theatre. Accounts describe forests of stakes intended to punish enemies and terrify others into obedience.
 
 But Vlad also demonstrates a historian’s recurring nuisance: atrocity stories are useful propaganda. Hostile German pamphlets, Ottoman reports, later nationalism, and Dracula tourism all helped build the legend. The numbers in sensational accounts should not be swallowed whole like a pelican finding a calculator. The underlying brutality is well supported; its reported scale is contested.
 
@@ -52,13 +52,13 @@ This was not automatically more humane. Hidden cells can conceal abuse more effi
 
 Judicial torture was used partly to obtain confessions within legal systems that gave confession special evidentiary weight. The obvious bug—pain can make a person say whatever stops the pain—eventually became harder to ignore.
 
-[Cesare Beccaria](../people/cesare-beccaria.md) expressed the problem with devastating simplicity in 1764: if guilt is already certain, torture is unnecessary; if guilt is uncertain, the state may be torturing an innocent person. Either branch throws an error, you magnificent walnut.
+[Cesare Beccaria](../👤-people/cesare-beccaria.md) expressed the problem with devastating simplicity in 1764: if guilt is already certain, torture is unnecessary; if guilt is uncertain, the state may be torturing an innocent person. Either branch throws an error, you magnificent walnut.
 
 ### 📋 3. Punishment acquired a new job description
 
 Enlightenment reformers increasingly argued that punishment should prevent future harm rather than avenge past wrongdoing through maximum suffering.
 
-Beccaria emphasised clear laws, prompt and proportionate penalties, and prevention. [Jeremy Bentham](../people/jeremy-bentham.md) treated punishment itself as an evil that required justification by a greater social benefit.
+Beccaria emphasised clear laws, prompt and proportionate penalties, and prevention. [Jeremy Bentham](../👤-people/jeremy-bentham.md) treated punishment itself as an evil that required justification by a greater social benefit.
 
 This sounds recognisably modern, but it carried a new danger: if institutions claim to “reform” people, they may justify intrusive surveillance and control as being for everyone’s benefit. Bentham’s Panopticon is the mascot of that uncomfortable sequel.
 
@@ -66,7 +66,7 @@ This sounds recognisably modern, but it carried a new danger: if institutions cl
 
 When imprisonment replaced many bodily penalties, prisons became the punishment rather than merely the cupboard where accused people waited for trial.
 
-[Elizabeth Fry](../people/elizabeth-fry.md) entered Newgate Prison and made the conditions of imprisoned women and their children difficult for polite society to ignore. Her practical programme—women supervisors, education, useful work, classification, and inspection—helped turn prison treatment into a public question.
+[Elizabeth Fry](../👤-people/elizabeth-fry.md) entered Newgate Prison and made the conditions of imprisoned women and their children difficult for polite society to ignore. Her practical programme—women supervisors, education, useful work, classification, and inspection—helped turn prison treatment into a public question.
 
 Her work was humane and paternalistic at once. Reformers are rarely delivered in morally perfect packaging; history has never respected semantic versioning.
 
@@ -76,7 +76,7 @@ After the organised barbarity of the Second World War, the 1948 Universal Declar
 
 That sentence did not abolish torture by magic. International law is not Gandalf. It did, however, provide a common standard against which states could be judged.
 
-Later abolitionists converted principle into national law. [Robert Badinter](../people/robert-badinter.md), a lawyer who had watched France send one of his clients to the guillotine, led the successful parliamentary case for abolition of the French death penalty in 1981.
+Later abolitionists converted principle into national law. [Robert Badinter](../👤-people/robert-badinter.md), a lawyer who had watched France send one of his clients to the guillotine, led the successful parliamentary case for abolition of the French death penalty in 1981.
 
 ## 🧭 The Shape of the Change
 

@@ -36,5 +36,5 @@ Memory is less like pouring water into a bucket and more like making a trail thr
 
 ## Follow-Up Trails
 
-- [Curiosity Cabinet: Retrieval Practice And Spaced Repetition](../concepts/retrieval-practice-and-spaced-repetition.md)
-- [Curiosity Cabinet: Learning How To Learn](../concepts/learning-how-to-learn.md)
+- [Curiosity Cabinet: Retrieval Practice And Spaced Repetition](../💡-concepts/retrieval-practice-and-spaced-repetition.md)
+- [Curiosity Cabinet: Learning How To Learn](../💡-concepts/learning-how-to-learn.md)

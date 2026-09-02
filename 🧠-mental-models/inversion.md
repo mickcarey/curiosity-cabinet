@@ -23,6 +23,6 @@ It also fights wishful thinking. A goal can become a poster. A failure mode beco
 
 ## Cabinet Connections
 
-- [Occam's Razor](../concepts/occams-razor.md)
-- [Sunk Cost Fallacy In Tech](../psychology/sunk-cost-fallacy-in-tech.md)
-- [Cognitive Biases In Debugging](../psychology/cognitive-biases-in-debugging.md)
+- [Occam's Razor](../💡-concepts/occams-razor.md)
+- [Sunk Cost Fallacy In Tech](../🪞-psychology/sunk-cost-fallacy-in-tech.md)
+- [Cognitive Biases In Debugging](../🪞-psychology/cognitive-biases-in-debugging.md)

@@ -6,11 +6,11 @@ Some ideas are not glamorous, but they quietly make modern life possible. They a
 
 ## Existing Cabinet Stops
 
-- [Tactile Paving](../transport/tactile-paving.md): public space that speaks through feet.
-- [Driving Side Origins](../transport/driving-side-origins.md): coordination becomes safety.
-- [Pneumatic Tube Networks](../concepts/pneumatic-tube-networks.md): physical packets before digital packets.
-- [History Of Password Hashing](../concepts/history-of-password-hashing.md): society learned, painfully, not to store secrets as secrets.
-- [Air Traffic Control Australia](../aviation/air-traffic-control-australia.md): choreography for metal tubes in the sky.
+- [Tactile Paving](../🚦-transport/tactile-paving.md): public space that speaks through feet.
+- [Driving Side Origins](../🚦-transport/driving-side-origins.md): coordination becomes safety.
+- [Pneumatic Tube Networks](../💡-concepts/pneumatic-tube-networks.md): physical packets before digital packets.
+- [History Of Password Hashing](../💡-concepts/history-of-password-hashing.md): society learned, painfully, not to store secrets as secrets.
+- [Air Traffic Control Australia](../🛩️-aviation/air-traffic-control-australia.md): choreography for metal tubes in the sky.
 
 ## Pattern
 

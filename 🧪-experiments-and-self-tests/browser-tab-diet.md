@@ -26,5 +26,5 @@ Tabs pretend to be information management. Often they are actually emotional sto
 
 ## Follow-Up Trails
 
-- [Curiosity Cabinet: Life Management And Time Organisation](../concepts/life-management-and-time-organisation.md)
-- [Curiosity Cabinet: Sunk Cost Fallacy In Tech](../psychology/sunk-cost-fallacy-in-tech.md)
+- [Curiosity Cabinet: Life Management And Time Organisation](../💡-concepts/life-management-and-time-organisation.md)
+- [Curiosity Cabinet: Sunk Cost Fallacy In Tech](../🪞-psychology/sunk-cost-fallacy-in-tech.md)

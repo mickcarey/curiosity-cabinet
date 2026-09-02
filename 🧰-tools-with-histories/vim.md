@@ -25,4 +25,4 @@ Vim shows that a tool can be old, odd, and still extremely alive. Some interface
 ## Follow-Up Trails
 
 - [Vim: About](https://www.vim.org/about.php)
-- [Curiosity Cabinet: Vim Behind The Bindings](../vim-behind-the-bindings/README.md)
+- [Curiosity Cabinet: Vim Behind The Bindings](../⌨️-vim-behind-the-bindings/README.md)

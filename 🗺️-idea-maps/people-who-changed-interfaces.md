@@ -6,11 +6,11 @@ Some people change what computers can do. Others change what computers feel like
 
 ## Existing Cabinet Stops
 
-- [Douglas Engelbart](../people/others-to-research.md): mouse, demos, augmentation, the "computer as thinking partner" direction.
-- [Shigeru Miyamoto](../people/shigeru-miyamoto.md): playful interaction, readable worlds, teaching through level design.
-- [Evan You](../people/evan-you.md): Vue and the ergonomics of approachable frontend architecture.
-- [Brendan Eich](../people/brendan-eich.md): JavaScript, for better and worse, became the interface language of the web.
-- [Margaret Hamilton](../people/margaret-hamilton.md): software reliability before software had fully learned to wear a name badge.
+- [Douglas Engelbart](../👤-people/others-to-research.md): mouse, demos, augmentation, the "computer as thinking partner" direction.
+- [Shigeru Miyamoto](../👤-people/shigeru-miyamoto.md): playful interaction, readable worlds, teaching through level design.
+- [Evan You](../👤-people/evan-you.md): Vue and the ergonomics of approachable frontend architecture.
+- [Brendan Eich](../👤-people/brendan-eich.md): JavaScript, for better and worse, became the interface language of the web.
+- [Margaret Hamilton](../👤-people/margaret-hamilton.md): software reliability before software had fully learned to wear a name badge.
 
 ## Pattern
 

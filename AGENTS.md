@@ -49,7 +49,7 @@ When asked to add a new biography, profile, or person:
 - Name it with lowercase words separated by hyphens, such as `ada-lovelace.md`.
 - Include what makes the person fascinating, not just a timeline.
 - Add interesting facts, quirks, contradictions, signature ideas, notable work, and why they matter.
-- Where helpful, include rabbit holes or things to look up next.
+- Where helpful, weave rabbit holes inline as little "hmm, worth checking out" trails, not as an end-of-note question list.
 
 Suggested shape:
 
@@ -63,8 +63,6 @@ Suggested shape:
 ## Signature Ideas
 
 ## Strange But True
-
-## Follow-Up Rabbit Holes
 ```
 
 ### 🌐 Website Analyses
@@ -75,6 +73,7 @@ When asked to analyse a website or add a website analysis:
 - Name it after the domain or site name, such as `wonjyou-studio.md`.
 - Include design observations, unique features, content strategy, interaction details, engineering clues, and what makes the site notable.
 - Separate observation from inference. If something is a guess, say so.
+- If there are rabbit holes, tuck them into the relevant observation instead of collecting them as final questions.
 
 Suggested shape:
 
@@ -92,8 +91,6 @@ Suggested shape:
 ## Engineering Clues
 
 ## Why It Is Interesting
-
-## Follow-Up Rabbit Holes
 ```
 
 ### 📚 Article Collection

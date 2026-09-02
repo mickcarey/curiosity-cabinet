@@ -124,7 +124,7 @@ Go vegetarian or vegan. Align actions with values completely. Dissonance resolve
 ### The Acceptors 🤷
 Acknowledge the paradox and live with it. "Yes, it's ethically complicated. Yes, I still eat meat. I contain multitudes." Perhaps the most honest position, if the least comfortable.
 
-## The Research Rabbit Hole 🐰
+## Research Patterns 🧠
 
 Studies on the meat paradox have found some fascinating patterns:
 

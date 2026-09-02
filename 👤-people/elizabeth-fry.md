@@ -78,14 +78,6 @@ Fry’s most durable question is not whether a person deserved a sentence. It is
 
 That question applies to prisons, immigration detention, youth justice, psychiatric institutions, police custody, and anywhere else suffering can become invisible through a locked door and a laminated procedure.
 
-## 🕳️ Follow-Up Rabbit Holes
-
-- John Howard and early prison inspection.
-- Women and children in Newgate Prison.
-- Quaker influence on prison reform—and the unintended harms of solitary penitentiaries.
-- Convict transportation and Fry’s visits to prison ships.
-- Modern abolitionist critiques of “reforming” prisons.
-
 ## 📚 Sources and Further Reading
 
 - [London Museum — Elizabeth Fry: pioneering prison reformer](https://www.londonmuseum.org.uk/collections/london-stories/elizabeth-fry/)

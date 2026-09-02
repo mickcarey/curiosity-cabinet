@@ -119,14 +119,6 @@ For any topic or skill:
 
 The goal is not to remember everything forever. The goal is to build enough hooks that the important stuff has somewhere to cling.
 
-## Follow-Up Rabbit Holes 🐇
-
-- Flashcards that test ideas, not just definitions.
-- Anki and spaced repetition systems.
-- The testing effect.
-- Desirable difficulties.
-- Why confidence after rereading is sometimes a very handsome liar.
-
 ## Sources
 
 - [Roediger and Karpicke: test-enhanced learning](https://www.psychologicalscience.org/journals/psychological-science/j.1467-9280.2006.01693.x/)

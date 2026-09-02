@@ -76,15 +76,6 @@ The state can degrade people without killing them. Overcrowding, isolation, inde
 
 Badinter removed one irreversible cruelty. The rest of the work did not politely evaporate in a puff of republican smoke.
 
-## 🕳️ Follow-Up Rabbit Holes
-
-- The trials of Roger Bontems and Patrick Henry.
-- Badinter’s 17 September 1981 abolition speech.
-- Victor Hugo’s campaigns against capital punishment.
-- France’s last public execution in 1939 and last execution in 1977.
-- Protocols 6 and 13 to the European Convention on Human Rights.
-- Why abolition sometimes precedes a change in majority opinion.
-
 ## 📚 Sources and Further Reading
 
 - [Élysée — Robert Badinter biography and abolition campaign](https://www.elysee.fr/emmanuel-macron/2024/02/09/disparition-de-robert-badinter)

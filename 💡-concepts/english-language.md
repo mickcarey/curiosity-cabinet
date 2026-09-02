@@ -88,13 +88,6 @@ Will English maintain its dominance? Maybe. Maybe not. Chinese (Mandarin) is the
 
 But for now, English remains the closest thing humanity has to a universal language—a linguistic patchwork quilt stitched together by invasions, empires, and the chaotic flow of history.
 
-## Further Rabbit Holes 🐰
-
-- **Pidgins and Creoles**: English has spawned dozens of hybrid languages around the world, from Tok Pisin in Papua New Guinea to Jamaican Patois.
-- **The Great Vowel Shift**: One of linguistics' enduring mysteries—why did English pronunciation change so dramatically?
-- **Global English variants**: How different are Nigerian English and Indian English from each other? Are they still the same language?
-- **The future of English**: Will artificial intelligence translation make global languages obsolete? Or will it cement English further as the language of tech?
-
 ---
 
 *Language is a living thing—it evolves, adapts, conquers, and gets conquered in turn. English just happened to be in the right place at the right time... several times in a row.* 🌏✨

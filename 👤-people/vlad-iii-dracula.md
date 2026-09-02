@@ -73,14 +73,6 @@ The reformers in this collection attacked different joints in that machinery:
 - [Elizabeth Fry](elizabeth-fry.md) insisted that prisoners remained people.
 - [Robert Badinter](robert-badinter.md) helped remove the guillotine from French law.
 
-## 🕳️ Follow-Up Rabbit Holes
-
-- Mehmed II and the 1462 campaign in Wallachia.
-- How Ottoman, Slavic, German, and Romanian sources construct different Vlads.
-- The printing press as an accelerant for atrocity stories.
-- The difference between terror as battlefield strategy and terror as domestic government.
-- How Bram Stoker found and transformed the name “Dracula.”
-
 ## 📚 Sources and Further Reading
 
 - [UCL Discovery — discussion of contemporary imagery and impalement in Vlad’s region](https://discovery.ucl.ac.uk/1322691/1/1322691_Volume_1.pdf)

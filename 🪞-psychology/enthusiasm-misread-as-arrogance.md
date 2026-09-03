@@ -1,4 +1,4 @@
-# When Enthusiasm Gets Misread as Arrogance 🎭✨
+# When Enthusiasm Lands Differently Than We Mean 🎭✨
 
 ## The Curious Case of the Wrong Subtitle
 

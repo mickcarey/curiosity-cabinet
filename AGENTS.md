@@ -10,7 +10,7 @@ This is not an application repo. No app to compile. No service to deploy. No tin
 
 ### 📝 File Creation
 
-- Only create or edit Markdown (`.md`) files.
+- Only create or edit Markdown (`.md`) files, except for encrypted locked-note ciphertext (`.age`), which may be stored but must never be edited as readable prose.
 - Do not add code files, config files, package files, generated assets, scripts, or build tooling.
 - Keep changes focused on writing, structure, links, sources, and knowledge organization.
 - Preserve existing user-authored content unless the user explicitly asks for removal.
@@ -110,6 +110,18 @@ Article entries should use this format:
 
 Quick note about why this caught attention, the key insight, or what it connects to.
 ```
+
+### 🔐 Locked Notes
+
+Some curiosities are worth keeping here without publishing their mechanics. This includes things such as how magic tricks are performed: harmless learning, kept private so the audience can still enjoy the mystery. Locked notes are not for malicious or illegal material.
+
+- Encrypt the complete note with a standard tool such as [`age`](https://age-encryption.org/), using the public key. Keep the matching private key in a secure external storage facility, never in the repository.
+- Store only the encrypted file, using a meaningless lowercase filename such as `note-7f3a.age`. Do not put the title, subject, names, tags, or clues in the filename, commit message, or surrounding text.
+- Put the real title and readable Markdown inside the encrypted file. The `.age` file is expected to look like random text and is not meant to render as a normal article.
+- To lock a note: `age -a -r AGE_PUBLIC_KEY < readable-note.md > note-7f3a.age`
+- To unlock a note, temporarily retrieve the private key from the secure external storage facility: `age -d -i age-key.txt note-7f3a.age > readable-note.md`. Remove the local key and plaintext when finished.
+- Encryption hides the contents, not repository metadata. Git history, filenames, dates, file sizes, and accidental plaintext copies can still reveal information.
+- Never lose the private key. Without it, the locked note cannot be recovered.
 
 ## 🔎 Research And Sources
 

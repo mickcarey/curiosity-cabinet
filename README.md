@@ -19,6 +19,12 @@ No map needed – just wander! Pick a folder, follow a link, get lost. The best 
 
 The emoji folder names deliberately scramble neat alphabetical order a little. That is part of the charm: this cabinet is built for curious wandering, not speed-running your way to a perfectly filtered filing system. Let the shelves wink at you first; the exact destination can make itself known second.
 
+## 🔐 Locked Notes
+
+Some things are more fun when the audience does not know the mechanics. The cabinet may contain encrypted notes about harmless curiosities such as how magic tricks work and are performed. They are simply things I want to learn and keep conveniently accessible in a public place, not anything malicious or illegal.
+
+These notes appear as random-looking `.age` files. The contents are encrypted with a public key; the matching private key lives in Bitwarden. Only the encrypted text is kept here, with opaque filenames so the cabinet does not give away the subject. The private key is never committed to the repository.
+
 ---
 
 *"The cure for boredom is curiosity. There is no cure for curiosity."* – Dorothy Parker

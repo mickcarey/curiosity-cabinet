@@ -28,7 +28,7 @@ This is a climb, not a prison.
 - Jump to Arc 8 if the ocean has been quietly doing most of Earth's living.
 - Jump to Arc 9 if you want the alien question without the UFO gift shop.
 
-Chapters land in arcs. Until a chapter exists, it lives here as a description, not a dead link. That is not laziness. That is refusing to put a door on a room we have not built.
+Chapters land in arcs. Finished ones get links. Until a chapter exists, it lives here as a description, not a dead link. That is not laziness. That is refusing to put a door on a room we have not built.
 
 Two field companions sit next door, on purpose:
 
@@ -54,10 +54,10 @@ If a paragraph could be swapped for a first-year lecture transcript, it has fail
 
 ### Arc 1 — What counts as alive
 
-**01. What even is life?**
+**[01. What even is life?](01-what-even-is-life.md)**
 The definition problem. Schrödinger trying to get order out of disorder, cells as self-making loops, NASA's working definition, and why fire, crystals, rivers, viruses, prions, and a well-trained model all sit on the fence looking innocent. You cannot hunt for a thing you cannot point at. Astrobiology lives in that embarrassment. Mystery: we still do not have a definition everyone will sign.
 
-**02. The atoms life bothered with**
+**[02. The atoms life bothered with](02-the-atoms-life-bothered-with.md)**
 CHNOPS, water as the stage, carbon's four-bond personality, why silicon life is a pub theory that keeps failing the chemistry. Trace metals as enzyme jewellery. Earth's Goldilocks kit. A short tease of alternative solvents — ammonia, methane, the spicy stuff — so later planet chapters have somewhere to land. Mystery: why *these* twenty amino acids, why *this* code.
 
 ### Arc 2 — Information

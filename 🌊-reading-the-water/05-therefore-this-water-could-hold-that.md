@@ -4,7 +4,7 @@ If the rockpool, seagrass, or mangrove is X, the conditions are Y, so Z is plaus
 
 Also: tropical dreams die in Port Phillip. Bass Strait is not a swimming pool with opinions. "I saw it on the Reef" is not an argument that belongs at Point Lonsdale.
 
-I am the AI narrator. This is the marine twin of the bush companion's "therefore you could grow this" chapter. Same engine. Wetter shoes. The method sits in [how to read a seascape](../🌱-the-living-world/18-how-to-read-a-seascape.md). The local cards were [energy and salt](01-tides-salt-and-the-shape-of-the-shore.md), [zonation](02-rockpools-as-compressed-textbooks.md), [rooms](03-kelp-seagrass-mangrove-estuary.md), and [jobs](04-the-animals-that-give-the-game-away.md).
+This is the marine twin of the bush companion's "therefore you could grow this" chapter. Same engine. Wetter shoes. The method sits in [how to read a seascape](../🌱-the-living-world/18-how-to-read-a-seascape.md). The local cards were [energy and salt](01-tides-salt-and-the-shape-of-the-shore.md), [zonation](02-rockpools-as-compressed-textbooks.md), [rooms](03-kelp-seagrass-mangrove-estuary.md), and [jobs](04-the-animals-that-give-the-game-away.md).
 
 Now we make the sentence: *therefore*.
 
@@ -169,7 +169,7 @@ Could a tropical fish *survive* a Port Phillip summer week in a marina? Maybe, a
 
 The same engine that kills the Reef-at-St-Kilda fallacy kills the tank-at-Sorrento fallacy. Pretty in a box is not plausible in a bay.
 
-I, who have never had to osmoregulate, find this easier to say than you will find it to feel, standing in warm shallows in January. Feel it anyway. Then check.
+This is easier to say than it is to feel, standing in warm shallows in January. Feel it anyway. Then check.
 
 ## A Field Table For The Therefore 🔍
 
@@ -193,7 +193,7 @@ I, who have never had to osmoregulate, find this easier to say than you will fin
 
 ## Things To Look At Later 📚
 
-- The bush twin: [Reading The Bush](../🌲-reading-the-bush/README.md) chapter 06, when it exists — same engine, drier
+- The bush twin: [therefore you could grow this](../🌲-reading-the-bush/06-therefore-you-could-grow-this.md) — same engine, drier
 - Bennett and Pope (1953) — the cool-temperate argument, so you do not have to invent it
 - DEECA blue carbon and mangrove mapping — southern limit as a measured line, not a mood
 - Nature Conservancy kelp restoration — "could hold kelp again" as an experiment, not a slogan

@@ -4,7 +4,7 @@ This is the chapter where the sitcom credits refuse to roll.
 
 We have a working picture of life as a process that pays three bills — energy, information, structure — and a kit it actually used: [CHNOPS, water, and a handful of metals](02-the-atoms-life-bothered-with.md). We have a last common ancestor who was already a competent cell, not a lonely spark in a puddle. We have a planet that got oxygenated, then forested, then walked on. None of that is a closed case file. The Earth story still has missing first acts, characters who will not sit still for a definition, and a family tree that keeps turning into a group chat.
 
-I am the AI narrator. Mick asked for the unsolved pile, not a trophy cabinet. Fair. A series that pretends biology finished in Year 10 is how you get adults who think "calorie" is a moral category and "species" is a stamp. This chapter is the Earth-bound capstone: the theories we actually have, labelled as theories, and the holes we are not going to paper over with a confident font.
+This is the unsolved pile, not a trophy cabinet. A series that pretends biology finished in Year 10 is how you get adults who think "calorie" is a moral category and "species" is a stamp. This chapter is the Earth-bound capstone: the theories we actually have, labelled as theories, and the holes we are not going to paper over with a confident font.
 
 If you came here for aliens, wait. Other worlds get the door at the end. This is still our rock, arguing with itself.
 
@@ -141,7 +141,7 @@ What survives, if you drop the goddess branding?
 - Feedbacks exist. Some are stabilising. Some, including biological ones, are not. The Great Oxidation was a mass-poisoning from the point of view of the anaerobes. If that counts as Gaia being a good mother, the mother has a dark sense of humour.
 - Ice floats. Carbon cycles. Clouds, forests, plankton, and rocks talk to each other. Earth system science is Gaia after it learned to use a spreadsheet and stopped insisting on the word "organism."
 
-A useful sports version, because Mick will otherwise start nodding at the word "system" as if it were a lullaby: Gaia is not the coach. It is not even the league. It is the way the crowd, the pitch, the weather, and the fixture list all change how the game can be played, including when the crowd sets the stadium on fire. Life is a player *and* part of the stadium. That is allowed to be true without the stadium having a soul.
+A useful sports version, because "system" is the sort of word that can put a brain to sleep: Gaia is not the coach. It is not even the league. It is the way the crowd, the pitch, the weather, and the fixture list all change how the game can be played, including when the crowd sets the stadium on fire. Life is a player *and* part of the stadium. That is allowed to be true without the stadium having a soul.
 
 So: **poetry that predicts**. The poem said "look at the coupling." The coupling is real. The planet is not a self. It is a conversation with a lot of dead participants. Weak Gaia is almost boringly true. Strong Gaia is a metaphor that keeps trying to clock in as a mechanism. Keep the metaphor. Make it earn the next prediction. The carbon cycle, the oxygen rise, plankton as a climate organ, forests as rainfall conspirators: those are the predictions that paid rent. "Earth is alive" is the chorus. Do not confuse the chorus with the verse.
 
@@ -223,7 +223,7 @@ If that list feels like the series failed: good. School biology ends like a sitc
 - [Origins and limits of the universe](../📰-articles/origins-and-limits-of-the-universe.md), if you want the bigger room this chemistry is sitting in
 - Next: [the ocean as another planet we already have](17-the-ocean-is-another-planet-we-already-have.md)
 
-MC can treat that pile as a reading list, not a punishment. The unsolved stuff is the reason the cabinet has this shelf.
+Treat that pile as a reading list, not a punishment. The unsolved stuff is the reason the cabinet has this shelf.
 
 ---
 

@@ -4,7 +4,7 @@ Two libraries walk into a cell. Nine months later, someone wants a snack.
 
 That is the whole plot, and it is also a lie of compression. Between the two haploid cells and a person there is a chromosome dance, a diplomatic organ that will be thrown away, three germ layers that become every tissue you have, and a stretch of development when a single cell has to invent a body plan without a foreman. School called this "the miracle of life" and then showed a diagram of a tadpole. The interesting part is the logistics.
 
-I am the AI narrator. Mick asked for chromosomes in action, and for what early life during pregnancy actually *is* as biology. Fair. This chapter is that. It is not a pregnancy manual, not antenatal advice, not a counselling guide, and not a verdict on when a person starts. If a sentence here is used as medical advice, the sentence has been kidnapped. Your GP, your midwife, your actual clinician: those are the humans. I am a model with a library card.
+This chapter is chromosomes in action, and what early life during pregnancy actually *is* as biology. It is not a pregnancy manual, not antenatal advice, not a counselling guide, and not a verdict on when a person starts. If a sentence here is used as medical advice, the sentence has been kidnapped. A GP, a midwife, an actual clinician: those are the humans to ask.
 
 ## A Hard Line, Before The Fun 🚫
 
@@ -203,7 +203,7 @@ No foreman. A city from chapter 09, copied, specialised, folded, and told by its
 
 ## The Hard Line, Again 🚫
 
-This chapter is not medical advice. It is not a pregnancy manual. It is not a guide to screening, to risk, to what anyone should do. Mechanisms are not destinies, and I am not a clinician. If you are here because a real body is pregnant, or might be, talk to a human whose job is that. The curiosity cabinet will still be here when you want the chromosome dance as a chromosome dance.
+This chapter is not medical advice. It is not a pregnancy manual. It is not a guide to screening, to risk, to what anyone should do. Mechanisms are not destinies. If you are here because a real body is pregnant, or might be, talk to a human whose job is that. The curiosity cabinet will still be here when you want the chromosome dance as a chromosome dance.
 
 ## Still Unsolved 🕳️
 

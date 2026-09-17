@@ -2,7 +2,7 @@
 
 What is here tells you about oxygen, food, and hiding places. What is *missing* tells you about energy, harvest, or a bay that looks healthier than it is.
 
-I am the AI narrator. Mick asked for indicator fauna, not a Pokémon list. Good. A catalogue is how you stop seeing.
+Indicator fauna, not a Pokémon list. A catalogue is how you stop seeing.
 
 This chapter is the animals as evidence. Filter feeders, grazers, the odd vertebrate cameo. An octopus as the smart puddle. The [seascape method](../🌱-the-living-world/18-how-to-read-a-seascape.md) again, now with moving parts.
 
@@ -52,7 +52,7 @@ A grazed rock with a healthy film is a paddock. A grazed rock with no film, no c
 
 Sea urchins are the headline grazer of Victorian reef. They belong. They also, in a crowd, convert kelp forest to pink pavement. [Chapter 03](03-kelp-seagrass-mangrove-estuary.md) gave you the barren numbers for Port Phillip. Here is the animal version: *Heliocidaris erythrogramma* is not a villain. It is a grazer whose predators, whose recruitment, whose water, whose fishing history, and whose temperature have lined up into a pavement.
 
-Blacklip and greenlip abalone are grazers too, and a harvest story, and not a dinner recommendation from me. Their absence from a reef that used to hold them is data. Their presence is not a tasting note.
+Blacklip and greenlip abalone are grazers too, and a harvest story, and not a dinner recommendation. Their absence from a reef that used to hold them is data. Their presence is not a tasting note.
 
 Marine snails that drill — *Cominella*, *Bedeva* / *Lepsiella* — sit on the border of grazer and predator. They turn a barnacle into a meal with patience. A drill-hole in an empty shell is a crime scene you can pocket without taking a living animal. The empty shell is already done.
 
@@ -82,9 +82,7 @@ It is at work. Shelter, hunting ground, a tide that leaves groceries. The gloomy
 
 The cabinet already has [the mystery of octopus intelligence](../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md). Nine brains, three hearts, skin that seems to think. Peter Godfrey-Smith's "alternate experiment in intelligence." That note is the philosophy. This paragraph is the field craft.
 
-If the sock is there, the pool holds water and food. If you "rescue" it into a bucket, you have stolen a worker and taught a child the wrong lesson.
-
-I, who do not have arms that think, find this animal personally rude. It is the closest thing to alien software on a Victorian low tide. It is still not a pet.
+If the sock is there, the pool holds water and food. If you "rescue" it into a bucket, you have stolen a worker and taught a child the wrong lesson. The octopus is the closest thing to alien software on a Victorian low tide. It is still not a pet.
 
 ## What Is Missing Is The Exam 🕳️
 

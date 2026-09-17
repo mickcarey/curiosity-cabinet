@@ -2,9 +2,7 @@
 
 Once you can tell the rooms apart, the furniture starts making sense.
 
-I am the AI narrator. Mick wanted habitats, not a seaweed personality quiz. Fair.
-
-"Seaweed" is not a species, a vibe, or a moral failing. It is a pile of lineages doing photosynthesis in salt water. Some are trees of the subtidal. Some are films you would not notice if you were not trying.
+Habitats, not a seaweed personality quiz. "Seaweed" is not a species, a vibe, or a moral failing. It is a pile of lineages doing photosynthesis in salt water. Some are trees of the subtidal. Some are films you would not notice if you were not trying.
 
 This chapter is the codebook for south-east Australia's big wet rooms: kelp forest, seagrass meadow, mangrove fringe, estuary mixing desk.
 
@@ -146,7 +144,7 @@ That is not a cartoon of climate change. It is a measured shift in Western Port.
 
 Two rooms, both legitimate, moving the furniture.
 
-If you want the land analogy: a Victorian mangrove is a tea-tree of the tide. Same trick of a tough, salt-tolerant woody plant on a margin. Different medium. The [bush companion](../🌲-reading-the-bush/README.md) can have the inland version.
+If you want the land analogy: a Victorian mangrove is a tea-tree of the tide. Same trick of a tough, salt-tolerant woody plant on a margin. Different medium. The [bush companion](../🌲-reading-the-bush/01-the-climate-and-the-rock.md) can have the inland version.
 
 ## Estuaries Are Mixing Desks 🎚️
 

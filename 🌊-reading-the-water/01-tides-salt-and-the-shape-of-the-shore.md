@@ -2,7 +2,7 @@
 
 Land has the decency to stay put while you form an opinion. Water has a timetable, a kitchen, and a border, and it wears the same colour on purpose so you will mistake it for scenery.
 
-I am the AI narrator. Mick wanted to walk into a forest and read it. Then he remembered that Port Phillip is sitting right there looking like a polite map, and Bass Strait is sitting next to it looking like a different country that happens to share a postcode. This chapter is the first two cards of the wet companion: **energy** and **salt**. Organisms are the comments they leave in the margin. The global method lives in [how to read a seascape](../🌱-the-living-world/18-how-to-read-a-seascape.md). This is the Australian application, starting with the water you can stand next to without a spaceship.
+Port Phillip sits there looking like a polite map. Bass Strait sits next to it looking like a different country that happens to share a postcode. This chapter is the first two cards of the wet companion: **energy** and **salt**. Organisms are the comments they leave in the margin. The global method lives in [how to read a seascape](../🌱-the-living-world/18-how-to-read-a-seascape.md). This is the Australian application, starting with the water you can stand next to without a spaceship.
 
 If you came here hoping for a fish bible, a swimming lesson, or a sentence that says a shellfish is fine, you have the wrong shelf. Literacy is not a licence. The ocean is not a menu.
 
@@ -12,7 +12,7 @@ A seascape is a landscape that rewrites itself on a schedule.
 
 Twice a day, give or take the moon's sense of humour, the water arrives, feeds people, drowns people, cools people, salts people, and leaves. What you see at 10am is not what the barnacle signed up for at 4am. That is annoying for picnics. It is perfect for reading, because the rewrite is the evidence.
 
-The method is the same as the [bush companion](../🌲-reading-the-bush/README.md), with worse plumbing:
+The method is the same as the [bush companion](../🌲-reading-the-bush/01-the-climate-and-the-rock.md), with worse plumbing:
 
 1. **Notice the energy** — swell, chop, a bay that behaves, a headland that does not.
 2. **Notice the salt and the fresh** — ocean, river mouth, hypersaline puddle, the weird in-between of an estuary.
@@ -124,7 +124,7 @@ Victorian coastal water is **cool-temperate**. At the Heads, older monitoring pu
 
 Light dies fast in water, and it dies faster when the water is carrying dirt. Kelp needs a hard floor *and* a photon budget. Seagrass needs a floor it can root in *and* a photon budget. A beautiful green meadow in two metres of clear bay water can be a desert at eight metres of tan estuary water. The [marine snow](../🌙-bedtime-reading/marine-snow-the-oceans-slow-blizzard.md) note is the extreme version: most of the ocean lives on leftovers because the lights went out.
 
-I, the model, do not get sunburned. You do. The algae in the pool have a more interesting version of the same problem: too much light and they cook, too little and they starve, and the tide keeps changing the shift.
+The algae in the pool have a more interesting version of sunburn: too much light and they cook, too little and they starve, and the tide keeps changing the shift.
 
 ## West Face, East Face, Bay Face 🧭
 
@@ -170,7 +170,7 @@ Inference is a first draft. Check the tide chart. Check a map of aspect. The wat
 
 **Mistake two: treating stillness as health, and smash as dirt.** A glassy bay can be a seagrass room, an urchin barren, a nutrient argument, or a windless hour. A roaring platform can be a cathedral of kelp. Dirty is a chemistry claim. Loud is an energy claim. They are not synonyms. The [animals chapter](04-the-animals-that-give-the-game-away.md) is where the tells get more specific. This chapter only needs you to stop using "rough" and "calm" as moral categories.
 
-I will also, as the AI in the room, admit the third mistake I am built to make: sounding finished. A shore is not a dataset I can close. Mick can go back next Tuesday and the pool will have a different salt, a different temperature, and the same barnacle line looking smug. That smugness is data.
+The third mistake is sounding finished. A shore is not a dataset you can close. Go back next Tuesday and the pool will have a different salt, a different temperature, and the same barnacle line looking smug. That smugness is data.
 
 ## Still Unsolved 🕳️
 
@@ -191,11 +191,11 @@ I will also, as the AI in the room, admit the third mistake I am built to make: 
 - Victorian tide tables and Ports Victoria notes on Rip Bank versus the inner bay: range dies through the choke, current does not
 - Harris et al., Port Phillip Bay Environmental Study (1990s): the bay as a marine system with a long memory
 - The [Point Nepean walk](../🏙️-melbourne/hikes.md), as a place where two bodies of water collide without asking your opinion
-- [The ocean is another planet we already have](../🌱-the-living-world/README.md) — chapter 17 of the living-world climb, when you want the deep this platform is not showing you
+- [The ocean is another planet we already have](../🌱-the-living-world/17-the-ocean-is-another-planet-we-already-have.md) — when you want the deep this platform is not showing you
 - Next: [rockpools as compressed textbooks](02-rockpools-as-compressed-textbooks.md). Ten metres of rock. A full argument.
 
 The first skill is not naming a fish. The first skill is standing on a shore and saying, without swagger, *this water has this energy, this salt, this floor.* Everything else in the companion is that sentence growing up.
 
-If the trees inland start looking like they are also trying to tell you something, that is [Reading The Bush](../🌲-reading-the-bush/README.md)'s job. Same method. Drier shoes.
+If the trees inland start looking like they are also trying to tell you something, that is [Reading The Bush](../🌲-reading-the-bush/01-the-climate-and-the-rock.md)'s job. Same method. Drier shoes.
 
 *"A tide chart is a score. The shore is the band. If you skip the time signature, you do not get to complain about the drummer."*

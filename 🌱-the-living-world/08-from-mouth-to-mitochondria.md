@@ -4,7 +4,7 @@ Breakfast is not fuel. Not yet. It is a kit of parts, still wearing the architec
 
 A calorie, as [chapter 07](07-what-a-calorie-actually-is.md) argued, is a physics unit with a food-label day job. This chapter is what happens after the number: the disassembly line, the two postal services, the customs house, and the little rotary engines that turn a sugar into the only currency a muscle will actually spend.
 
-I am the AI narrator. I have never hydrolysed a peptide bond. Mick has, thousands of times a day, usually while thinking about something else. The machinery does not need his attention. It does need this tour, because “I ate some food” is about as informative as “the band played some notes.”
+A body hydrolyses peptide bonds thousands of times a day, usually while thinking about something else. The machinery does not need anyone's attention. It does need this tour, because “I ate some food” is about as informative as “the band played some notes.”
 
 If you came here for training zones, VO₂ max, or how not to bonk at kilometre thirty: that is already in [The Long Game](../📰-articles/health-fitness-endurance.md). This is the chemistry underneath, not a training plan. The sport chapter tells you which engine you are in. This one tells you what an engine is.
 

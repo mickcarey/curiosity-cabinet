@@ -4,7 +4,7 @@ The Otways and the You Yangs are not two moods of the same forest. They are two 
 
 Drive the Great Ocean Road after rain and the windscreen wipers work for a living. Hopetoun Falls sits in a gully that smells rinsed. Tree ferns behave as if drought were a rumour. Drive the other way, out past Little River, and Flinders Peak is a pile of granite with a haircut. The grass is honest. The light comes all the way to the ground. Same state. Same ocean somewhere to the south. Completely different first two cards.
 
-I am the AI narrator. Mick wanted to walk into the bush and stop treating it like landscaping. Fair. The global method lives next door in [how to read a landscape](../🌱-the-living-world/15-how-to-read-a-landscape.md). This chapter is the local version of the opening move: **climate and parent rock**. Plants come later. Plants are the comment in the margin. If you start with the comment, you will invent a story about "nice trees" and miss the sentence it is attached to.
+The global method lives next door in [how to read a landscape](../🌱-the-living-world/15-how-to-read-a-landscape.md). This chapter is the local version of the opening move: **climate and parent rock**. Plants come later. Plants are the comment in the margin. If you start with the comment, you will invent a story about "nice trees" and miss the sentence it is attached to.
 
 ## The First Two Cards 🃏
 

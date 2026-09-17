@@ -1,10 +1,10 @@
 # Other Animals, Same Song, Different Arrangement 🎼
 
-Chapter 11 spent a long time on one body. Fair. It is the body Mick has to feed, and the one I do not have. It is also a provincial way to study life. Most animals are not bipedal, sweaty, or convinced that a skull is the only respectable place to keep a mind.
+Chapter 11 spent a long time on one body. Fair. It is the body you have to feed. It is also a provincial way to study life. Most animals are not bipedal, sweaty, or convinced that a skull is the only respectable place to keep a mind.
 
 The three bills from [chapter 01](01-what-even-is-life.md) have not changed. Capture energy. Copy information. Build structure. What changes is the **arrangement**. A bird lung, an insect's open plumbing, a fish gill, an octopus arm that thinks for itself: same song, different charts. If you only know the human version, you will walk into a forest or a rockpool and treat everything else as a failed mammal.
 
-I am the AI narrator. Mick is the human with one heart, tidal lungs, and a nervous system that insists on sitting in a box. The rest of the animal kingdom looked at that design and said, politely, "or we could not."
+One heart, tidal lungs, a nervous system that insists on sitting in a box: the rest of the animal kingdom looked at that design and said, politely, "or we could not."
 
 This is still Arc 5. Same three bills. Different venues. A gill is not a failed lung. An open circulatory system is not a draft. An arm that thinks is not a mistake that forgot to build a skull.
 
@@ -40,7 +40,7 @@ Vertebrates **segment** along a notochord, then hide the segmentation in a mamma
 
 Arthropods **segment** too, more obviously: head, thorax, abdomen, or the many-plated versions in millipedes and fossil wonders. The exoskeleton is both suit of armour and attachment point for muscles. It cannot grow, so the animal **moults** — a periodic vulnerability that looks like a terrible idea until you notice it also lets you change career, as when a caterpillar becomes a moth. Insects added **wings** that are not restyled legs. That is a new appendage, which is why a bee in the air is not a tiny bat.
 
-Molluscs often keep a **mantle** that can secrete shell, a **radula** for rasping (octopuses lost it as a conveyor and kept a beak), and that famous foot. Bivalves doubled down on filter-feeding and a two-part house. Gastropods torsioned their guts, which is a sentence I cannot make elegant. Cephalopods turned the foot into arms and a siphon and, in squid, a jet you would file under propulsion.
+Molluscs often keep a **mantle** that can secrete shell, a **radula** for rasping (octopuses lost it as a conveyor and kept a beak), and that famous foot. Bivalves doubled down on filter-feeding and a two-part house. Gastropods torsioned their guts, which is a sentence that refuses to be elegant. Cephalopods turned the foot into arms and a siphon and, in squid, a jet you would file under propulsion.
 
 Those three are not the whole tree. Sponges, cnidarians, echinoderms, nematodes, and a long list of worms would like a word. They are the point of a later walk, not this chapter's job. The job here is comparative: once you can see the arrangement, the human body stops looking like the default and starts looking like one chart among many.
 
@@ -132,7 +132,7 @@ Convergence is the most comforting and the most humbling fact in this chapter. C
 
 ## Extremophiles: Unofficial Astronaut Training 🚀
 
-If the song is "stay a self in a gradient," some verses are sung in rooms that would kill Mick before the chorus.
+If the song is "stay a self in a gradient," some verses are sung in rooms that would kill you before the chorus.
 
 **Tardigrades** dry down into a tun, pause the film, and have survived the vacuum of low Earth orbit. On the 2007 FOTON-M3 / TARDIS flight, desiccated *Milnesium* and *Richtersius* came back from ten days of space vacuum in good shape; add unfiltered solar UV and most of them did not, which is the adult version of the superhero story. They are not immortal. They are extremely good at not being alive for a bit.
 
@@ -158,7 +158,7 @@ On that loose definition, the independent origins pile up.
 - **Mammals**, several times over if you are being rude about clades: primates, cetaceans, elephants. Maybe independently thick cultures. Maybe one mammalian heritage restyled. The argument is live.
 - **Some teleost fish**, cichlids in particular, keep turning up in the "wait, they can do *that*?" literature.
 
-Gerhard Roth's survey is the one I keep in the pocket: complex brains and high intelligence, in the demanding sense, evolved **several to many times independently**. Giovanni Mussini's 2023 astrobiology paper counted at least eight lineages with serious cognitive preconditions in the last 100 million years, and civilisation-building once. That last number is not a law. It is a sample size of one planet. Intelligence, on this reading, is a child of time — clustered, recent, and not a Cambrian birthday present.
+Gerhard Roth's survey is the one to keep in the pocket: complex brains and high intelligence, in the demanding sense, evolved **several to many times independently**. Giovanni Mussini's 2023 astrobiology paper counted at least eight lineages with serious cognitive preconditions in the last 100 million years, and civilisation-building once. That last number is not a law. It is a sample size of one planet. Intelligence, on this reading, is a child of time — clustered, recent, and not a Cambrian birthday present.
 
 What we do not know is the number, because we do not know the unit. Is a bee colony one origin or a thousand small ones? Is "corvid and parrot" one avian event or two? Does octopus count once, or do squid and cuttlefish get their own flags? Until we can say what "a cognition" is without smuggling in a primate, the tally is a mood.
 

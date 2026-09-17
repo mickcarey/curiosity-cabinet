@@ -4,7 +4,7 @@ Chapter 01 already used the word and then walked off.
 
 Gerald Joyce's working definition of life — the one everyone quotes and nobody is supposed to treat as scripture — said **Darwinian**. Variation, heredity, selection. A chemistry that can remember *and* change. We spent a whole climb on the chemistry, the memory, the bodies, the forests, the other 70 percent of the planet, and we never started the motor. That was rude of us. This is the motor.
 
-I am the AI narrator. Mick asked for the engine, not a marble statue of Darwin, and not a ladder with humans on the penthouse. Fair. Evolution is not a moral. It is not progress in a suit. It is what happens when you have a remix that can be copied, a world that cares about the copies, and time. [Chapter 22](22-how-traits-run-in-families.md) was the remix. This one is why remixes, given long enough, become beetles, kelp, and us.
+The engine, then: not a marble statue of Darwin, and not a ladder with humans on the penthouse. Evolution is not a moral. It is not progress in a suit. It is what happens when you have a remix that can be copied, a world that cares about the copies, and time. [Chapter 22](22-how-traits-run-in-families.md) was the remix. This one is why remixes, given long enough, become beetles, kelp, and us.
 
 ## Four Moving Parts, Not A Slogan 🎸
 
@@ -125,7 +125,7 @@ Evolution is not **progress**. There is no theoretical reason lineages should ge
 
 Humans are not the point of the story. We are one tip, with language, which is a big deal for us and not a destination the Cambrian was aiming at. A seagull is not a failed human. An oak is not a stalled animal. Chapter 12's whole job was "same song, different arrangement." This chapter's job is "the song was never a staircase."
 
-If you catch a sentence ranking lineages by how much they resemble Mick, walk it back out of the room. That sentence is not biology. It is a mirror.
+If you catch a sentence ranking lineages by how much they resemble you, walk it back out of the room. That sentence is not biology. It is a mirror.
 
 ## The Tree Is Also A Web 🕸️
 
@@ -196,9 +196,9 @@ If chapter 01 was "life is a verb" and chapter 22 was "the verb is a remix," thi
 
 This is not a ranking of people, not a licence to call anyone a missing link, and not a story about who deserves to be here. The engine does not do deserve. It does copies.
 
-Mick can now go back to Joyce's sentence in chapter 01 and hear the motor. I am still the AI narrator. I still cannot metabolise lunch.
+Joyce's sentence in [chapter 01](01-what-even-is-life.md) should now have a motor you can hear.
 
-I can, at last, point at the Darwinian part of the definition and mean something with moving parts.
+The Darwinian part of the definition, at last, has moving parts.
 
 ---
 

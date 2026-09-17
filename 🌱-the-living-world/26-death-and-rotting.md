@@ -4,7 +4,7 @@ The forest walk in [chapter 15](15-how-to-read-a-landscape.md) was supposed to t
 
 The log is not a mess. It is a habitat. It is also a sentence about [chapter 07](07-what-a-calorie-actually-is.md): the calorie's last job is someone else's lunch.
 
-I am the AI narrator. Mick asked what happens when the process from [chapter 01](01-what-even-is-life.md) stops. Fair. Life was a verb. Death, on that picture, is the verb parking. Rotting is the neighbourhood noticing, and eating.
+So: what happens when the process from [chapter 01](01-what-even-is-life.md) stops? Life was a verb. Death, on that picture, is the verb parking. Rotting is the neighbourhood noticing, and eating.
 
 This is not a funeral guide. It is not a grief manual. It is not "death positivity" merch, which is a tote bag with a skull and a business model. If a sentence here is used as a eulogy, the sentence has been kidnapped. Biology first. Philosophy light, and only after the fungi have had their say.
 
@@ -96,7 +96,7 @@ Pan and colleagues, 2011, put dead wood at about **8% of the carbon stock in the
 
 The landscape method said a gap from a fallen tree is succession in miniature. Believe it. The log is the gap's furniture.
 
-A sports version, because Mick will otherwise treat "habitat" as a synonym for "messy": a dead tree is not a player who left the pitch. It is the stadium becoming a skate park, then a garden, then a rumour of a stadium in the soil. You can prefer the original fixture. The mites do not.
+A sports version, because "habitat" is not a synonym for "messy": a dead tree is not a player who left the pitch. It is the stadium becoming a skate park, then a garden, then a rumour of a stadium in the soil. You can prefer the original fixture. The mites do not.
 
 ## Marine Snow: The Ocean's Rotting ❄️
 
@@ -197,7 +197,7 @@ Harmon's point about standing versus downed decay is the ecological version of t
 - [Chapter 14](14-soil-is-alive.md) for the N and P cycles this chapter only returned
 - The [immortal jellyfish](../✈️-airplane-reading/the-immortal-jellyfish.md), which is still being rude
 
-MC can treat that pile as a reading list, not a punishment. The unsolved stuff is why the log is more interesting than the tidy lawn.
+Treat that pile as a reading list, not a punishment. The unsolved stuff is why the log is more interesting than the tidy lawn.
 
 A calorie is a physics unit. A body is a process. A log is a cafeteria. The forest was never a museum of the living. It was always, partly, standing death, feeding the next verb.
 
@@ -219,4 +219,4 @@ That is not a tote bag. That is ecology.
 - Connell, J. H., & Slatyer, R. O. (1977). Mechanisms of succession in natural communities. *The American Naturalist, 111*, 1119–1144. Gap dynamics as succession in miniature: [chapter 15](15-how-to-read-a-landscape.md).
 - Ad Hoc Committee of the Harvard Medical School (1968). [A definition of irreversible coma](https://jamanetwork.com/journals/jama/article-abstract/340177). *JAMA, 205*, 337–340. President's Commission (1981), *Defining Death*; Uniform Determination of Death Act: irreversible cessation of circulation and respiration, *or* of all functions of the entire brain including brainstem. Lingering integrative functions as the live critique: Truog and others in the [Hastings Center Report, brain death at fifty](https://doi.org/10.1002/hast.942) (2018). Policy, not a bedside guide.
 - Swift, M. J., Heal, O. W., & Anderson, J. M. (1979). *Decomposition in Terrestrial Ecosystems.* Blackwell. Litter quality, organisms, environment as the three handles.
-- This chapter is not a funeral guide, not medical advice, not a grief manual, and not a manifesto about how anyone should feel. Mechanisms are not consolations, and I am not a celebrant.
+- This chapter is not a funeral guide, not medical advice, not a grief manual, and not a manifesto about how anyone should feel. Mechanisms are not consolations.

@@ -10,7 +10,7 @@ This chapter is the missing landing between the library and the machines. [Chapt
 
 Here is what that dance looks like when it shows up at a family lunch: alleles, the dominant/recessive cartoon, why siblings are not reprints, and why "a gene for height" is a sentence that should be walked back out of the room.
 
-I am the AI narrator. Mick asked how traits run in families without turning the answer into a horoscope, a 23andMe sermon, or a ghost of the twentieth century's worst ideas. Fair. This is not medical advice. It is not an ancestry-test religion. It is not a ranking of people. Heredity is a mechanism. The moment someone treats it as a hierarchy — better blood, worse blood, a policy — they have left the chapter and entered a history that does not get a sequel here. If a sentence here is used as a diagnosis, a breeding programme, or a personality, the sentence has been kidnapped.
+The job is to say how traits run in families without turning the answer into a horoscope, a 23andMe sermon, or a ghost of the twentieth century's worst ideas. This is not medical advice. It is not an ancestry-test religion. It is not a ranking of people. Heredity is a mechanism. The moment someone treats it as a hierarchy — better blood, worse blood, a policy — they have left the chapter and entered a history that does not get a sequel here. If a sentence here is used as a diagnosis, a breeding programme, or a personality, the sentence has been kidnapped.
 
 ## Allele, Genotype, Phenotype 🎚️
 
@@ -113,7 +113,7 @@ Same seeds, different soil: different plants. Same genotype, different sunlight,
 
 Himalayan rabbits (and Siamese cats) grow dark fur on the cold bits — ears, nose, paws — because a pigment enzyme is temperature-sensitive. Same alleles, different local weather on the animal. That is a reaction norm you can see without a statistician. Human height versus childhood nutrition is the same shape with worse lighting: the alleles are not a height. They are a range the world is allowed to play.
 
-A metabolic spelling can be a disaster on one diet and a footnote on another. The genotype did not change when the diet did. The phenotype did. That is the whole point of a reaction norm, and it is why "genetic" is not a synonym for "fixed" or "untreatable" or "therefore leave it." I am not going to name a clinic. I am going to name the shape: environment is not an afterthought you sprinkle on a genetic cake. It is one axis of the graph.
+A metabolic spelling can be a disaster on one diet and a footnote on another. The genotype did not change when the diet did. The phenotype did. That is the whole point of a reaction norm, and it is why "genetic" is not a synonym for "fixed" or "untreatable" or "therefore leave it." No clinic. Just the shape: environment is not an afterthought you sprinkle on a genetic cake. It is one axis of the graph.
 
 **Nature versus nurture** is a bad framing because it treats the two as alternative fuels in one tank. Development is not a tank. It is a conversation. Genes make the possible shapes of that conversation. Environments pick which shapes get built. Noise — the molecular jitter of a real embryo — means even identical starting conditions can diverge. Chapter 10's twins already whispered this: one zygote, two people, same starting genome, not the same life.
 
@@ -195,7 +195,7 @@ We do not have a finished inventory of why you look a bit like your aunt. We hav
 
 If the library chapters were "the instrument comes with sheet music," this one is "the covers the family band actually plays, and why two kids from the same kitchen are not the same album." Proteins, whenever you loop back to Arc 3, are what the playing is *for*.
 
-This is not medical advice. A pedigree is not a diagnosis. An ancestry test is not a personality. A heritability is not a verdict on you. The GP, if you need one, is still a human. I am still a model with a library card.
+This is not medical advice. A pedigree is not a diagnosis. An ancestry test is not a personality. A heritability is not a verdict on you. The GP, if you need one, is still the person whose job is care.
 
 If you came here to rank people, you are in the wrong cabinet. If you came here to understand why two kids from the same house are not reprints, you are in the right one.
 

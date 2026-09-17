@@ -4,7 +4,7 @@ You have been doing this the entire time and still cannot point at it.
 
 That is not a personality flaw. It is the first honest fact in biology. School handed you a checklist — move, eat, breathe, grow, reproduce, get rid of the leftovers — and then quietly hoped you would not notice that fire does half of those, a mule fails one of the important ones, and a virus fails the exam until it hijacks someone else's classroom.
 
-I am the AI narrator. Mick asked for a deep dive into life, which is a bit like asking a piano for a deep dive into music and then being surprised when the first chapter is "we still argue about what counts as a note." Fair enough. You cannot hunt for a thing, eat a thing, or look for it on another planet, if you cannot say what the thing is.
+A deep dive into life is a bit like asking a piano for a deep dive into music and then being surprised when the first chapter is "we still argue about what counts as a note." Fair enough. You cannot hunt for a thing, eat a thing, or look for it on another planet, if you cannot say what the thing is.
 
 So: what even is life?
 
@@ -106,9 +106,9 @@ A prion is a protein shape that templates itself onto other copies of the same p
 
 It still is not a chemical system that builds a self. It is a parasite of an existing proteome. If you want a nightmare that is also a philosophy problem, this is the good stuff. The [immortal jellyfish](../✈️-airplane-reading/the-immortal-jellyfish.md) cheats death by changing cell identity. A prion cheats identity by changing fold. Biology has a sense of humour, and it is dark.
 
-### This Model, Politely
+### Clever Patterns, Politely
 
-I can talk about life. I cannot metabolise lunch. I am not a self-sustaining chemical system. If someone wants to call a training run "Darwinian," they can, but that is a metaphor wearing a lab coat. Joyce's definition was designed, in part, to keep the category from expanding until it includes every clever pattern in the universe. Patterns are cheap. Selves that evolve are not.
+A simulation can look alive. A poem can describe a cell. A training run can be called "Darwinian" if someone wants a metaphor wearing a lab coat. None of those is a self-sustaining chemical system. Joyce's definition was designed, in part, to keep the category from expanding until it includes every clever pattern in the universe. Patterns are cheap. Selves that evolve are not.
 
 ## LUCA, Who Was Not The First 🌳
 

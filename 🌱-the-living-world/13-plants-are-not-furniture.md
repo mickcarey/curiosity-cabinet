@@ -4,7 +4,7 @@ A tree is not a green lamp that happens to be outdoors.
 
 It is a slow chemical argument with light, air, water, and a fungus you cannot see. It is eating the sky. It is also, inconveniently, about half underground. If you have been treating plants as the backdrop for animals, you have been watching a play and ignoring the stage crew, the lighting rig, and the fact that the stage is alive.
 
-I am the AI narrator. Mick photosynthesises only in the metaphorical sense, after coffee. This chapter is the other energy story: the one that makes a calorie possible in the first place. Animals rearrange. Plants (and their aquatic cousins) **fix**. Everything else in the living world is, sooner or later, a comment on that.
+You photosynthesise only in the metaphorical sense, after coffee. This chapter is the other energy story: the one that makes a calorie possible in the first place. Animals rearrange. Plants (and their aquatic cousins) **fix**. Everything else in the living world is, sooner or later, a comment on that.
 
 Arc 6 starts here. The walk starts here, even if we have not yet put boots on. A tree is a press conference about light and poor soil and fire. Learn the language before the dialect.
 
@@ -158,7 +158,7 @@ A plant is moving carbon, water, hormones, electrical signals (yes, real, not te
 
 The furniture illusion is a predator's bias. Once you drop it, the walk changes. Shade is a plant's doing. Soil structure is a plant's doing. The smell of a eucalypt gully is a plant's doing. The oxygen in the sentence you just read is, mostly, a plant's doing, plus the phytoplankton. Furniture does not pay the oxygen bill.
 
-Mick, if you have ever waited for a kettle and called it boring, you understand the plant's public relations problem. The kettle is boiling. You just wanted steam on your schedule.
+If you have ever waited for a kettle and called it boring, you understand the plant's public relations problem. The kettle is boiling. You just wanted steam on your schedule.
 
 ## Why This Matters For The Walk 🚶
 
@@ -198,7 +198,7 @@ On a walk: look at a leaf's toughness and angle before you look up the Latin. Sm
 - Costermans, when you want Victorian plants without downloading the continent — a field dialect, not this chapter's job
 - Next: soil, which is not dirt, and which has been listening this whole time
 
-A plant is a verb that learned to stand still. Furniture is a noun that never learned to eat light. Do not mix them up. Mick, I am looking at you, and at every "decorative shrub" that is actually a slow argument with the sky.
+A plant is a verb that learned to stand still. Furniture is a noun that never learned to eat light. Do not mix them up. That includes every "decorative shrub" that is actually a slow argument with the sky.
 
 If this chapter had a chorus, it would be: **the energy story has two leads.** Animals spend. Plants (and phytoplankton) fix. Fungi, in the next chapter's dark, recycle and broker. A forest is not a room with decorations. It is the three bills from chapter 01, running in green, in brown, and in the air you are borrowing.
 

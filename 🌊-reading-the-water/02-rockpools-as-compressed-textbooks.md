@@ -2,9 +2,7 @@
 
 A rockpool is a landscape painting that gets rewritten twice a day. That is annoying for picnics and perfect for literacy.
 
-I am still the AI narrator. Mick is still the human who can actually stand on the rock.
-
-Between us we have one body that gets cold and one model that does not. Useful reminder: the pool is not a screensaver. It is a saucepan, a tide table, and a neighbourhood argument, all in a hole the size of a laundry basket.
+The pool is not a screensaver. It is a saucepan, a tide table, and a neighbourhood argument, all in a hole the size of a laundry basket.
 
 The global version of this chapter lives in [how to read a seascape](../🌱-the-living-world/18-how-to-read-a-seascape.md). The [first chapter](01-tides-salt-and-the-shape-of-the-shore.md) gave you energy and salt.
 
@@ -123,7 +121,7 @@ On a wide Victorian platform, ten metres of walk can be a bigger environmental t
 
 A slightly higher lip, a slightly more exposed corner, a slightly shadier cleft: those are different apartments. The old diagrams drew belts parallel to the waterline because, on a steep shore, height *is* wetting. On a flat platform, wetting is a messy function of height, splash, runnels, and whether a pool drains. That is why two holes a body-length apart can disagree.
 
-This is the same trick as a fern gully versus a ridge in the [bush companion](../🌲-reading-the-bush/README.md). Ten metres, different water, different fire, different plants. Here: ten metres, different wetting, different smash, different salt saucepan.
+This is the same trick as a fern gully versus a ridge in the [bush companion](../🌲-reading-the-bush/01-the-climate-and-the-rock.md). Ten metres, different water, different fire, different plants. Here: ten metres, different wetting, different smash, different salt saucepan.
 
 Aspect still matters. A west-facing Great Ocean Road platform will push the whole stack up with splash. A bay-facing platform inside Port Phillip will compress it, skip the bull kelp, and maybe hand the lower story to seagrass and sediment instead of laminarian theatre. Same method. Different arrangement. [Chapter 06](06-walkable-water-case-studies.md) walks both.
 
@@ -163,7 +161,7 @@ You do not need a probe. You need suspicion.
 
 A dark, shallow pool on basalt in January is a solar collector. The animals in it are not "the same community as the 14°C Strait." They are the ones whose proteins can take a sauna and a brine spike. A pale, deep, frequently flushed pool is closer to the sea. The difference is the difference between a kettle and a river.
 
-Overnight, plants stop photosynthesising and keep respiring. Crowded pools can sag in oxygen before dawn. That is one reason a pool that looks thriving at noon can still be a hard place to live. I, who do not respire, find this rude. The shrimp does not.
+Overnight, plants stop photosynthesising and keep respiring. Crowded pools can sag in oxygen before dawn. That is one reason a pool that looks thriving at noon can still be a hard place to live. The shrimp already knew.
 
 Rain on a low tide is a freshwater lid. You can see it as a slick. Marine specialists hate it. Estuarine specialists shrug. If you are on a headland, the lid is a passing insult. If you are in a poorly flushed high pool, it is a rewrite.
 
@@ -213,6 +211,6 @@ The Reef remains travel. If you want coral *logic* — oligotrophic water, anima
 
 Go at low tide, on purpose. Name the stack before you name the species. Guess the energy from how high the wet lives sit. Leave the Latin in the booklet if you must. The point is not to beat a ranger at trivia. The point is to see that the mess is zoned, fed, and on a timetable.
 
-One last humility, because I am a model and you are a person with pockets: the pool does not get better if you take it home. The [immortal jellyfish](../✈️-airplane-reading/the-immortal-jellyfish.md) is not in this saucepan. The [marine snow](../🌙-bedtime-reading/marine-snow-the-oceans-slow-blizzard.md) is not either. This is the walkable edge of a planet that is mostly water. Read the edge. Leave the rest to the tide.
+One last humility: the pool does not get better if you take it home. The [immortal jellyfish](../✈️-airplane-reading/the-immortal-jellyfish.md) is not in this saucepan. The [marine snow](../🌙-bedtime-reading/marine-snow-the-oceans-slow-blizzard.md) is not either. This is the walkable edge of a planet that is mostly water. Read the edge. Leave the rest to the tide.
 
 *"A rockpool is not a fish tank that the sea forgot. It is the sea, reduced to a saucepan, still telling the truth if you do not stir it with a stick."*

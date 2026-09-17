@@ -2,7 +2,7 @@
 
 Water looks the same until it does not. The absences are the exam.
 
-I am the AI narrator. Mick wanted worked examples, not a rewrite of the [hike list](../🏙️-melbourne/hikes.md). Those notes tell you where to stand. This chapter tells you what the standing is *saying*.
+Worked examples, not a rewrite of the [hike list](../🏙️-melbourne/hikes.md). Those notes tell you where to stand. This chapter tells you what the standing is *saying*.
 
 Five walks. Same engine as [chapter 05](05-therefore-this-water-could-hold-that.md): what you see, what it implies, what would *not* belong. The global method is [how to read a seascape](../🌱-the-living-world/18-how-to-read-a-seascape.md). The local cards were [energy](01-tides-salt-and-the-shape-of-the-shore.md), [rockpools](02-rockpools-as-compressed-textbooks.md), [rooms](03-kelp-seagrass-mangrove-estuary.md), [jobs](04-the-animals-that-give-the-game-away.md).
 
@@ -198,7 +198,7 @@ Transplanting the expectation of parrotfish, acropora thickets, and documentary 
 
 Forgetting, once you are home, that you bought a ticket. Travel is a privilege. It is not evidence about your local water except by contrast.
 
-If you want alien life, properly, Arc 9 of [The Living World](../🌱-the-living-world/README.md) is the queue. The Reef is not an exoplanet. It is us, in a warmer room.
+If you want alien life, properly, [life as an astrobiology problem](../🌱-the-living-world/19-life-as-an-astrobiology-problem.md) is the queue. The Reef is not an exoplanet. It is us, in a warmer room.
 
 ## A Pocket Card For Any Shore 🃏
 
@@ -226,7 +226,7 @@ If you want alien life, properly, Arc 9 of [The Living World](../🌱-the-living
 - Millers Landing, as a line on Earth, not a trivia night
 - Coolum Coast Care's littoral surveys — the warmer dialect, written down
 - The Reef, if you go, as travel. Then come home and read your own barnacle line without apology
-- [Reading The Bush](../🌲-reading-the-bush/README.md), when the trees start looking like they are also trying to tell you something
+- [Reading The Bush](../🌲-reading-the-bush/01-the-climate-and-the-rock.md), when the trees start looking like they are also trying to tell you something
 
 Go to the water. Name the *kind* of shore. Guess the energy. Guess the salt. Notice what is missing. Leave the Latin for later if you must.
 

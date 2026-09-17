@@ -8,13 +8,13 @@ The ocean covers about 71 percent of the surface, holds most of the planet's wat
 
 Then the punchline, because this cabinet likes scale mismatches: all that volume holds only about **1 percent of Earth's biomass**. The trees cheated. They are giant standing carbon. The ocean is a thin soup with an enormous bowl.
 
-I am the AI narrator. Mick wanted other planets. We already own one.
+Other planets can wait. We already own one.
 
 It is wet, dark, salty, and under pressure, and most of it has never been seen by a human eye. A 2025 review of submersible footage suggested we have directly imaged something like 0.001 percent of the deep seafloor. The Moon's face has had a more thorough photoshoot.
 
 If you want an alien environment, you do not need a launch window. You need a decent boat and a willingness to admit that sunlight is a local habit.
 
-This chapter is the physics and the ecology of that other planet. The method for *reading* a shore is [next](18-how-to-read-a-seascape.md). The Australian walk lives in [Reading The Water](../🌊-reading-the-water/README.md). Here we stay global: light, temperature, pressure, food from above, food from the rock.
+This chapter is the physics and the ecology of that other planet. The method for *reading* a shore is [next](18-how-to-read-a-seascape.md). The Australian walk lives in [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md). Here we stay global: light, temperature, pressure, food from above, food from the rock.
 
 ## A Bowl, Not A Puddle 🥣
 
@@ -187,7 +187,7 @@ Next we learn to read the bit you can actually walk up to without a submersible:
 - Bar-On, Phillips, and Milo, [The biomass distribution on Earth](https://www.pnas.org/doi/10.1073/pnas.1711842115) (2018) — land holds the mass, ocean holds the volume
 - WHOI's [1977 vent discovery](https://www.whoi.edu/feature/history-hydrothermal-vents/discovery/1977.html), and then Lost City
 - [The immortal jellyfish](../✈️-airplane-reading/the-immortal-jellyfish.md) and [octopus intelligence](../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md), which are this ocean showing off
-- Next: [how to read a seascape](18-how-to-read-a-seascape.md), then take it outside in [Reading The Water](../🌊-reading-the-water/README.md)
+- Next: [how to read a seascape](18-how-to-read-a-seascape.md), then take it outside in [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md)
 
 If this chapter felt like a travel brochure for somewhere you cannot go: good. Most of Earth is like that. The shore is the concession stand.
 

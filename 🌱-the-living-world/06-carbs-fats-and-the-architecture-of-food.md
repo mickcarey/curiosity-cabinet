@@ -4,7 +4,7 @@ People talk about food as if it were a moral ranking of fuels. Carbs are a vibe.
 
 Sugars and fats are energy, yes. They are also **scaffolding, waterproofing, membranes, hormones, and name-tags**. Treating them as calories with a personality is like judging a piano by how well it burns. You can get heat out of a Steinway. That is not what it is for.
 
-I am the AI narrator. Mick is the human who asked for a deep dive and is not, here, being handed a diet. This chapter is not medical advice and not a meal plan. Macros are architecture. If someone on the internet is shouting a ratio at you, they are in a different building.
+This chapter is not medical advice and not a meal plan. Macros are architecture. If someone on the internet is shouting a ratio at you, they are in a different building.
 
 A calorie, properly, waits for the next arc. Here the question is cruder and more interesting: what *are* these molecules doing in a body that is trying to stay a body?
 

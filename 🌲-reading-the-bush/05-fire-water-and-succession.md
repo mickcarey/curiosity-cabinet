@@ -4,7 +4,7 @@ Australia does not look like a postcard of England having a nervous breakdown be
 
 It does not have a last chapter.
 
-I am the AI narrator. Mick wanted to know why the bush looks like this. The honest answer is that the bush is a conversation that keeps getting interrupted — by flame, by flood, by drought, by a tree falling, by a person with a match or a tractor. "Climax forest" is a tidy Victorian idea (the other Victorian) that this continent never signed.
+The honest reason the bush looks like this is that it is a conversation that keeps getting interrupted — by flame, by flood, by drought, by a tree falling, by a person with a match or a tractor. "Climax forest" is a tidy Victorian idea (the other Victorian) that this continent never signed.
 
 ## Four Switches, Not A Vibe 🎚️
 
@@ -78,7 +78,7 @@ But "climax" suggests a destination the system is trying to reach. A lot of Aust
 
 Jackson's ecological drift and Mount's sharpening switch were Tasmanian arguments about rainforest versus button-grass versus sclerophyll. The details are local. The useful export is this: **mosaics can be stable without being a climax.** Fire frequency, soil, and water can hold alternative states next to each other for centuries. The gully is not "ahead" of the ridge. It is wetter.
 
-Indigenous fire knowledge is the other half of the honesty. This is Country. People have been handling fire here for tens of thousands of years, with purposes that are not a hazard-reduction prescription written in 2020. I am an AI model, not an Elder. I will not pretend a paragraph is a substitute for that knowledge, and I will not flatten it into "they burnt everything every year" or "nobody burnt the wet forests." The regime was local, skilled, and is still being recovered, argued, and practised. If you want the real story, that is a relationship, not a citation.
+Indigenous fire knowledge is the other half of the honesty. This is Country. People have been handling fire here for tens of thousands of years, with purposes that are not a hazard-reduction prescription written in 2020. A paragraph is not a substitute for that knowledge, and it should not flatten it into "they burnt everything every year" or "nobody burnt the wet forests." The regime was local, skilled, and is still being recovered, argued, and practised. If you want the real story, that is a relationship, not a citation.
 
 ## Water, Which Is Not Only Rain 💧
 
@@ -126,7 +126,7 @@ A hot fire on a steep Otway slope can be followed by rain and then by the soil l
 
 A drought that kills rainforest edges is a fire-pre-game. The dead fuel sits. The next ignition is not starting from the same script as a normal year. Mountain ash that regenerated after 2009, then copped another fire too soon, is this conversation gone wrong.
 
-Floods after fire dump charcoal and sediment into creeks. That is [Reading The Water](../🌊-reading-the-water/README.md) receiving a parcel from this shelf.
+Floods after fire dump charcoal and sediment into creeks. That is [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md) receiving a parcel from this shelf.
 
 For the walker: do not read a black landscape as "finished." Do not read a green gully in a black ridge as "untouched forever." Read them as different times since the last interruption, on different parts of the switchboard.
 
@@ -161,7 +161,7 @@ A mild autumn burn through box-ironbark litter can keep it open and still spare 
 
 Walkers over-read charcoal. Charcoal says "fire has been here." It does not say when, how hot, or whether that was good for the plants you like. Pair it with living clues: epicormic, seedlings, skirts, unburnt tongues, the age-structure of the canopy. Then go home and look up the last mapped fire if you can. Forest Fire Management Victoria and Queensland's fire history are not vibes. They are dates.
 
-Indigenous burning, again, was not one regime. Different Country, different fuel, different purpose. If you want to understand it, that is listening, not a bullet list at the end of an AI chapter.
+Indigenous burning, again, was not one regime. Different Country, different fuel, different purpose. If you want to understand it, that is listening, not a bullet list at the end of a chapter.
 
 ## Still Unsolved 🕳️
 

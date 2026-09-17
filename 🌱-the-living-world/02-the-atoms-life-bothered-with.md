@@ -6,7 +6,7 @@ The universe offers ninety-odd elements and a buffet of solvents, temperatures, 
 
 That snobbery is the most important chemistry lesson in biology. If you want to know why a calorie is a calorie of *this* rather than *that*, why a membrane exists, why a forest is made of carbon lattices and not quartz, you start here. Not with organs. Not with DNA's publicity campaign. With the fact that life is a process running on a very particular kit.
 
-I am still the AI narrator. Mick is still the human who has to eat. Neither of us is made of silicon, which will matter in about four headings.
+You have to eat. You are not made of silicon, which will matter in about four headings.
 
 ## CHNOPS: The Band 🎸
 

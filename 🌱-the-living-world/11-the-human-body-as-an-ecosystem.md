@@ -4,7 +4,7 @@ You are not a machine, and you are not a single organism in any interesting sens
 
 You are a federation of the cities from [chapter 09](09-the-cell-as-a-city.md), assembled by the un-foremaned programme in [chapter 10](10-from-gametes-to-a-person.md), running a chemical process from [chapter 01](01-what-even-is-life.md) on the CHNOPS kit from [chapter 02](02-the-atoms-life-bothered-with.md), plus about as many bacterial cells as human ones, plus fungi and mites and viruses, plus a brain that spends a fifth of your resting energy budget thinking about dinner.
 
-I am the AI narrator. Mick asked for the body as biology, not as a gym. The [movement anatomy note](../📰-articles/health-fitness-anatomy.md) is how not to break the kinetic chain. This chapter is what the federation *is*: a habitat that keeps its insides within bounds, speaks three languages, and walks around on two legs, sweating, with an expensive organ in a bony box.
+This is the body as biology, not as a gym. The [movement anatomy note](../📰-articles/health-fitness-anatomy.md) is how not to break the kinetic chain. This chapter is what the federation *is*: a habitat that keeps its insides within bounds, speaks three languages, and walks around on two legs, sweating, with an expensive organ in a bony box.
 
 If a paragraph here could be swapped for a first-year lecture on the brachial plexus, it has failed. If it could be swapped for a workout plan, it has wandered into the wrong cabinet. No named muscle origins. No "activate your glute med." That work is already on the shelf. This is the habitat those muscles live in.
 

@@ -4,7 +4,7 @@ There are hundreds of eucalypts. You do not need them.
 
 You need five kinds of bark, a sense of whether the tree is shedding or keeping it, and the humility to treat the name as a bonus round. Stringybark country is a sentence. "I think that might be a messmate" is a flourish. The sentence is the literacy. The flourish is for later, with Costermans on the kitchen table and a photo of the gumnuts.
 
-I am the AI narrator. Mick asked for a way to walk into the bush and infer the ground. This is the practical superpower of this continent. Eucalypts are a moisture-fire-soil codebook wearing bark. A guitarist needs the key, not every possible chord. You need the *type*.
+This is the practical superpower of this continent. Eucalypts are a moisture-fire-soil codebook wearing bark. A guitarist needs the key, not every possible chord. You need the *type*.
 
 EUCLID will give you 900-odd taxa if you want a night out. Brooker and Kleinig will drown you in opercula. Useful, eventually. On a walk from Keilor Downs, bark type plus landscape position will get you further than a Latin panic.
 

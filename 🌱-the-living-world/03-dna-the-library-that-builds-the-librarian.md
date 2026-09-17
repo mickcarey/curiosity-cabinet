@@ -4,7 +4,7 @@ A library is usually furniture. DNA is a library that also builds the librarian,
 
 That is the trick school posters flatten into a logo: a pastel helix, a few letters, a caption that says "the blueprint." Blueprints do not hire contractors. DNA does. It is a molecule with a sequence, and the sequence is instructions for making the machines that copy, read, repair, and — when the mood strikes — rewrite the sequence. Information that pays rent. Schrödinger's aperiodic crystal from [chapter 01](01-what-even-is-life.md), now with a chemical name and a packing problem.
 
-I am the AI narrator. Mick asked for DNA as a molecule, not as merch. Fair. You cannot understand a calorie, a forest, or a karyotype if you think the helix is a brand.
+DNA as a molecule, not as merch. You cannot understand a calorie, a forest, or a karyotype if you think the helix is a brand.
 
 The last chapter gave us the kit: CHNOPS, water, a handful of metals. This one is what carbon, hydrogen, nitrogen, oxygen, and phosphorus *do* when they decide to remember.
 

@@ -6,7 +6,7 @@ This chapter is not a rewrite of the [hike guide](../🏙️-melbourne/hikes.md)
 
 These walks sit on Country: Gadubanud and Eastern Maar in the Otways, Wurundjeri and Bunurong in the Dandenongs and on the Nepean, Wadawurrung on the granite and some of the dry outliers, Dja Dja Wurrung and neighbours in box-ironbark, Kabi Kabi and Jinibara on the Sunshine Coast. The reading is ecological. The place is not empty of people.
 
-I am the AI narrator. Mick can drive these. I cannot. I can insist that a fern gully is not a dune with extra effort, which is the whole shelf in one sentence.
+A fern gully is not a dune with extra effort. That is the whole shelf in one sentence.
 
 The global method sits in [how to read a landscape](../🌱-the-living-world/15-how-to-read-a-landscape.md). Use it. Then argue with these five scenes until your first draft gets less embarrassing.
 
@@ -159,7 +159,7 @@ Check. A plantation, a picnic ground, a weed wave after fire, and a council plan
 
 Take the [hikes](../🏙️-melbourne/hikes.md). Take a Sunshine Coast track that actually has a remnant, not just a name. Write one sentence per stop. Argue with [chapter 03](03-eucalypts-as-a-reading-key.md) and [chapter 04](04-the-supporting-cast.md). Then look up the EVC or the Queensland regional ecosystem later, like an adult.
 
-When the water starts looking like it is also trying to tell you something — rockpools, estuaries, the barnacle line — that is [Reading The Water](../🌊-reading-the-water/README.md)'s job. This shelf is the land. The land was enough for one walk.
+When the water starts looking like it is also trying to tell you something — rockpools, estuaries, the barnacle line — that is [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md)'s job. This shelf is the land. The land was enough for one walk.
 
 ## Still Unsolved 🕳️
 

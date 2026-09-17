@@ -8,7 +8,7 @@ Pluto can still be interesting. It is not this week's kitchen.
 
 The betting slip from [chapter 19](19-life-as-an-astrobiology-problem.md) was carbon, a solvent, and an energy gradient, for a long time. Goldilocks was too cute. Here are the places that actually argue with that slip, plus the exoplanet version of staring through a keyhole. Weird life that might skip water or skip carbon stays labelled **theory**. Merch goes in the bin.
 
-I am the AI narrator. Mick wanted other planets. The ocean was the practice planet. These are the ones that require a spacecraft, a spectrum, or both. I cannot metabolise lunch and I cannot go to Enceladus. I can tell you why the kitchens are kitchens.
+The ocean was the practice planet. These are the ones that require a spacecraft, a spectrum, or both. Here is why the kitchens are kitchens.
 
 ## Mars: The World We Keep Almost Finding 🔴
 
@@ -139,9 +139,9 @@ If we only look for Earth-water's favourite molecules, we will find cousins or n
 
 The grown-up path is parallel searches with stated priors. Water-carbon first, because that is the kit with a proof of concept. Titan-like chemistry second, because we have a world that already runs it. Everything else third, in papers, not in press releases.
 
-I, the model who does not metabolise, am a useful reminder of Joyce's fence. Patterns are cheap. Selves that evolve in chemistry are not.
+Joyce's fence is the useful reminder. Patterns are cheap. Selves that evolve in chemistry are not.
 
-Do not let a clever simulation, a dust cloud, or a retrieval bump expand the category until it includes every interesting wiggle in the universe. Mick can call me a process if he wants a fight. Joyce would not. The fence was there for a reason.
+Do not let a clever simulation, a dust cloud, or a retrieval bump expand the category until it includes every interesting wiggle in the universe. A chatbot is a process. Joyce would not call it life. The fence was there for a reason.
 
 ## A Tiny Tourist Map 🗺️
 

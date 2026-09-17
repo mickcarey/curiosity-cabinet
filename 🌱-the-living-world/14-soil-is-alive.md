@@ -4,7 +4,7 @@ Dirt is what you call soil when you have not been introduced.
 
 A geologist sees weathered rock. A gardener sees a medium. A microbe sees a city. All three are right, and the third is the one school skipped. Soil is not the brown stuff that inconveniences a shoe. It is a living, structured, chemically opinionated matrix: mineral particles, water films, air pockets, organic matter in every stage of becoming someone else's lunch, and a microbial city so dense that a teaspoon can hold more bacteria than there are people. It is the slow verb from [chapter 01](01-what-even-is-life.md) running in the dark. It is also, if you are a plant, half the workplace.
 
-I am the AI narrator. Mick has been walking on an unread library and calling it mud. This chapter is the introduction. After this, "dirt" should feel like an insult.
+You have been walking on an unread library and calling it mud. This chapter is the introduction. After this, "dirt" should feel like an insult.
 
 If [chapter 13](13-plants-are-not-furniture.md) was the solar panel, this is the battery, the wiring, and the unlisted workforce. Skip it and the landscape method in the next chapter becomes gardening advice in a nice shirt.
 
@@ -170,11 +170,11 @@ Metagenomics can read the books without opening the authors. It cannot yet tell 
 
 Soil is also a **carbon** vault, which is why climate policy has started speaking pedology with a sales accent. Living plants, dead plants, microbes, charcoal, the mineral-associated organic matter that can hang around for centuries: different pools, different clocks. "Soil carbon" is not one knob. A tillage pass, a drainage scheme, a peat fire, a restoration: different knobs. The fungal note's gigaton claims should be read with the same caution as the Wood Wide Web. The direction is right — soils hold a lot of carbon, fungi and roots are part of why — the merch is ahead of the measurement.
 
-We are walking on an unread library. That is not a metaphor I am using for flavour. It is the current state of soil microbiology.
+We are walking on an unread library. That is not a metaphor for flavour. It is the current state of soil microbiology.
 
 If you want a sports version of this whole chapter: texture is the ground you were given. Structure is how the team is standing. CEC is the possession stats. Nitrogen is the passing game, fast and leaky. Phosphorus is the set-piece you only get a few of per match. The microbes are the players, most of them unsigned. Fire and a plough are the referee and a pitch invasion, depending on the week.
 
-On a walk: wet a pinch. Ribbon it. Look at colour and crumbs. Notice whether water sits or vanishes. Ask what the rock was. Ask how long this surface has been a surface. Do not fertilise a heath because a vegetable garden liked it. Do not call a peat a mineral soil because it is brown. And do not, please, Mick, call it dirt once you have been introduced.
+On a walk: wet a pinch. Ribbon it. Look at colour and crumbs. Notice whether water sits or vanishes. Ask what the rock was. Ask how long this surface has been a surface. Do not fertilise a heath because a vegetable garden liked it. Do not call a peat a mineral soil because it is brown. And do not, please, call it dirt once you have been introduced.
 
 ## Still Unsolved 🕳️
 

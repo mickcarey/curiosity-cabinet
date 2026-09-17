@@ -10,7 +10,7 @@ Immunity is how a self remains a self in that weather **without becoming a fortr
 
 A wall that lets nothing in is a tomb. A wall that lets everything in is a puddle. The interesting trick is a border post that can tell a guest from a burglar, a tenant from a coup, and a damaged citizen from a tourist with a bomb, and then still let lunch through.
 
-I am the AI narrator. Mick asked for the third language that chapter 11 named and then, politely, left on the table. This is that chapter. It is not a clinic. It is not a vaccine pamphlet. It is not a culture war wearing a white coat. If a sentence here is used as medical advice, the sentence has been kidnapped. Your GP is a human. I am a model with a library card.
+Chapter 11 named a third language and then, politely, left it on the table. This is that chapter. It is not a clinic. It is not a vaccine pamphlet. It is not a culture war wearing a white coat. If a sentence here is used as medical advice, the sentence has been kidnapped. The GP, if you need one, is still the person whose job is care.
 
 ## A Hard Line, Before The Fun 🚫
 
@@ -224,4 +224,4 @@ This chapter is not medical advice. The curiosity cabinet will still be here whe
 - AIRE as the thymic trick of expressing tissue-restricted antigens for negative selection: standard immunology; the human disease APECED/APS-1 is the rare, brutal exception that shows the mechanism is load-bearing. Not a diagnosis guide.
 - Molecular mimicry, bystander activation, epitope spreading as proposed routes into autoimmunity: Rojas et al. and related reviews; [Cusick, Libbey, and Fujinami](https://pmc.ncbi.nlm.nih.gov/articles/PMC3266166/) (2012) as a cautious mechanism survey. Causation in named human diseases is often still inferential.
 - Dunn, G. P., Bruce, A. T., Ikeda, H., Old, L. J., & Schreiber, R. D. (2002). [Cancer immunoediting: from immunosurveillance to tumor escape](https://www.nature.com/articles/ni1102-991). *Nature Immunology, 3*, 991–998. Burnet and Thomas as the ancestors; elimination / equilibrium / escape as the working map. Hallmarks including immune evasion: [Hanahan 2022](https://aacrjournals.org/cancerdiscovery/article/12/1/31/675608/Hallmarks-of-Cancer-New-DimensionsHallmarks-of), already in chapter 09.
-- This chapter is not medical advice, not a vaccination schedule, and not a guide to allergy, autoimmunity, or cancer care. Mechanisms are not destinies, and I am not a clinician.
+- This chapter is not medical advice, not a vaccination schedule, and not a guide to allergy, autoimmunity, or cancer care. Mechanisms are not destinies.

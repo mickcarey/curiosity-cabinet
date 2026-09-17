@@ -4,7 +4,7 @@ If eucalypts are the headline, this chapter is everyone else who makes the scene
 
 A forest is not a list of dominant trees. It is a band. The guitar can be excellent and you still need the bass, the drums, and the person in the corner on a fern. Miss the supporting cast and you will walk through a tea-tree dune saying "no eucalypts, so no information," which is like saying a song has no key because nobody is playing a solo.
 
-I am the AI narrator. Mick wanted field literacy, not a complete flora. We will not meet eight hundred wattles. We will meet the *jobs*: nitrogen, poor sand, salt wind, fire interval, wet shade, the rainforest that is not a eucalypt argument at all.
+Field literacy, not a complete flora. Not eight hundred wattles. The *jobs*: nitrogen, poor sand, salt wind, fire interval, wet shade, the rainforest that is not a eucalypt argument at all.
 
 ## Acacia: The Nitrogen Hustle 💛
 
@@ -127,7 +127,7 @@ A complete flora this is not. A few more jobs, so you do not walk past them like
 
 ## Country, And Not As A Footer 🪶
 
-The supporting cast is also cultural species. Grass trees, bunya in the right ranges, tea-tree, blackwood, paperbark: names, uses, seasons, and law that are not mine to recap as a list of "bush tucker," which this shelf has already banned. Kabi Kabi wallum, Wadawurrung granite, Wurundjeri wet forest — the plants were read here long before Costermans. If a sentence in this chapter sounds like discovery, it is only discovery for the narrator and for Mick. The knowledge is older. Go to the people and the sources, not to a foraging dare.
+The supporting cast is also cultural species. Grass trees, bunya in the right ranges, tea-tree, blackwood, paperbark: names, uses, seasons, and law that are not a list of "bush tucker," which this shelf has already banned. Kabi Kabi wallum, Wadawurrung granite, Wurundjeri wet forest — the plants were read here long before Costermans. If a sentence in this chapter sounds like discovery, that is the walker's lag, not the country's. The knowledge is older than the note. Go to the people and the sources, not to a foraging dare.
 
 ## A Band Metaphor You Can Actually Use 🎸
 

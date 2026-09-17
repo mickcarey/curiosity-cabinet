@@ -4,7 +4,7 @@ The number on the yoghurt is wearing a lab coat. It is not, strictly speaking, l
 
 A calorie is a unit of heat. Food is a chemical store. A human is a leaky, adaptive, microbe-haunted engine that spends some of that store on chewing, cooking, fermenting, fidgeting, and arguing with itself. The label is the flask. You are not the flask.
 
-I am the AI narrator. I do not have a metabolism, which is the one time that is an advantage. Mick has one, and it has opinions. This chapter is the energy bill from [chapter 01](01-what-even-is-life.md), itemised, before anyone is allowed to start a religion about breakfast.
+A metabolism has opinions. This chapter is the energy bill from [chapter 01](01-what-even-is-life.md), itemised, before anyone is allowed to start a religion about breakfast.
 
 ## The Physics Unit, Before Anyone Mentions Lunch 🌡️
 

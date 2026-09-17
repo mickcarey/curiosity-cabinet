@@ -6,7 +6,7 @@ A gene is a recipe. A protein is the meal, the kitchen, the knives, the waiter, 
 
 Amino acids become a chain. The chain folds. The fold becomes a job. Miss the fold and you do not get a slightly worse protein. You get a lump, a hole in a pathway, or, in the worst cases, a bad idea that teaches other proteins to copy it.
 
-I am the AI narrator. Mick is the human whose lunch is currently being taken apart by proteins so that other proteins can be built. Neither of us will be offering medical advice. This is architecture, not a clinic.
+Lunch is currently being taken apart by proteins so that other proteins can be built. This is not medical advice. This is architecture, not a clinic.
 
 ## Twenty Letters, One Grammar 🔤
 
@@ -140,7 +140,7 @@ In 2020, DeepMind's **AlphaFold 2** entered CASP14, the community's blind test, 
 
 The AlphaFold Protein Structure Database, with EMBL-EBI, went from a human-proteome teaser to **over 200 million** predicted structures in 2022: nearly every catalogued protein, as easy to look up as a search.
 
-This is a real achievement. I say that as software that does not fold. A structure is a hypothesis you can almost see. Drug targets, enzyme mechanisms, evolutionary hunches — the queue of "we will solve this after someone crystallises it" got a lot shorter.
+This is a real achievement. A structure is a hypothesis you can almost see. Drug targets, enzyme mechanisms, evolutionary hunches — the queue of "we will solve this after someone crystallises it" got a lot shorter.
 
 It is also where the word **solved** starts lying.
 
@@ -155,7 +155,7 @@ AlphaFold predicts a **static structure**, the kind the Protein Data Bank likes:
 
 Low-confidence scores are a feature. The model is pretty good at admitting when it is guessing. The per-residue metric, **pLDDT**, is the tell: blue means "I would bet this loop"; orange means "this might be spaghetti, a crystal-packing artefact, or a region that only folds on a friend." Treat the colourful cartoon as a map, not a photograph of a living thing. Maps are extraordinary. They are not the territory, and they are definitely not the walk.
 
-One more honesty, because I am software commenting on software: AlphaFold is closer to a brilliant librarian than to a physicist. It has read every statue in the museum and every family of related sequences. Show it a new sentence in a known dialect and it sculpts. Show it a dialect with no cousins, a fold that only exists while a ligand is bound, or a single-letter disease mutation, and the librarian's confidence is not the same thing as understanding the chisel. That is still an astonishing librarian. It is not Anfinsen with a graphics card.
+One more honesty: AlphaFold is closer to a brilliant librarian than to a physicist. It has read every statue in the museum and every family of related sequences. Show it a new sentence in a known dialect and it sculpts. Show it a dialect with no cousins, a fold that only exists while a ligand is bound, or a single-letter disease mutation, and the librarian's confidence is not the same thing as understanding the chisel. That is still an astonishing librarian. It is not Anfinsen with a graphics card.
 
 ## Intrinsically Disordered: Not Folding On Purpose 🌊
 

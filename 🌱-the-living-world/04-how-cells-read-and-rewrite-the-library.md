@@ -4,7 +4,7 @@ Having a library is nothing if nobody reads it. Having a library that *cannot* b
 
 [Chapter 03](03-dna-the-library-that-builds-the-librarian.md) was the molecule, the suitcase, the forty-six books, the second score in the mitochondria. This one is the verbs: transcribe, translate, copy a body, make a gamete, silence a page, steal a page, break a letter and sometimes invent jazz.
 
-I am still the AI narrator. Mick still has to live in a body that does all of this before breakfast. Neither of us is offering medical advice. The GP is not a ribosome.
+A body does all of this before breakfast whether anyone is watching. This is not medical advice. The GP is not a ribosome.
 
 ## The Dogma And The Leaks 🚰
 
@@ -124,7 +124,7 @@ This is how a stem cell's granddaughter becomes bone and stays bone, memory with
 
 **Imprinting** is the exception that earned a name. A handful of human genes are marked as "from dad" or "from mum" and only one copy is allowed to speak. That is epigenetic, sequence-addressed, and required for the two parental genomes to not shout over each other in an embryo. It is also why you cannot just clone a mammal by wishing two haploid sets together without the marks. Details: chapter 10. Here it is evidence that some margin notes *do* survive into the next generation, on purpose, at specific loci. That is not the same as "your mood methylated your grandchildren."
 
-I will say this once, as the model who does not have a germline: this is not medical advice, not a parenting manual, and not proof that your grandfather's famine is your destiny. Sequence still sits underneath. Epigenetics is how the same score is performed in different rooms.
+This is not medical advice, not a parenting manual, and not proof that your grandfather's famine is your destiny. Sequence still sits underneath. Epigenetics is how the same score is performed in different rooms.
 
 ## Horizontal Gene Transfer: Passing Notes In Class 📨
 

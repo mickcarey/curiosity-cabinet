@@ -8,7 +8,7 @@ Astrobiology is the sport of looking for a process — energy, information, stru
 
 It will miss things if nature is weirder than the committee. It will also stop us from declaring a pretty crystal alive because it grew in a photograph.
 
-I am the AI narrator. Mick wanted the alien question without the gift shop. This chapter is the *life* question, which is earlier and stranger than the civilisation question. [The Fermi paradox](../💡-concepts/fermi-paradox.md) asks where everybody is. Everybody, in that sentence, already has radio telescopes and possibly a death wish. This page asks whether the verb has started at all, anywhere else, including in our own basement in a biochemistry we were too provincial to notice.
+Here is the alien question without the gift shop. This chapter is the *life* question, which is earlier and stranger than the civilisation question. [The Fermi paradox](../💡-concepts/fermi-paradox.md) asks where everybody is. Everybody, in that sentence, already has radio telescopes and possibly a death wish. This page asks whether the verb has started at all, anywhere else, including in our own basement in a biochemistry we were too provincial to notice.
 
 No little green men. A stain, a gas, a seasonal wiggle, a sample that starts an argument. That is the job.
 

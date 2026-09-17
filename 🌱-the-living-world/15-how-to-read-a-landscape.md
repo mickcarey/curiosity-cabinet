@@ -4,7 +4,7 @@ A landscape is not scenery. It is a press conference that has been running since
 
 The last three chapters handed you the instruments: bodies as arrangements, plants as slow verbs, soil as a living matrix. This chapter is the **order you ask the questions**. Not because nature is a flowchart. Because if you start with the wildflower you like, you will invent a story that flatters the wildflower. If you start with climate and rock, the wildflower has to fit, or you have to change your mind.
 
-I am the AI narrator. Mick wanted to walk into the bush and stop treating it like a screensaver. The method is global. The dialect next door is south-east Australian. Do not skip to the eucalypts and call it literacy. Learn the song. Then go hear the local key.
+The dream is to walk into the bush and stop treating it like a screensaver. The method is global. The dialect next door is south-east Australian. Do not skip to the eucalypts and call it literacy. Learn the song. Then go hear the local key.
 
 ## The Order Of Enquiry 🔍
 
@@ -182,9 +182,9 @@ And weather is not climate. One wet spring does not make a rainforest. One frost
 
 ## Take It Outside — And Leave The Sea For The Sea 🚶
 
-The Australian application — Victoria first, Sunshine Coast as the warmer dialect, eucalypts as a codebook — lives in [Reading The Bush](../🌲-reading-the-bush/README.md). That shelf is the walk. This chapter is the method the walk is allowed to use. Do not wait for every science chapter. The bush will not mark your homework.
+The Australian application — Victoria first, Sunshine Coast as the warmer dialect, eucalypts as a codebook — lives in [Reading The Bush](../🌲-reading-the-bush/01-the-climate-and-the-rock.md). That shelf is the walk. This chapter is the method the walk is allowed to use. Do not wait for every science chapter. The bush will not mark your homework.
 
-Seascapes are **not** this lesson with salt. Tides, swell, substrate, zonation, a barnacle line as a timetable: different medium, different lies, a twice-daily rewrite. That method gets its own chapter later in this series, and its own companion in [Reading The Water](../🌊-reading-the-water/README.md). A rockpool is not a gully. Do not leave this page thinking you can read a coast because you can read a hill. You cannot. Not yet. That is not a scolding. That is refusing a half-lesson.
+Seascapes are **not** this lesson with salt. Tides, swell, substrate, zonation, a barnacle line as a timetable: different medium, different lies, a twice-daily rewrite. That method gets its own chapter later in this series, and its own companion in [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md). A rockpool is not a gully. Do not leave this page thinking you can read a coast because you can read a hill. You cannot. Not yet. That is not a scolding. That is refusing a half-lesson.
 
 Other planets do not get a walkable companion. Earth is the place with tracks. The telescope chapters will ask you to read a spectrum with the same humility: observation, then inference, then a fight about false positives.
 
@@ -202,8 +202,8 @@ Other planets do not get a walkable companion. Earth is the place with tracks. T
 - Clements, F. E. (1916). *Plant Succession* — read as history, not as a field manual
 - Whittaker, R. H. on climax patterns; Connell and Slatyer on facilitation / inhibition / tolerance as mechanisms, not destinies
 - Jenny, again, because the landscape method is CLORPT with boots on
-- [Reading The Bush](../🌲-reading-the-bush/README.md) — the Australian dialect of this chapter
-- [Reading The Water](../🌊-reading-the-water/README.md) — when the exam paper is tidal
+- [Reading The Bush](../🌲-reading-the-bush/01-the-climate-and-the-rock.md) — the Australian dialect of this chapter
+- [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md) — when the exam paper is tidal
 - Next on the main climb: the Earth-bound capstone, where the unsolved pile gets its own room
 
 Go outside. Name the kind of place. Guess the soil. Guess the fire. Leave the Latin for later if you must. The point is not to win a pub quiz. The point is to stop walking through a living system as if it were landscaping.
@@ -224,4 +224,4 @@ A tree is not decoration. It is a press conference about the ground. You now hav
 - Poorter, L. et al. (2023). [Successional theories](https://onlinelibrary.wiley.com/doi/10.1111/brv.12995). *Biological Reviews* — a modern map of the argument.
 - Pickett, S. T. A., & White, P. S. (eds.). *The Ecology of Natural Disturbance and Patch Dynamics.* Disturbance as the editor, not the interruption.
 - Ellenberg indicator values: useful in Europe, a warning label everywhere else. Calibrate locally or do not bother.
-- [Reading The Bush](../🌲-reading-the-bush/README.md) and [Reading The Water](../🌊-reading-the-water/README.md) for the companions this method is built to feed.
+- [Reading The Bush](../🌲-reading-the-bush/01-the-climate-and-the-rock.md) and [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md) for the companions this method is built to feed.

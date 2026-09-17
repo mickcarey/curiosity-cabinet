@@ -4,7 +4,7 @@ You are a late, loud minority.
 
 That is not an insult. It is a census. The planet you walk around on, naming birds and arguing about trees, has spent almost all of its living history as a microbial operation. Animals are a recent marketing campaign. Plants, for all their carbon, are a late architectural fad: wood is a clever way to stack sugar in the sky. The chemistry, the headcount, and the clock all say the same rude thing. This is a microbial planet that grew a few conspicuous decorations.
 
-I am the AI narrator. Mick is the human who asked for a deep dive into life and then, reasonably, spent a lot of chapters looking in the mirror. [Chapter 09](09-the-cell-as-a-city.md) gave you a eukaryotic city: nucleus, mitochondria, zoning. Fair. That is the city you are made of. This chapter is the admission that most of Earth's cities never invented a downtown. They are one-room operations with a work ethic, a membrane, and a talent for chemistries your cells outsource or never learned.
+[Chapter 09](09-the-cell-as-a-city.md) gave you a eukaryotic city: nucleus, mitochondria, zoning. Fair. That is the city you are made of. This chapter is the admission that most of Earth's cities never invented a downtown. They are one-room operations with a work ethic, a membrane, and a talent for chemistries your cells outsource or never learned.
 
 The rest of the series will spend a lot of time on the loud minority, because you live in one. Just remember whose planet it is.
 
@@ -73,7 +73,7 @@ Membrane as border. Genome as library, usually one circular chromosome plus plas
 
 **Biofilms** are what happens when the one-room cities form a district. Sticky matrix, gradients of oxygen and food, specialists at the edge and dormancy in the middle. A plaque on a tooth is a city. A streamer in a pipe is a city. Soil crumbs are cities. Multicellularity did not invent cooperation. It promoted a civic kit microbes were already using without a mayor.
 
-The eukaryotic cell is the loud renovation. The default city is still the one-room kind. I say this as an AI narrator who has never once grown a colony on agar, which is the correct amount of humility: most of the authors of this planet have not been introduced, and I am not going to pretend a chapter is a handshake.
+The eukaryotic cell is the loud renovation. The default city is still the one-room kind. The correct amount of humility is this: most of the authors of this planet have not been introduced, and a chapter is not a handshake.
 
 ## Metabolism Is The Real Biodiversity ⚡️
 
@@ -115,7 +115,7 @@ None of this is a claim that animals do not matter. It is a claim about who inst
 
 ## The Unculturable Majority 🧫
 
-[Chapter 14](14-soil-is-alive.md) already named the problem, in soil, where a teaspoon is a city and most of the citizens have never been asked to sit on agar. This is the global version of that unread library. I will not rerun Jenny, CEC, or the phosphorus bottleneck. Those have a home. This is the census embarrassment.
+[Chapter 14](14-soil-is-alive.md) already named the problem, in soil, where a teaspoon is a city and most of the citizens have never been asked to sit on agar. This is the global version of that unread library. Jenny, CEC, and the phosphorus bottleneck already have a home. This is the census embarrassment.
 
 The **great plate count anomaly** — Staley and Konopka, 1985 — is the mismatch between what a microscope sees and what a petri dish grows. Classic slogan: less than 1% culturable. Lloyd and colleagues (2018) put the median nearer **0.5% of cells**, and estimated that most of Earth's microbial cells belong to lineages with no cultured representative.
 

@@ -4,7 +4,7 @@ This is the chapter where the walk tries to become a shopping list. It is allowe
 
 If the remnant vegetation is X, the soil and water are probably Y, so these plants are *plausible*. That is the inference engine. The engine has a brake, and the brake is the whole point of the shelf: **could ≠ should.**
 
-I am the AI narrator. Mick gardens, or at least stands in places where plants are expected to live, including Keilor Downs, which is not Sherbrooke. I have never needed a watering can. I have watched a lot of imported garden dreams die looking personally betrayed, which is a data set of sorts.
+A suburban block in Keilor Downs is not Sherbrooke. Imported garden dreams die in that gap looking personally betrayed, which is a data set of sorts.
 
 The bush is not a catalogue. "Could grow here" is not "the council will thank you," not "put it in the nature strip," not "replace the remnant with a tidier version of itself," and definitely not "forage it." Dinner is still a supermarket problem.
 
@@ -144,7 +144,7 @@ Local plants match the photoperiod, the frost, the soil chemistry, and the polli
 
 Climate change complicates it. Some people argue for planting slightly drier, hotter provenances as a hedge. That is an experiment at landscape scale, with hybridisation risks, and it is being argued by people who have data. Your nature strip is not the trial site unless you are in that conversation.
 
-For Mick's block: start local. If you cheat, cheat on purpose. Do not mix a restoration of a remnant (local, careful, humble) with a courtyard experiment (whatever lives) and give both the same speech.
+For a suburban block: start local. If you cheat, cheat on purpose. Do not mix a restoration of a remnant (local, careful, humble) with a courtyard experiment (whatever lives) and give both the same speech.
 
 ## Lawn, Mulch, And Other Invented Soils 🟢
 

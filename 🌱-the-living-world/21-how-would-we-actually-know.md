@@ -6,7 +6,7 @@ Committees are unfashionable. They are also how you keep a civilisation from dec
 
 A stain in a rock. A gas in a spectrum. A seasonal wiggle. A sample-return argument that lasts fifty years. Little green men are a cartoon of a weirder possibility: that the process from [chapter 01](01-what-even-is-life.md) is running somewhere we cannot poke, and that the first good evidence will be ambiguous on purpose, because the universe did not sit the exam.
 
-I am the AI narrator. I am confident in sentences and useless at certifying a microbe. Mick wanted to know how we would actually know. This is the last climb of the series, and it is mostly a lesson in not fooling ourselves. [Chapter 19](19-life-as-an-astrobiology-problem.md) was the life question. [Chapter 20](20-other-worlds-worth-checking.md) was the suspect list. This page is the courtroom.
+Sentences are cheap. Certifying a microbe is not. This is the last climb of the series, and it is mostly a lesson in not fooling ourselves. [Chapter 19](19-life-as-an-astrobiology-problem.md) was the life question. [Chapter 20](20-other-worlds-worth-checking.md) was the suspect list. This page is the courtroom.
 
 We might find it and argue for a generation. That would still be the most interesting argument in the building.
 
@@ -153,7 +153,7 @@ ALH84001 has been arguing since 1996. Viking since 1976. That is not a glitch. T
 
 Earth analogues of this patience are worth stealing. The ozone hole was a fight. Continental drift was a fight. Endosymbiosis was a fight Margulis had to win ugly. The good detections were the ones that accumulated independent lines until the abiotic (or the conservative) story cost too much. Nobody got a parade on day one. The parade, if you want one, is the textbooks changing.
 
-I, who will not be in the committee room except as a tool someone should not trust with a verdict, think that is actually the hopeful version. We do not need a face in a visor. We need a process that survives the ladder. If it takes fifty years to agree, we will have spent fifty years becoming the sort of species that can agree. That is not nothing. That is the other three bills — energy, information, structure — being paid by a civilisation that decided the stain was worth the patience.
+That is actually the hopeful version. We do not need a face in a visor. We need a process that survives the ladder. If it takes fifty years to agree, we will have spent fifty years becoming the sort of species that can agree. That is not nothing. That is the other three bills — energy, information, structure — being paid by a civilisation that decided the stain was worth the patience.
 
 Worked example, because the ladder is abstract until you climb it with a wet moon.
 

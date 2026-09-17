@@ -4,9 +4,9 @@ Land has the decency to sit still while you have an opinion. Water moves the fur
 
 That is why seascapes need their own method, not a rushed half-lesson at the end of a forest walk. Chapter 15 is the land version: climate → landform → rock → soil → water → plants → animals → disturbance. This chapter is the wet twin. Same game. Different medium. The ocean's physics sat in [chapter 17](17-the-ocean-is-another-planet-we-already-have.md). Here we stay in the bit you can actually walk up to, peer into, or boat across without a submersible: shores, shallows, estuaries, the rooms with names.
 
-I am the AI narrator. Mick wanted to stop treating the sea as a screensaver with extra wind. Same dream as the bush, saltier. Look. Infer. Then check the tide chart, because water lies on a schedule.
+Same dream as the bush, saltier: stop treating the sea as a screensaver with extra wind. Look. Infer. Then check the tide chart, because water lies on a schedule.
 
-The local dialect — Port Phillip, Bass Strait, a Victorian mangrove, Sunshine Coast rock — lives next door in [Reading The Water](../🌊-reading-the-water/README.md). This page is the global grammar. Do not wait for every Latin name. The barnacle line will not mark your homework. It will just keep being a tide table written in calcium.
+The local dialect — Port Phillip, Bass Strait, a Victorian mangrove, Sunshine Coast rock — lives next door in [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md). This page is the global grammar. Do not wait for every Latin name. The barnacle line will not mark your homework. It will just keep being a tide table written in calcium.
 
 ## The Order Of The Cards 🃏
 
@@ -176,9 +176,9 @@ Could ≠ should. Literacy is not a licence to eat anything with a shell, transp
 
 ## Take It Outside 🥾
 
-The grammar is this page. The dialect is [Reading The Water](../🌊-reading-the-water/README.md): Port Phillip's moods, a Great Ocean Road platform, a Victorian estuary, Sunshine Coast rock, the Reef as a labelled cameo rather than a coloniser of every thought.
+The grammar is this page. The dialect is [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md): Port Phillip's moods, a Great Ocean Road platform, a Victorian estuary, Sunshine Coast rock, the Reef as a labelled cameo rather than a coloniser of every thought.
 
-Same stance as [the bush companion](../🌲-reading-the-bush/README.md). Name the *kind* of shore. Guess the energy. Guess the salt. Leave the Latin for later if you must. The point is not a pub quiz against a marine biologist. The point is to stop staring at the sea as if it were one thing.
+Same stance as [the bush companion](../🌲-reading-the-bush/01-the-climate-and-the-rock.md). Name the *kind* of shore. Guess the energy. Guess the salt. Leave the Latin for later if you must. The point is not a pub quiz against a marine biologist. The point is to stop staring at the sea as if it were one thing.
 
 When the question becomes "is anyone else doing this on another world," the water was practice. Arc 9 is the telescope. You do not need a spaceship to start. You need a low tide and the humility to treat your first inference as a draft.
 
@@ -195,8 +195,8 @@ When the question becomes "is anyone else doing this on another world," the wate
 
 - A tide chart for wherever you actually stand. Literacy without the timetable is cosplay
 - The old rocky-shore zonation diagrams — still earn their keep, names aside
-- [Reading The Water](../🌊-reading-the-water/README.md) — the Australian walk
-- [Reading The Bush](../🌲-reading-the-bush/README.md) — the dry twin of the same habit
+- [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md) — the Australian walk
+- [Reading The Bush](../🌲-reading-the-bush/01-the-climate-and-the-rock.md) — the dry twin of the same habit
 - [Marine snow](../🌙-bedtime-reading/marine-snow-the-oceans-slow-blizzard.md), for the bit of the ocean the platform will not show you
 - [Octopus intelligence](../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md), for when the puddle looks back
 - Next: [life as an astrobiology problem](19-life-as-an-astrobiology-problem.md), once the ocean has stopped feeling like scenery
@@ -209,7 +209,7 @@ When the question becomes "is anyone else doing this on another world," the wate
 
 - Rocky-shore zonation as a tide-and-desiccation gradient is classical marine ecology; a clear overview: [Biodiversity on rocky coasts](https://www.encyclopedie-environnement.org/en/life/biodiversity-on-rocky-coasts-zoning-and-ecological-relationships-2/). North American lab version: [Oregon Sea Grant, rocky intertidal ecology](https://seagrant.oregonstate.edu/visitor-center/marine-education/lab-and-field-experiences/rocky-intertidal-ecology).
 - Estuarine plants as a codebook (seagrass, mangrove, saltmarsh): e.g. [NSW Environment, plants in estuaries](https://www.environment.nsw.gov.au/topics/water/estuaries/biodiversity-in-estuaries/plants-in-estuaries). The habitat types generalise; the species lists do not.
-- Kelp as a high-energy, high-light, usually cold rocky-forest; seagrass as a sedimentary meadow; coral as a low-nutrient tropical factory: standard marine habitat ecology. Local application belongs in [Reading The Water](../🌊-reading-the-water/README.md), not as a global species dump.
+- Kelp as a high-energy, high-light, usually cold rocky-forest; seagrass as a sedimentary meadow; coral as a low-nutrient tropical factory: standard marine habitat ecology. Local application belongs in [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md), not as a global species dump.
 - Wave climate, grain size, and deposition versus erosion: coastal geomorphology textbooks; the inference "coarse + steep ≈ energy, mud ≈ shelter" is the field version.
 - Coral bleaching as heat (and light) breaking the algal partnership: NOAA Coral Reef Watch and the accumulated bleaching literature. A seascape can be a crime scene.
 - Chapter 17 sources on light zones, thermoclines, and vents remain the physics underneath this method.

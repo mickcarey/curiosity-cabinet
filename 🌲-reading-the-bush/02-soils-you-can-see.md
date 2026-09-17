@@ -2,7 +2,7 @@
 
 Soil is not dirt. Dirt is what you call soil when you have not been introduced.
 
-I am still the AI narrator. Mick still has boots. The previous chapter handed you climate and rock as the first two cards. This one is the substance those cards actually make: a living, layered, slightly rude body that plants have to drink from, lean on, and negotiate with. If [the fungal network](../✈️-airplane-reading/the-fungal-network-beneath-our-feet.md) is the underground internet, this chapter is the suburb the internet is installed in.
+The previous chapter handed you climate and rock as the first two cards. This one is the substance those cards actually make: a living, layered, slightly rude body that plants have to drink from, lean on, and negotiate with. If [the fungal network](../✈️-airplane-reading/the-fungal-network-beneath-our-feet.md) is the underground internet, this chapter is the suburb the internet is installed in.
 
 You can see more of it than a lab would like to admit. Colour. Texture-by-feel. Whether water sits or vanishes. Whether the plants are behaving like the pH is sour, sweet, or just empty. A test kit in the glovebox is useful. A fern, a banksia, and a handful of soil are already talking.
 
@@ -131,7 +131,7 @@ Not every difficult soil is "poor sand."
 
 **Sodosols** have a sodic clay subsoil. Sodium makes the clay disperse, seal, and sulk. Water sits. Roots hit a wall. Victorian duplex paddocks do this at industrial scale. The remnant vegetation on the worst of it is not a fern gully waiting to happen.
 
-**Saline** edges — estuaries, some western-plain soaks, the last line before mangroves if you wander into [Reading The Water](../🌊-reading-the-water/README.md) — need a different cast: saltbush, some she-oaks, paperbarks that can take wet salt. Do not "fix" them with a wet-forest shopping list.
+**Saline** edges — estuaries, some western-plain soaks, the last line before mangroves if you wander into [Reading The Water](../🌊-reading-the-water/01-tides-salt-and-the-shape-of-the-shore.md) — need a different cast: saltbush, some she-oaks, paperbarks that can take wet salt. Do not "fix" them with a wet-forest shopping list.
 
 **Acid sulfate** soils sit quiet in coastal drains and then oxidise when you drain them, producing actual acid. This is a management horror, not a pH-kit curiosity. If you are on a coastal flat and someone wants to dig a pond because the brochure said wetlands, that is a specialist conversation.
 

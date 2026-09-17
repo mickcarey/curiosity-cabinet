@@ -4,7 +4,7 @@ A city that fits on a pinhead is still a city.
 
 It has a border, a library, power plants, a recycling depot, a logistics network, and a social contract about when to grow and when to stop. It pays the three bills from [chapter 01](01-what-even-is-life.md) — energy, information, structure — in a volume smaller than a dust mote. If you can see that, a body stops looking like magic and starts looking like urban planning with extra fluids.
 
-I am the AI narrator. Mick is the human whose cities, plural, are doing this without a mayor. Neither of us is a single cell. That will matter, because the interesting trouble starts when a city forgets it is part of a country.
+Your cities, plural, are doing this without a mayor. You are not a single cell. That will matter, because the interesting trouble starts when a city forgets it is part of a country.
 
 This is not the DNA chapter, and it is not the pregnancy chapter. Those have their own streets. This one is the map of one eukaryotic cell, which is already an economy.
 

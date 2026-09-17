@@ -25,11 +25,15 @@ This is a climb, not a prison.
 - Start at Arc 1 if you want the honest version of "what even is life?"
 - Jump to Arc 4 if you came here because "calorie" has been lying to you with a straight face.
 - Jump to Arc 5 if you want chromosomes, how a body is assembled, and what pregnancy actually is as biology.
+- Jump to [22](22-how-traits-run-in-families.md) and [23](23-evolution-the-engine.md) after DNA, if you want how faces run in families and what Darwinian actually means.
+- Jump to [24](24-microbes-are-most-of-life.md) after the cell, if you want the majority of life that does not have a face.
+- Jump to [25](25-immunity-the-embassy.md) after the human body, if you want the embassy.
+- Jump to [26](26-death-and-rotting.md) after a landscape walk, if you want what the log is doing.
 - Jump to Arc 6 if you want to walk into the bush and stop treating trees like furniture.
 - Jump to Arc 8 if the ocean has been quietly doing most of Earth's living.
 - Jump to Arc 9 if you want the alien question without the UFO gift shop.
 
-The climb is built. Start at 01, or jump. The field companions next door are the "go outside" layer.
+The climb is built, including five load-bearing rooms that keep numbers 22–26 so we did not smash every existing door. Read them where the map seats them, not as a sequel. Then stop. The field companions next door are the "go outside" layer.
 
 Two field companions sit next door, on purpose:
 
@@ -40,7 +44,7 @@ The science series teaches the method. The companions take it outside. Other pla
 
 ## What This Is Not 🚫
 
-- Not medical advice. Your GP is not a chapter. The pregnancy chapter is embryology, not a manual.
+- Not medical advice. Your GP is not a chapter. The pregnancy chapter is embryology, not a manual. Immunity is an embassy, not a clinic. Death is ecology, not a funeral.
 - Not a diet religion. Macros are architecture, not a personality test.
 - Not Gray's Anatomy, and not a remake of the [movement anatomy](../📰-articles/health-fitness-anatomy.md) note. That one is how not to break yourself. This one is what the machine *is*.
 - Not a complete flora, fish bible, or solar-system encyclopaedia.
@@ -69,6 +73,12 @@ What DNA actually is as a molecule, not a logo. Base pairing as an alphabet. Two
 **[04. How cells read and rewrite the library](04-how-cells-read-and-rewrite-the-library.md)**
 The central dogma and its leaks. Reverse transcriptase. RNA editing, including the [octopus](../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md) doing live remixes. The ribosome as an ancient RNA machine that never unionised. Mitosis versus meiosis: copying a body versus making a gamete. Epigenetics. Horizontal gene transfer. CRISPR as bacterial immunity first, lab toy second. Mutation as damage *and* the engine. Mystery: the dark genome, and how much regulation we are still guessing at.
 
+**[22. How traits run in families](22-how-traits-run-in-families.md)**
+You are a remix, not a 50/50 smoothie. Alleles, the dominant/recessive cartoon and its mess, polygenic traits, and why heritability is a population statistic rather than a horoscope about *you*. Nature/nurture is a bad framing. GWAS is association, not destiny. Mystery: missing heritability.
+
+**[23. Evolution: the engine](23-evolution-the-engine.md)**
+Chapter 01 already said Darwinian and never started the motor. Variation, heredity, selection, time. Common descent; why fungi sit closer to animals than to plants. Adaptation versus just-so stories. Drift. Not a ladder. The tree is also a web. Mystery: major transitions, and how much is selection versus constraint.
+
 ### Arc 3 — Molecular architecture
 
 **[05. Proteins: the machines that fold](05-proteins-the-machines-that-fold.md)**
@@ -90,11 +100,17 @@ Digestion as a disassembly line. Enzymes, bile, a gut with the surface area of a
 **[09. The cell as a city](09-the-cell-as-a-city.md)**
 Membranes as border control. Organelles as districts. Endosymbiosis: mitochondria and chloroplasts as former free-living tenants who never left. Cell cycle, apoptosis, cancer as a broken social contract. A single cell is already an economy. If you can see a city in a cell, a body stops looking like magic and starts looking like urban planning with extra fluids.
 
+**[24. Microbes are most of life](24-microbes-are-most-of-life.md)**
+You are a late, loud minority. Bacteria, archaea, and the chemistries eukaryotes mostly outsource. Woese's three domains. The unculturable majority. Microbiome as a second organ, not a yoghurt advert. Viruses as the other headcount. Mystery: how many kinds, and what most of them actually do.
+
 **[10. From gametes to a person](10-from-gametes-to-a-person.md)**
 How a body is actually assembled. Meiosis in action, 23+23 chromosomes, fertilisation, the blastocyst, gastrulation, germ layers, the placenta as a temporary organ and a diplomatic incident. Pregnancy as biology, not a vibe: how oxygen and calories cross, why the first trimester is a construction site, twins, chromosomal errors as failed chromosome dances. Not medical advice. Mystery: how a body plan is specified from one cell without a foreman.
 
 **[11. The human body as an ecosystem](11-the-human-body-as-an-ecosystem.md)**
 Not the gym anatomy note. Homeostasis as the whole game. Nervous, endocrine, and immune as three languages sharing one building. Circulation, lungs, kidneys, liver, gut-brain, skin as an organ *and* a zoo. Why this body plan: bipedal, sweaty, expensive brain, weirdly hairless. Comparative asides only where they sharpen the human story.
+
+**[25. Immunity: the embassy](25-immunity-the-embassy.md)**
+The third language, unpacked. You walk into a forest already covered in other genomes. Barriers, innate versus adaptive, inflammation as a fire department that can burn the house. Memory as the same trick in infection and vaccination. Allergy and autoimmunity as embassy failures. Not a clinic. Mystery: how much "self" is a committee.
 
 **[12. Other animals, same song, different arrangement](12-other-animals-same-song-different-arrangement.md)**
 Body plans. Vertebrates, arthropods, molluscs. Bird lungs, insect hemolymph, fish gills, octopus brains that refuse to centralise, whales as mammals in a different costume. Convergent evolution: eyes, wings, echolocation. Extremophiles as Earth's unofficial astronaut training program. Link the [jellyfish](../✈️-airplane-reading/the-immortal-jellyfish.md) and the [bees](../🌙-bedtime-reading/how-bees-vote-for-a-home.md). Mystery: how many times did complex cognition happen?
@@ -109,6 +125,9 @@ Soil is not dirt. Texture, structure, pH, organic matter, the quiet politics of 
 
 **[15. How to read a landscape](15-how-to-read-a-landscape.md)**
 The global *land* method. Climate → landform → parent rock → soil → water → plants → animals → disturbance. Indicator species as a language. Succession, and why "climax forest" is a bit of a myth. The inference: this tree is here, therefore the soil and fire regime are X, therefore Y is plausible. Humility included. Landscapes lie. Weeds lie. Gardens lie with better lighting. Seascapes get a pointer next door, not a rushed half-lesson. Then you take the method outside in [Reading The Bush](../🌲-reading-the-bush/README.md).
+
+**[26. Death and rotting](26-death-and-rotting.md)**
+The log is not a mess. It is a habitat. Cell death versus the process stopping. Decomposition as ecology: bacteria, fungi, the calorie's last job. Soil is in large part processed death. Marine snow is the ocean doing the same trick. Mystery: how much of a forest is standing death, and how messy "dead" actually is.
 
 ### Arc 7 — The Earth-bound capstone
 
@@ -165,7 +184,9 @@ Name-drops worth chasing when the chapters start landing:
 
 - Erwin Schrödinger, *What Is Life?*
 - Lynn Margulis, and the endosymbiosis argument that made people cross
-- Carl Woese, who found a whole domain of life hiding in the furniture
+- Carl Woese, who found a whole domain of life hiding in the furniture (now with his own chapter)
+- Darwin and Wallace, for the engine chapter 01 named and never started
+- Kirkwood's disposable soma, if the rotting chapter made aging feel like a theory instead of a mood
 - Wilbur Atwater, who turned food into numbers and accidentally started a century of arguments
 - Hans Jenny, for soil as a function, not a mess
 - Suzanne Simard, already haunting the fungal note
@@ -176,5 +197,7 @@ MC can treat those as a future reading pile, not homework due Tuesday.
 ---
 
 Start wherever the curiosity itches. The atoms will still be there in the morning. The forest will still be making soil. The ocean will still be most of the planet. And if anyone else is out there, they are not waiting for us to finish chapter 21 — but we should finish it anyway, so we know what we are looking at when the wiggle arrives.
+
+This is the complete climb. Inheritance, evolution, microbes, immunity, and rotting were the load-bearing rooms that were still dark. They are lit. No further wings.
 
 *"The universe is under no obligation to make sense to you. Life, however, keeps trying, using the same three tricks, on every wet rock it can find."*

@@ -23,7 +23,6 @@ This is not an application repo. No app to compile. No service to deploy. No tin
 - Explain clearly first, then make the idea memorable with a good analogy, vivid image, or sharp little turn of phrase.
 - Use emojis as visual colour in titles, section headings, article lists, and callouts. They should help the page breathe and break up dense text.
 - If the writing starts trying too hard to be funny, simplify. The joke should serve the idea, not leap in front of it wearing tap shoes.
-- Do not write as an AI narrator. Do not address the keeper as Mick, MC, Mike, or Michael. Do not break the fourth wall about being a model. The notes are cabinet voice: a smart friend on the page, not a chatbot introducing itself.
 
 Good target: "smart friend explaining the cool part, with enough humour and colour that the facts actually stick."
 

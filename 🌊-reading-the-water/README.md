@@ -51,24 +51,24 @@ If a rockpool looks like a mess of slime and snacks, you are in the right place.
 
 ## The Trail (chapters still in the pack)
 
-Until a chapter exists, it lives here as a description, not a dead link.
+The trail is built. Look. Infer. Check the tide chart.
 
-**01. Tides, salt, and the shape of the shore**
+**[01. Tides, salt, and the shape of the shore](01-tides-salt-and-the-shape-of-the-shore.md)**
 How Australian coasts actually work. Tides, swell, aspect. Why a west-facing rock platform is not an east-facing bay. Why Port Phillip can look polite from a ferry and still be a different country from Bass Strait. Energy and salt are the first two cards. Organisms are the comment they leave in the margin.
 
-**02. Rockpools as compressed textbooks**
+**[02. Rockpools as compressed textbooks](02-rockpools-as-compressed-textbooks.md)**
 Zonation you can see in ten metres: lichens, barnacles, molluscs, anemones, the "if this is here the tide reaches here" inference. A rockpool is a landscape painting that gets rewritten twice a day. That is annoying for picnics and perfect for literacy.
 
-**03. Kelp, seagrass, mangrove, estuary**
+**[03. Kelp, seagrass, mangrove, estuary](03-kelp-seagrass-mangrove-estuary.md)**
 The big habitat types of south-east Australia as a codebook. What each one says about light, salt, and sediment. Kelp is not "seaweed" as a personality. Seagrass is not a failed lawn. Mangroves are not a swamp you drive past. Estuaries are mixing desks. Once you can tell the rooms apart, the furniture starts making sense.
 
-**04. The animals that give the game away**
+**[04. The animals that give the game away](04-the-animals-that-give-the-game-away.md)**
 Indicator fauna without becoming a catalogue. Filter feeders, grazers, the odd vertebrate cameo. An octopus as "the smart puddle." What is here tells you about oxygen, food, and hiding places. What is *missing* tells you about energy, harvest, or a bay that looks healthier than it is.
 
-**05. Therefore this water could hold that**
+**[05. Therefore this water could hold that](05-therefore-this-water-could-hold-that.md)**
 The marine version of the bush "grow Y here" chapter. If the rockpool, seagrass, or mangrove is X, the conditions are Y, so Z is plausible. Also why tropical dreams die in Port Phillip, why Bass Strait is not a swimming pool with opinions, and why "I saw it on the Reef" is not an argument that belongs at Point Lonsdale.
 
-**06. Walkable water case studies**
+**[06. Walkable water case studies](06-walkable-water-case-studies.md)**
 Worked examples:
 
 - Port Phillip: bay versus heads

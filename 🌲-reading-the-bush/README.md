@@ -48,27 +48,27 @@ If you cannot tell a stringybark from a banksia, you are in the right place. If 
 
 ## The Trail (chapters still in the pack)
 
-Until a chapter exists, it lives here as a description, not a dead link.
+The trail is built. Method first, then the walk.
 
-**01. The climate and the rock**
+**[01. The climate and the rock](01-the-climate-and-the-rock.md)**
 Why the Otways are not the You Yangs. Rainfall gradients you can feel in the windscreen. Geology you can actually see: sandstone, basalt, granite, the coastal limestone that makes tea-tree look smug. Climate and parent rock are the first two cards. Plants are the comment they leave in the margin.
 
-**02. Soils you can see**
+**[02. Soils you can see](02-soils-you-can-see.md)**
 Sand, clay, loam, laterite, peaty wet forest, coastal alkaline sand, wallum. Colour. Texture-by-feel. Drainage. pH clues from the plants, which are ruder and more honest than a test kit you left in the car. Soil is not dirt. Dirt is what you call soil when you have not been introduced.
 
-**03. Eucalypts as a reading key**
+**[03. Eucalypts as a reading key](03-eucalypts-as-a-reading-key.md)**
 The practical superpower of this continent. Stringybark, peppermint, gum, ironbark, box: a moisture-fire-soil codebook wearing bark. You do not need all eight hundred species. You need to know what *kind* of eucalypt country you have walked into, the way a guitarist needs to know the key, not every possible chord.
 
-**04. The supporting cast**
+**[04. The supporting cast](04-the-supporting-cast.md)**
 Acacia, banksia, casuarina, tea-tree. Rainforest taxa versus sclerophyll. Fern gullies as a water story with extra theatre. Grass trees as fire-and-time wearing a skirt. If eucalypts are the headline, this chapter is everyone else who makes the scene make sense.
 
-**05. Fire, water, and succession**
+**[05. Fire, water, and succession](05-fire-water-and-succession.md)**
 Why so much of Australia looks like this and not like a postcard of England having a nervous breakdown. Fire regimes. Resprouters versus seeders. Wet gully refuges. What a post-fire walk is telling you, besides "that was a lot of smoke." Climax forest is a bit of a myth. The bush is a conversation that keeps getting interrupted.
 
-**06. Therefore you could grow this**
+**[06. Therefore you could grow this](06-therefore-you-could-grow-this.md)**
 The horticultural inference engine. If the remnant vegetation is X, the soil and water are probably Y, so these plants are *plausible*. Also: why imported garden dreams die here looking personally betrayed, and why "the soil is wrong" is often "the fire, the water, or the fungi are wrong." Could ≠ should. The bush is not a mood board.
 
-**07. Walkable case studies**
+**[07. Walkable case studies](07-walkable-case-studies.md)**
 Worked examples, not a rewrite of the hike guide:
 
 - Otways / fern gully

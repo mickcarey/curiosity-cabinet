@@ -24,11 +24,12 @@ This is a climb, not a prison.
 
 - Start at Arc 1 if you want the honest version of "what even is life?"
 - Jump to Arc 4 if you came here because "calorie" has been lying to you with a straight face.
+- Jump to Arc 5 if you want chromosomes, how a body is assembled, and what pregnancy actually is as biology.
 - Jump to Arc 6 if you want to walk into the bush and stop treating trees like furniture.
 - Jump to Arc 8 if the ocean has been quietly doing most of Earth's living.
 - Jump to Arc 9 if you want the alien question without the UFO gift shop.
 
-Chapters land in arcs. Finished ones get links. Until a chapter exists, it lives here as a description, not a dead link. That is not laziness. That is refusing to put a door on a room we have not built.
+The climb is built. Start at 01, or jump. The field companions next door are the "go outside" layer.
 
 Two field companions sit next door, on purpose:
 
@@ -39,7 +40,7 @@ The science series teaches the method. The companions take it outside. Other pla
 
 ## What This Is Not 🚫
 
-- Not medical advice. Your GP is not a chapter.
+- Not medical advice. Your GP is not a chapter. The pregnancy chapter is embryology, not a manual.
 - Not a diet religion. Macros are architecture, not a personality test.
 - Not Gray's Anatomy, and not a remake of the [movement anatomy](../📰-articles/health-fitness-anatomy.md) note. That one is how not to break yourself. This one is what the machine *is*.
 - Not a complete flora, fish bible, or solar-system encyclopaedia.
@@ -62,72 +63,75 @@ CHNOPS, water as the stage, carbon's four-bond personality, why silicon life is 
 
 ### Arc 2 — Information
 
-**03. DNA: the library that builds the librarian**
-What DNA actually is as a molecule, not a logo. Base pairing as an alphabet. Two metres of it stuffed into a nucleus like an overambitious suitcase. Replication, proofreading, chromatin. [Rosalind Franklin](../✈️-airplane-reading/forgotten-women-who-changed-everything.md) belongs in the room. Mystery: origin of the code, and how much "junk DNA" was just us being rude to a genome we could not read.
+**[03. DNA: the library that builds the librarian](03-dna-the-library-that-builds-the-librarian.md)**
+What DNA actually is as a molecule, not a logo. Base pairing as an alphabet. Two metres of it stuffed into a nucleus like an overambitious suitcase. Chromosomes: nucleosomes, chromatin, centromeres, telomeres, the human karyotype (22 autosomes plus sex chromosomes). Replication, proofreading. [Rosalind Franklin](../✈️-airplane-reading/forgotten-women-who-changed-everything.md) belongs in the room. Mystery: origin of the code, and how much "junk DNA" was just us being rude to a genome we could not read.
 
-**04. How cells read and rewrite the library**
-The central dogma and its leaks. Reverse transcriptase. RNA editing, including the [octopus](../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md) doing live remixes. The ribosome as an ancient RNA machine that never unionised. Epigenetics. Horizontal gene transfer. CRISPR as bacterial immunity first, lab toy second. Mutation as damage *and* the engine. Mystery: the dark genome, and how much regulation we are still guessing at.
+**[04. How cells read and rewrite the library](04-how-cells-read-and-rewrite-the-library.md)**
+The central dogma and its leaks. Reverse transcriptase. RNA editing, including the [octopus](../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md) doing live remixes. The ribosome as an ancient RNA machine that never unionised. Mitosis versus meiosis: copying a body versus making a gamete. Epigenetics. Horizontal gene transfer. CRISPR as bacterial immunity first, lab toy second. Mutation as damage *and* the engine. Mystery: the dark genome, and how much regulation we are still guessing at.
 
 ### Arc 3 — Molecular architecture
 
-**05. Proteins: the machines that fold**
+**[05. Proteins: the machines that fold](05-proteins-the-machines-that-fold.md)**
 Amino acids become chains, chains fold, fold becomes function. Enzymes as the band that makes the chemistry actually happen in time for dinner. Chaperones. Prions as contagious origami. AlphaFold: what it solved, and what "solved" still does not mean. Mystery: intrinsically disordered proteins, where *not* folding is the point.
 
-**06. Carbs, fats, and the architecture of food**
+**[06. Carbs, fats, and the architecture of food](06-carbs-fats-and-the-architecture-of-food.md)**
 Carbs as fuel, stores, scaffolding, and name-tags. Fats as fuel, waterproofing, **membranes**, and hormone hardware. "Just don't eat fat" is like refusing to build walls because bricks contain energy. Plant starch versus animal glycogen. Mystery: glycobiology is still a frontier wearing a beige lanyard.
 
 ### Arc 4 — Energy
 
-**07. What a calorie actually is**
+**[07. What a calorie actually is](07-what-a-calorie-actually-is.md)**
 A calorie is a physics unit. A bomb calorimeter is a tiny arsonist with a thermometer. Atwater's 4 / 4 / 9 is a useful lie. Fibre, cooking, the thermic effect, bioavailability, and the microbiome taking a cut like a cheerful landlord. "A calorie is a calorie" is true in a closed flask and almost never how a body behaves. Mystery: metabolic adaptation, and why two humans are not two identical engines.
 
-**08. From mouth to mitochondria**
+**[08. From mouth to mitochondria](08-from-mouth-to-mitochondria.md)**
 Digestion as a disassembly line. Enzymes, bile, a gut with the surface area of a small suburb. What actually crosses into blood versus lymph. The liver as customs. Glycolysis, Krebs, the electron-transport chain, ATP. Oxygen as gift and rust. The [endurance note](../📰-articles/health-fitness-endurance.md) already covers sport energy systems; this chapter is the chemistry underneath, not a training plan. Mystery: the tribal food fights versus the evidence.
 
 ### Arc 5 — Cells and bodies
 
-**09. The cell as a city**
+**[09. The cell as a city](09-the-cell-as-a-city.md)**
 Membranes as border control. Organelles as districts. Endosymbiosis: mitochondria and chloroplasts as former free-living tenants who never left. Cell cycle, apoptosis, cancer as a broken social contract. A single cell is already an economy. If you can see a city in a cell, a body stops looking like magic and starts looking like urban planning with extra fluids.
 
-**10. The human body as an ecosystem**
+**[10. From gametes to a person](10-from-gametes-to-a-person.md)**
+How a body is actually assembled. Meiosis in action, 23+23 chromosomes, fertilisation, the blastocyst, gastrulation, germ layers, the placenta as a temporary organ and a diplomatic incident. Pregnancy as biology, not a vibe: how oxygen and calories cross, why the first trimester is a construction site, twins, chromosomal errors as failed chromosome dances. Not medical advice. Mystery: how a body plan is specified from one cell without a foreman.
+
+**[11. The human body as an ecosystem](11-the-human-body-as-an-ecosystem.md)**
 Not the gym anatomy note. Homeostasis as the whole game. Nervous, endocrine, and immune as three languages sharing one building. Circulation, lungs, kidneys, liver, gut-brain, skin as an organ *and* a zoo. Why this body plan: bipedal, sweaty, expensive brain, weirdly hairless. Comparative asides only where they sharpen the human story.
 
-**11. Other animals, same song, different arrangement**
+**[12. Other animals, same song, different arrangement](12-other-animals-same-song-different-arrangement.md)**
 Body plans. Vertebrates, arthropods, molluscs. Bird lungs, insect hemolymph, fish gills, octopus brains that refuse to centralise, whales as mammals in a different costume. Convergent evolution: eyes, wings, echolocation. Extremophiles as Earth's unofficial astronaut training program. Link the [jellyfish](../✈️-airplane-reading/the-immortal-jellyfish.md) and the [bees](../🌙-bedtime-reading/how-bees-vote-for-a-home.md). Mystery: how many times did complex cognition happen?
 
 ### Arc 6 — Plants, soil, landscape method
 
-**12. Plants are not furniture**
+**[13. Plants are not furniture](13-plants-are-not-furniture.md)**
 Photosynthesis as the other energy story — the calorie's twin. Leaves as solar panels, wood as slow architecture, roots as the other half of the organism. Secondary metabolites: why eucalyptus smells like a chemist lives in the leaf. Plants as modular, half-underground, and in no hurry. Phytoplankton get a cameo so the ocean arc does not have to invent sunlight-eating from scratch. The [fungal network](../✈️-airplane-reading/the-fungal-network-beneath-our-feet.md) is already in the cabinet; this chapter goes looking for the plant's side of the bargain.
 
-**13. Soil is alive**
+**[14. Soil is alive](14-soil-is-alive.md)**
 Soil is not dirt. Texture, structure, pH, organic matter, the quiet politics of cation exchange. Jenny's factors: climate, organisms, relief, parent material, time. Nitrogen's cycle. Phosphorus as the bottleneck that does not do interviews. Mycorrhizae, deeper than the wow-piece. Mystery: most soil microbes have never been cultured. We are walking on an unread library.
 
-**14. How to read a landscape**
+**[15. How to read a landscape](15-how-to-read-a-landscape.md)**
 The global *land* method. Climate → landform → parent rock → soil → water → plants → animals → disturbance. Indicator species as a language. Succession, and why "climax forest" is a bit of a myth. The inference: this tree is here, therefore the soil and fire regime are X, therefore Y is plausible. Humility included. Landscapes lie. Weeds lie. Gardens lie with better lighting. Seascapes get a pointer next door, not a rushed half-lesson. Then you take the method outside in [Reading The Bush](../🌲-reading-the-bush/README.md).
 
 ### Arc 7 — The Earth-bound capstone
 
-**15. Mysteries, theories, and the unsolved**
+**[16. Mysteries, theories, and the unsolved](16-mysteries-theories-and-the-unsolved.md)**
 Synthesis of the Earth story, not a junk drawer and not the alien-detection chapter. Origin of life: RNA world, metabolism-first, vents, panspermia as a teaser. Viruses. Aging. Holobionts — we are ecosystems wearing a nametag. Gaia as poetry that accidentally predicts things. The tree of life is more of a web. Species concepts. Consciousness stays in [its own note](../📰-articles/consciousness-and-the-mind.md). The door at the end: if life is a process, it might not have happened only once, and it might not look like a forest.
 
 ### Arc 8 — The other 70 percent
 
-**16. The ocean is another planet we already have**
+**[17. The ocean is another planet we already have](17-the-ocean-is-another-planet-we-already-have.md)**
 Most of Earth's living space is wet, dark, salty, and under pressure. Light zones, thermoclines, the deep sea as an alien environment you can theoretically visit if your hobbies are expensive. Primary production at the surface. [Marine snow](../🌙-bedtime-reading/marine-snow-the-oceans-slow-blizzard.md) as the slow postal service. Hydrothermal vents as both origin-story candidates and "look, a biosphere with no sunlight." Extremophiles, now in their actual house.
 
-**17. How to read a seascape**
-The global *water* method, twin of chapter 14. Energy (waves, tides, currents) → salinity → substrate → light → temperature → who lives here → disturbance. Kelp versus mangrove versus seagrass versus coral versus the barnacle line. Rockpools as compressed textbooks. Estuaries as mixing desks. The inference: this organism is here, therefore the water is X, therefore Y could live here. Tides lie twice a day. Then you take it outside in [Reading The Water](../🌊-reading-the-water/README.md).
+**[18. How to read a seascape](18-how-to-read-a-seascape.md)**
+The global *water* method, twin of chapter 15. Energy (waves, tides, currents) → salinity → substrate → light → temperature → who lives here → disturbance. Kelp versus mangrove versus seagrass versus coral versus the barnacle line. Rockpools as compressed textbooks. Estuaries as mixing desks. The inference: this organism is here, therefore the water is X, therefore Y could live here. Tides lie twice a day. Then you take it outside in [Reading The Water](../🌊-reading-the-water/README.md).
 
 ### Arc 9 — Life elsewhere
 
-**18. Life as an astrobiology problem**
+**[19. Life as an astrobiology problem](19-life-as-an-astrobiology-problem.md)**
 How you hunt for a process you still cannot define. Habitable zones, and why "Goldilocks" is too cute — subsurface oceans do not care about your suntan. Biosignatures versus technosignatures. Oxygen as a clue, not a verdict. Carbon, water, energy gradients as the betting slip. Shadow biospheres on Earth as the awkward local version of the alien question. [The Fermi paradox](../💡-concepts/fermi-paradox.md) is the civilisation question. This chapter is the *life* question, which is earlier and stranger.
 
-**19. Other worlds worth checking**
+**[20. Other worlds worth checking](20-other-worlds-worth-checking.md)**
 The actual suspects, not a solar-system encyclopaedia. Mars: past water, organics, the chance we already have a sample and do not know. Europa and Enceladus: ice shells, plumes, kitchens under the floor. Titan: methane weather, a chemistry set with a dress code. Venus: clouds, and the phosphine saga as a cautionary tale. Exoplanets: what a transit, a spectrum, and a telescope wiggle can and cannot say. "Weird life" that might skip water or skip carbon, labelled as theory, not merch.
 
-**20. How would we actually know?**
+**[21. How would we actually know?](21-how-would-we-actually-know.md)**
 The detection problem. False positives: the ALH84001 "fossils," Venus phosphine, [Tabby's Star](../✈️-airplane-reading/tabbys-star.md) and the megastructure temptation. The ladder of claims: interesting chemistry → possible biosignature → probably biology → we are not alone. What a *good* detection looks like: multiple independent lines, no known abiotic path, reproducible. SETI versus biosignature science. Little green men are a cartoon of a weirder possibility: a stain, a gas, a seasonal wiggle, a sample-return argument that lasts fifty years. We might find it and argue for a generation. That would still be the most interesting argument in the building.
 
 ---
@@ -171,6 +175,6 @@ MC can treat those as a future reading pile, not homework due Tuesday.
 
 ---
 
-Start wherever the curiosity itches. The atoms will still be there in the morning. The forest will still be making soil. The ocean will still be most of the planet. And if anyone else is out there, they are not waiting for us to finish chapter 20 — but we should finish it anyway, so we know what we are looking at when the wiggle arrives.
+Start wherever the curiosity itches. The atoms will still be there in the morning. The forest will still be making soil. The ocean will still be most of the planet. And if anyone else is out there, they are not waiting for us to finish chapter 21 — but we should finish it anyway, so we know what we are looking at when the wiggle arrives.
 
 *"The universe is under no obligation to make sense to you. Life, however, keeps trying, using the same three tricks, on every wet rock it can find."*

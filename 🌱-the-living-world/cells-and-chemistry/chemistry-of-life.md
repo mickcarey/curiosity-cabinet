@@ -1,74 +1,74 @@
 # The Chemistry of Life ⚛️
 
-A tree, a jellyfish and a bacterium use much the same chemical ingredients. Their differences come largely from how those ingredients are arranged and managed.
+A tree builds much of its wood from the air. That sounds like something a magician would claim while distracting you from a truckload of timber, but it is ordinary plant chemistry.
 
-Six elements dominate biological molecules: **carbon, hydrogen, nitrogen, oxygen, phosphorus and sulfur**, often shortened to CHNOPS. Add water, mineral ions and an energy supply, and you have the materials for biochemistry. You do not yet have life, any more than a bag of flour is a bakery.
+To understand how, start small. All familiar matter is made of **atoms**, tiny units of chemical elements such as carbon and oxygen. An **element** is a particular kind of atom. Atoms can join through chemical bonds to make **molecules**: water, for example, contains two hydrogen atoms joined to one oxygen atom. That is what H₂O means.
 
-## 🧱 Why carbon is so useful
+Living things use these same ingredients. **Biochemistry** is the chemistry happening inside them: building materials, releasing usable energy and keeping countless reactions running together. A tree and a jellyfish look spectacularly different, but their chemical shopping lists overlap considerably.
 
-Carbon can form four covalent bonds. It bonds to itself in chains, branches and rings, and to other elements in an enormous variety of arrangements. Many of these structures are stable enough to persist in water while remaining chemically alterable by enzymes.
+## 🧱 Why so much carbon?
 
-That combination matters. A molecule that falls apart immediately cannot store information. A molecule that never reacts cannot participate in metabolism. Carbon supports useful territory between the two.
+A carbon atom can make four strong connections called **covalent bonds**, in which atoms share electrons. Electrons are the tiny negatively charged particles involved in much of chemistry; changing how they are shared changes what a substance can do.
 
-Small changes in attached groups produce very different behaviour. Hydroxyl groups help many sugars interact with water. Long hydrocarbon chains are largely nonpolar and form the hydrophobic portions of fats. Amino and carboxyl groups give amino acids their characteristic acid–base chemistry. The same carbon framework can therefore support fuels, membranes, catalysts and inherited information.
+Carbon can join other carbon atoms in chains, branches and rings. It also bonds with hydrogen, oxygen, nitrogen and other elements. This makes an enormous variety of structures possible, from small sugars to the long molecules that carry inherited information.
 
-Carbon dioxide also moves readily through air and water. Photosynthetic organisms incorporate its carbon into organic molecules; respiration returns much of that carbon to CO₂. A large part of a tree's dry mass began in the air. The soil supplies essential nutrients, but it is not being converted wholesale into wood.
+The structures are stable enough to last, but can still be changed by chemical reactions. That balance matters. A building material that immediately falls apart is unhelpful. One that can never be altered makes growth rather awkward.
 
-## 💧 Water makes the chemistry possible
+Attaching different groups of atoms changes a molecule's behaviour. Some groups interact readily with water. Long stretches of carbon and hydrogen generally do not. This helps explain why sugar dissolves in a cup of tea while oil sits on top looking uninvited.
 
-Water has an uneven distribution of electrical charge. Its oxygen end is partly negative and its hydrogen ends partly positive. This **polarity**, together with hydrogen bonding, explains several useful properties:
+Plants use light energy to turn carbon dioxide from the air and water into sugars. This is **photosynthesis**. They can then turn sugar into cellulose, a strong material in their cell walls. Much of a tree's dry mass therefore began as carbon dioxide. Roots supply water and essential minerals; they are not quietly sucking up pre-made wood.
 
-- Many salts dissolve because water stabilises separated ions.
-- Water absorbs substantial heat before its temperature changes greatly.
-- Evaporation carries away heat, making sweating and plant transpiration effective cooling processes.
-- Ordinary ice is less dense than liquid water, allowing lakes to freeze from above.
-- Water participates directly in reactions, including the hydrolysis that breaks many biological polymers into smaller pieces.
+## 💧 Water is doing more than making things wet
 
-Water does not dissolve everything. Nonpolar molecules interact poorly with it. When suitable molecules have both water-compatible heads and nonpolar tails, they can assemble into **bilayers**: heads face the water and tails collect inside. This arrangement reduces unfavourable exposure of the tails to water.
+A water molecule has an uneven electrical charge: the oxygen end is slightly negative and the hydrogen ends slightly positive. These partial charges attract other charged particles and neighbouring water molecules.
 
-That is the physical basis of many [cell membranes](cells-and-organelles.md). Life makes sophisticated use of a tendency chemistry already provides.
+That helps water dissolve many substances. Table salt, for instance, separates into charged particles called **ions**. Water molecules gather around them, helping keep them apart. Dissolved materials can move around and react, which is useful inside a cell, the tiny living unit that makes up an organism.
 
-## 🧪 What the other elements contribute
+Water also resists sudden temperature changes. Evaporating water carries heat away, which is why sweat can cool you. Ice has an unusually open molecular arrangement, making it less dense than liquid water. It floats, so a lake freezes from the top rather than turning into an ice cube from the bottom up. Fish have reason to appreciate this arrangement.
 
-| Element | Some major biological roles |
-| --- | --- |
-| Hydrogen | Water, organic molecules and proton gradients used in energy conversion |
-| Oxygen | Water and organic compounds; an electron acceptor in aerobic respiration |
-| Nitrogen | Amino acids and the bases of DNA and RNA |
-| Phosphorus | Nucleic-acid backbones, ATP and many membrane lipids |
-| Sulfur | Certain amino acids, protein-stabilising disulfide bonds and electron-transfer chemistry |
+Water takes part in reactions too. **Hydrolysis** means breaking a chemical connection with the help of water. Digestion uses it to break large food molecules into smaller ones.
 
-Availability is not the same as abundance. Nitrogen gas makes up most of the atmosphere, but its strong triple bond prevents plants and animals from using it directly. Certain bacteria and archaea carry out **nitrogen fixation**, converting N₂ into biologically accessible compounds. Nitrogenase, the enzyme system involved, is demanding chemistry that agriculture depends on whether or not anyone notices the microbes.
+Oil behaves differently because most of its molecules have little attraction to water. Molecules with a water-friendly head and an oily tail can arrange themselves into a double layer, with the tails tucked inside. That is the basis of many [cell membranes](cells-and-organelles.md): chemistry provides a boundary before life starts adding the clever machinery.
 
-Phosphorus presents a different problem. It has no major atmospheric reservoir comparable to nitrogen gas. Its supply depends heavily on rocks, weathering, recycling and chemical binding in soils. These constraints help explain why [soil ecology](../soil-ecology.md) affects entire forests.
+## 🌱 Plenty of nitrogen, surprisingly little to eat
 
-## 🔩 Small quantities, essential jobs
+Six elements are especially common in life's molecules: carbon, hydrogen, nitrogen, oxygen, phosphorus and sulfur. Their chemical symbols make the shorthand **CHNOPS**. It is a useful list, not a recipe: mixing them together will not produce a confused hamster.
 
-Trace elements often sit at the active centres of enzymes or stabilise important structures. Iron participates in electron transfer and oxygen transport. Magnesium associates with ATP and sits at the centre of chlorophyll. Zinc supports many enzymes and DNA-binding proteins. Copper participates in respiratory chemistry, while cobalt is part of vitamin B12.
+Nitrogen goes into proteins and genetic material. Phosphorus helps form genetic molecules and many membranes, and appears in molecules that transfer energy. Sulfur contributes to certain proteins, including bonds that help hold their shapes.
 
-Their usefulness comes from specific properties: how they bind other atoms, stabilise charge or change oxidation state. Another metal of similar size is not automatically a substitute.
+But being surrounded by an element is different from being able to use it. Most of the air is nitrogen gas, made of pairs of nitrogen atoms joined by a very strong bond. Plants and animals cannot simply take that nitrogen straight from the air and build with it.
 
-The same reactivity can become damaging when an element is in the wrong place or concentration. Cells therefore regulate uptake, storage and delivery. “Essential” describes a requirement within a range, not an invitation to add more.
+Some microbes can. Through **nitrogen fixation**, certain bacteria and archaea—two groups of single-celled organisms—convert nitrogen gas into compounds life can use. Their specialised chemical machinery does a job that forests and farms depend on.
 
-## 🪨 Why not silicon?
+Phosphorus presents another problem: there is no comparable atmospheric supply. It must come largely from rocks, the breakdown of minerals, and recycled remains and waste. It can also become bound to soil particles in forms roots struggle to obtain. This is one reason [soil ecology](../soil-ecology.md) has so much influence above ground.
 
-Silicon also forms four bonds and is abundant in Earth's crust. That makes it an appealing candidate for science fiction, but neighbouring positions in the periodic table do not guarantee interchangeable chemistry.
+## 🔩 Tiny amounts, enormous consequences
 
-In water-rich, oxygen-containing environments, silicon readily forms strong bonds with oxygen and stable mineral structures. It does not offer carbon's comparable range of persistent, readily manipulated molecular scaffolds under those conditions. A [review by Petkowski, Bains and Seager](https://www.mdpi.com/2075-1729/10/6/84) examines these limitations and possible roles in other solvents.
+Living things need smaller amounts of other elements too. Iron helps carry oxygen in blood. Magnesium sits at the centre of chlorophyll, the green pigment plants use to capture light. Zinc helps many proteins work.
 
-Earth organisms do use silicon: diatoms build silica shells and many plants deposit silica in their tissues. Their inherited information and metabolism still depend on carbon chemistry. A glass house does not make its occupant glass-based life.
+These elements often help **enzymes**, molecules that speed up chemical reactions. Their particular electrical properties let them hold other atoms in position or help transfer electrons. A vaguely similar metal will not necessarily do the job, any more than a house key becomes useful because it is approximately the right colour.
 
-## 🧤 The unanswered choices
+Cells control how much they absorb, where it goes and how it is stored. The same chemical reactivity that makes an element useful can cause damage in the wrong place or amount.
 
-Biology's standard proteins mostly use twenty amino acids, with specialised mechanisms adding selenocysteine or pyrrolysine in some organisms. Their diversity supplies charge, flexibility, hydrophobicity and chemical reactivity.
+## 🪨 Could life be made from silicon instead?
 
-Proteins also mostly use **L-amino acids**, while the sugars in DNA and RNA belong to the **D** family. These labels describe molecular stereochemistry. Glycine has no handedness, and D-amino acids have other biological roles, including in bacterial cell walls.
+Silicon can also make four bonds and is abundant in rocks. Science fiction has understandably noticed.
 
-Why life settled on this particular combination remains an origin-of-life problem. Once enzymes and polymers depend on a consistent molecular geometry, changing it becomes difficult. That explains persistence more readily than the initial choice.
+The difficulty is what those bonds actually do. In water-rich environments containing oxygen, silicon readily forms very stable mineral structures. Carbon offers a much broader range of molecules that can persist while still being readily rearranged under those conditions. [A review of silicon's possibilities](https://www.mdpi.com/2075-1729/10/6/84) explores both the limits and environments where the comparison could change.
 
-Alternative solvents, such as Titan's liquid hydrocarbons, would change which molecules dissolve and how compartments form. Whether a complete evolving biology could operate there is unknown. [Other potentially habitable worlds](../astrobiology/worlds-that-might-host-life.md) make that chemical question concrete.
+Earth organisms do use silicon. Tiny algae called diatoms build silica shells, and many plants deposit silica in their tissues. But the chemistry that keeps those organisms alive still depends on carbon. Living in a glass house does not make you glass-based life.
 
-For familiar Earth chemistry in action, explore [proteins](proteins-and-folding.md), [carbohydrates and fats](carbohydrates-and-fats.md), or [DNA](../genetics-and-evolution/dna-and-chromosomes.md).
+## 🧤 Life has a curious preference for one hand
+
+Some molecules come in mirror-image forms, like left and right hands. The same parts are connected in the same order, but their three-dimensional arrangement differs.
+
+Proteins, the molecules that do much of a cell's work, are chains of smaller units called **amino acids**. Life mostly builds proteins from the left-handed, or **L**, forms. Sugars in genetic material belong to the **D** family. These labels describe molecular arrangement, not which way a molecule happens to face on the page.
+
+Why those particular choices? We do not fully know. Once life's machinery became fitted to one arrangement, changing it would have been difficult: a left glove does not suddenly become a good right glove because you are feeling experimental. That helps explain why the preference persists, but not how it began.
+
+On [other worlds](../astrobiology/worlds-that-might-host-life.md), different temperatures or liquids could favour different chemistry. Whether any of it could produce a complete living system is still an open question.
+
+Here on Earth, the surprises are already plentiful: the same basic ingredients become [proteins](proteins-and-folding.md), [sugars and fats](carbohydrates-and-fats.md), and [DNA](../genetics-and-evolution/dna-and-chromosomes.md). The arrangement makes all the difference.
 
 ## 📚 Sources and further reading
 

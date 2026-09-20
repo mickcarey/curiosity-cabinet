@@ -1,38 +1,42 @@
 # How Animals Solve the Same Problems 🐙
 
-Every animal must obtain food, exchange gases, move materials and coordinate its body. Evolution has produced very different ways to do those jobs.
+An octopus has three hearts. A fly can deliver oxygen to its tissues without carrying it around in blood. A whale lives in the sea but must surface to breathe. If there were one perfect way to build an animal, somebody has lost the plans.
+
+An animal is a living thing made of many **cells**, tiny units that cooperate to form its body. Animals get their food by consuming other organisms or their products. A **body plan** is the broad arrangement of parts—where the mouth goes, what supports the body and how materials travel inside it. Different plans solve the same practical problems.
 
 A fish gill, a bird lung and an insect's air tubes all support gas exchange, but their arrangements reflect different environments and inherited structures. Comparing them is more useful than ranking animals from “simple” to “advanced”. A bee is not an unfinished mammal.
 
 ## 🧭 Shape affects what a body can do
 
-Bilateral animals have a left–right organisation and usually a distinct front. Directional movement often favours concentrating sensory structures near the end that meets the environment first.
+**Bilateral** animals have roughly matching left and right sides and usually a distinct front. Directional movement often favours concentrating sensory structures near the end that meets the environment first.
 
-Radially organised animals can encounter food and danger from several directions. Cnidarians such as sea anemones and jellyfish illustrate variations on that arrangement. Adult sea stars are another case, but their larvae are bilateral: similar outward geometry does not necessarily mean similar evolutionary history.
+**Radial** bodies have parts arranged around a centre, like spokes around a wheel. Animals with this arrangement can encounter food and danger from several directions. **Cnidarians**, the group containing sea anemones and jellyfish, illustrate variations on that arrangement. Adult sea stars are another case, but their young, called larvae, are bilateral: similar outward geometry does not necessarily mean similar evolutionary history.
 
-Support systems also differ. Vertebrates have internal skeletons. Arthropods use an external cuticle, with growth requiring moulting. Many soft-bodied animals use fluid pressure and muscle arrangements as a **hydrostatic skeleton**.
+Support systems also differ. **Vertebrates**, animals with backbones, have internal skeletons. **Arthropods**, including insects and crabs, have jointed limbs and a tough outer covering. Growing means shedding this covering through **moulting**. Many soft-bodied animals use fluid pressure and muscle arrangements as a **hydrostatic skeleton**.
 
 Each system has constraints. An exoskeleton provides protection and muscle attachment, but moulting creates vulnerability. An internal skeleton grows with the animal, but requires living tissue and repair. Neither comes with a universal best-body award.
 
 ## 🌬️ Gas exchange is a problem of surfaces and gradients
 
-Gases diffuse down partial-pressure gradients. Effective respiratory structures provide a large surface, a short diffusion distance and a way to maintain the gradient.
+Oxygen helps animal cells release usable energy from food; carbon dioxide is one waste product that needs to leave. Both gases move by **diffusion**: their random motion produces a net flow from where their partial pressure is higher to where it is lower. Partial pressure describes the contribution a particular gas makes to a mixture's pressure.
 
-**Fish gills** commonly use countercurrent exchange: water and blood flow in opposite directions. This maintains an oxygen gradient along much of the exchange surface. The thin, extensive surface works in water but is vulnerable to collapse and drying in air.
+Breathing structures exploit this movement. They provide a large, thin surface and keep fresh air or water moving past it, so oxygen continues entering rather than reaching a standstill.
 
-**Mammalian lungs** ventilate branching airways and alveoli by moving air in and out. Blood flows beside the alveolar surfaces, where gas exchange occurs.
+**Fish gills** commonly use countercurrent exchange: water and blood flow in opposite directions, so blood keeps meeting water with more available oxygen than it holds. This maintains an oxygen gradient along much of the exchange surface. The thin, extensive surface works in water but is vulnerable to collapse and drying in air.
 
-**Bird lungs** use air sacs to help drive airflow through relatively rigid gas-exchange structures. Flow through major exchange passages is largely unidirectional, with a cross-current relationship between air and blood. Similarities in non-flying reptiles show that parts of this arrangement predate modern birds' flight specialisation.
+**Mammalian lungs** ventilate branching airways and tiny air sacs called **alveoli** by moving air in and out. Blood flows beside the alveolar surfaces, where gas exchange occurs.
 
-**Insects** generally deliver gases through a tracheal network opening at spiracles. Their circulating fluid, haemolymph, usually has little direct role in oxygen transport. It still carries nutrients, hormones and other materials. The [insect circulation account from NC State](https://genent.cals.ncsu.edu/bug-bytes/circulatory-system/) explains why open circulation can coexist with intense flight activity.
+**Bird lungs** use air sacs to help drive airflow through relatively rigid gas-exchange structures. Flow through major exchange passages is largely unidirectional, while blood crosses the airflow rather than travelling along exactly the same route. Similarities in non-flying reptiles show that parts of this arrangement predate modern birds' flight specialisation.
+
+**Insects** generally deliver gases through a branching network of air tubes, called **tracheae**, opening through holes called **spiracles**. Their circulating fluid, haemolymph, usually has little direct role in oxygen transport. It still carries nutrients, hormones and other materials. The [insect circulation account from NC State](https://genent.cals.ncsu.edu/bug-bytes/circulatory-system/) explains why open circulation can coexist with intense flight activity.
 
 ## 🩸 Circulation follows the rest of the body
 
-Closed circulatory systems keep blood largely within vessels, supporting controlled pressure and directed delivery. Vertebrates, annelids and cephalopods provide examples.
+Closed circulatory systems keep blood largely within vessels, supporting controlled pressure and directed delivery. Vertebrates, segmented worms such as earthworms, and cephalopods—the group containing octopuses and squid—provide examples.
 
 Open systems move haemolymph through body spaces as well as vessels. Arthropods and most other molluscs use this arrangement. Its consequences depend partly on whether oxygen travels with the circulating fluid or through a separate system.
 
-Octopuses and other coleoid cephalopods have two branchial hearts supporting flow through the gills and a systemic heart supplying the body. Their oxygen-carrying pigment, haemocyanin, uses copper; vertebrate haemoglobin uses iron. Similar transport requirements can be met with different chemistry.
+Octopuses, squid and cuttlefish have two **branchial hearts** pumping through the gills and a **systemic heart** supplying the body. Three hearts, with distinct plumbing duties. Their oxygen-carrying pigment, haemocyanin, uses copper; vertebrate haemoglobin uses iron. Similar transport requirements can be met with different chemistry.
 
 ## 🐋 A whale reveals inherited constraints
 
@@ -42,7 +46,7 @@ Diving adaptations include substantial oxygen stores in blood and muscle, change
 
 Sharks and dolphins can look similar because fast swimming favours some shared shapes. Their resemblance illustrates **convergence**, not close ancestry.
 
-**Homology** instead describes similarity inherited from a common ancestor. Human arms, whale flippers and bat wings are homologous as tetrapod forelimbs, even though their functions differ. The relevant level of comparison matters: bird and bat forelimbs are homologous, while their particular powered-flight adaptations arose separately.
+**Homology** instead describes similarity inherited from a common ancestor. Human arms, whale flippers and bat wings are homologous as front limbs inherited from a four-limbed ancestor, even though their functions differ. The relevant level of comparison matters: bird and bat forelimbs are homologous, while their particular powered-flight adaptations arose separately.
 
 ## 🐙 Coordination need not all happen in a head
 
@@ -56,7 +60,7 @@ The cabinet has fuller notes on [octopus intelligence](../../✈️-airplane-rea
 
 ## 🧊 Survival is different from active life
 
-Some tardigrades survive severe drying by entering a state of extremely low metabolic activity. Experiments have shown survival under some space-exposure conditions, with major limits imposed by factors such as radiation.
+**Tardigrades**, tiny eight-legged animals often called water bears, can in some species survive severe drying by slowing their internal chemistry almost to a stop. Experiments have shown survival under some space-exposure conditions, with major limits imposed by factors such as radiation.
 
 This is endurance of a dormant state, not evidence that tardigrades feed and reproduce in vacuum. That distinction is useful in [astrobiology](../astrobiology/astrobiology.md): surviving transport and establishing a functioning population are different achievements.
 

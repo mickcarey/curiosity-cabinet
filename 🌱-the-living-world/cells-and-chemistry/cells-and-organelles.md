@@ -1,69 +1,78 @@
 # Cells and Their Compartments 🔬
 
-A cell maintains an internal environment, obtains energy, makes components and responds to its surroundings. Its contents are organised in space, even though much of that organisation is constantly being rebuilt.
+Your skin, a mushroom and a blade of grass are all built from **cells**: tiny living units enclosed by a membrane. Some organisms are just one cell. You are a vast collection of them, cooperating well enough to read about themselves. That is a fairly impressive group project.
 
-Bacteria and archaea accomplish this without a nucleus. Eukaryotic cells, including those of animals, plants and fungi, contain a nucleus and specialised internal compartments. More compartments do not make a cell more successful by definition; bacteria have done rather well without a stationery cupboard for every reaction.
+Most cells are too small to see without a microscope. Inside, water surrounds a busy mixture of molecules, the tiny chemical structures from which living things are made. Reactions build new materials, release usable energy and deal with waste. The membrane keeps this activity together while allowing selected substances in and out.
 
-## 🫧 A boundary that controls exchange
+Cells are not all identical. Bacteria and archaea, two major groups of single-celled life, have no **nucleus**, the compartment that houses most genetic information in animal, plant and fungal cells. Cells with nuclei are called **eukaryotic**. Their internal compartments, or **organelles**, allow different jobs to happen in different conditions.
 
-The plasma membrane contains a lipid bilayer and associated proteins. Its hydrophobic interior restricts passage of ions and many water-soluble molecules. Small nonpolar molecules, including oxygen and carbon dioxide, cross more readily.
+## 🫧 How do you have a boundary without starving inside it?
 
-Channels allow particular substances to move down electrochemical gradients. Carriers bind and transport selected molecules. Pumps use energy to maintain differences in concentration or charge. The sodium–potassium pump is one familiar example in animal cells.
+A cell needs separation from the outside world, but it also needs supplies. A completely sealed cell would have a very short career.
 
-Those gradients support electrical signalling, nutrient uptake and water balance. Receptors detect signals outside the cell and change activity inside it. Adhesion proteins connect cells to neighbours and to extracellular material.
+Its **plasma membrane** is mainly a double layer of oily molecules called lipids, with proteins embedded in it. These lipids have heads that interact with water and tails that avoid it. In water, the tails gather inside the layer while the heads face outwards.
 
-The membrane also changes shape. Endocytosis brings material in through membrane-bound vesicles; exocytosis releases material by vesicle fusion. A cell's boundary is an active part of its metabolism, not just packaging.
+Oxygen and carbon dioxide can pass through this layer fairly easily. Charged particles, called **ions**, and many other substances need help. Membrane proteins provide selective routes:
 
-## 🧬 Separating incompatible activities
+- **Channels** create passages for particular particles.
+- **Carriers** bind a substance and change shape to move it across.
+- **Pumps** use energy to move substances against the direction they would otherwise tend to travel.
 
-Compartments let a cell maintain different chemical conditions in different places.
+Pumps can build up more of a substance on one side than the other. Differences in concentration and electrical charge store usable energy, rather as water held behind a dam can do work when released. Nerve signals and nutrient uptake depend on such differences.
 
-| Structure | Main contribution |
-| --- | --- |
-| Nucleus | Houses most eukaryotic DNA; regulates traffic through nuclear pores |
-| Endoplasmic reticulum | Protein processing, lipid synthesis and calcium storage, with roles varying by region and cell type |
-| Golgi apparatus | Modifies and sorts proteins and lipids |
-| Lysosomes | Acidic compartments for breakdown and recycling in animal cells |
-| Peroxisomes | Selected oxidative reactions and hydrogen-peroxide handling |
-| Mitochondria | Energy conversion and several other metabolic and signalling roles |
+Other membrane proteins detect outside signals or attach the cell to its neighbours. For larger deliveries, the membrane can fold around material and pinch off an internal bubble, a **vesicle**. The reverse process releases material outside. Even the wrapping takes part in the work.
 
-Ribosomes assemble proteins. Some operate freely in the cytosol; others associate with the endoplasmic reticulum while making proteins destined for secretion or particular membranes and compartments.
+## 🧬 Why have rooms inside a cell?
 
-Vesicle transport connects much of the endomembrane system. Recognition proteins help ensure that a vesicle carrying digestive enzymes does not simply fuse with whichever membrane happens to be nearby.
+Imagine trying to store food and digest it in exactly the same place. Keeping some reactions apart makes a great deal of sense.
 
-Some organised regions lack surrounding membranes. The nucleolus, where ribosomal components are produced and assembled, is one example. Cellular organisation does not always require a sealed room.
+The **nucleus** contains most of the cell's DNA, short for **deoxyribonucleic acid**: the molecule carrying inherited information. Selected parts of that information are copied into a related molecule, RNA, or **ribonucleic acid**. Some RNA copies carry instructions to **ribosomes**, molecular structures that assemble proteins from smaller units called amino acids.
 
-## 🕸️ A scaffold that moves
+Proteins do much of a cell's work, from speeding up reactions to carrying cargo. Some are made on ribosomes attached to the **endoplasmic reticulum**, a folded membrane network. Here, newly made proteins can enter compartments where they are folded and prepared for delivery. Other parts of the network make lipids and store calcium ions.
 
-The **cytoskeleton** gives cells shape, transmits forces and supports internal transport. In animal cells, three major filament systems are actin filaments, microtubules and intermediate filaments.
+The **Golgi apparatus**, another collection of membrane compartments, modifies and sorts many of these products. Vesicles carry them onwards. Recognition molecules help deliveries reach the correct destination; digestive chemicals are particularly poor candidates for “leave anywhere convenient”.
 
-Actin helps cells change shape and is central to muscle contraction. Microtubules provide tracks for motor proteins and form the chromosome-separating spindle. Intermediate filaments provide mechanical resilience.
+In animal cells, **lysosomes** contain acidic conditions and enzymes that break down material for recycling. **Peroxisomes** handle other reactions, including those involving hydrogen peroxide, a useful but potentially damaging chemical.
 
-These are dynamic structures. Filaments grow and shrink; motors carry cargo; cells rearrange their interior as their needs change. A long neuron particularly depends on directed transport because diffusion alone would be too slow over its full length.
+Not every organised region needs a membrane. The **nucleolus**, inside the nucleus, assembles components of ribosomes. Cells can organise chemistry through molecules gathering together as well as by putting walls around them.
 
-## ⚡ Organelles with bacterial ancestry
+## 🕸️ The scaffolding can walk things around
 
-Mitochondria and chloroplasts originated through **endosymbiosis**: relationships in which formerly separate organisms became integrated into a host cell.
+A cell's interior contains a network of protein fibres called the **cytoskeleton**. It supports shape, helps cells move and provides routes for transporting material.
 
-Evidence includes their genomes, bacterial relationships revealed by sequence comparisons, membrane organisation and division machinery. Over evolutionary time, many genes were lost or transferred to the nucleus. Modern organelles depend heavily on proteins made elsewhere in the cell.
+In animal cells, **actin filaments** help change shape and contribute to muscle contraction. **Microtubules** act as tracks for motor proteins and help separate genetic material during division. **Intermediate filaments** help tissues withstand mechanical stress.
 
-Mitochondria use their inner membranes to sustain the proton gradients involved in [ATP production](../bodies-and-energy/digestion-and-cellular-energy.md). Chloroplasts descend from cyanobacteria and support photosynthesis in plants and algae. Both retain specialised genetic machinery, but their ribosomes and genomes have changed substantially since the original associations.
+Motor proteins use chemical energy to move along these tracks carrying cargo. This matters especially in long nerve cells: waiting for everything to wander randomly from one end to the other would be hopelessly slow.
 
-Lynn Margulis helped establish the modern endosymbiotic account. Its central claims about mitochondria and plastids became well supported; some additional proposals did not. Scientific credit need not require treating every idea from a scientist as a package deal.
+The fibres themselves grow, shrink and rearrange. “Skeleton” suggests something fixed; this one is constantly being remodelled while the building is occupied.
 
-How the first eukaryotic cell formed remains less settled than the bacterial ancestry of its organelles. Relationships to archaeal lineages and the order in which different cellular features arose remain active research topics.
+## ⚡ Some compartments used to be separate organisms
 
-## 🔄 Growth, division and restraint
+**Mitochondria** help cells convert energy from food into forms they can use. One important product is **ATP**, short for **adenosine triphosphate**, a molecule whose reactions help power activities such as transport and movement.
 
-The cell cycle coordinates growth, DNA replication and division. In a typical dividing animal cell, G1 precedes DNA synthesis in S phase; G2 precedes mitosis and cytokinesis. Many cells leave the active cycle temporarily or permanently.
+The inner mitochondrial membrane holds a difference in the concentration and charge of hydrogen ions, also called protons. Their return through specialised machinery helps make ATP. The detail is in [cellular energy](../bodies-and-energy/digestion-and-cellular-energy.md), but the central idea is a controlled flow driving work.
 
-Checkpoints help prevent division with damaged DNA or improperly attached chromosomes. Cells also respond to growth signals, nutrient availability and contacts with their surroundings. A multicellular organism depends on restraint as much as proliferation.
+Plant and algal cells also have **chloroplasts**, which capture light energy for photosynthesis: making sugars from carbon dioxide and water.
 
-**Apoptosis** is a regulated cell-death process used in development and tissue maintenance. Cellular contents are packaged and removed, often with limited inflammation. It is one of several cell-death mechanisms, not the name for every cell that dies.
+Both organelles have bacterial ancestry. An ancestral cell acquired partners that eventually became permanent parts of it, a process called **endosymbiosis**. Evidence includes their own DNA, their relationships to bacteria revealed by genetic comparisons, and aspects of their membranes and division.
 
-Cancer can arise when evolving cell lineages acquire combinations of changes that promote inappropriate survival, growth and invasion. It illustrates a tension within multicellularity: what benefits one cell lineage can damage the organism supporting it.
+Over time, many genes moved to the host's nucleus or were lost. Modern mitochondria and chloroplasts depend on the rest of the cell. This was a very successful living arrangement, with a fairly decisive end to moving out.
 
-These processes connect to [embryonic development](../bodies-and-energy/embryonic-development.md), [immunity](../bodies-and-energy/immunity.md) and [death and decomposition](../death-and-decomposition.md). For the information machinery inside the nucleus, see [DNA and chromosomes](../genetics-and-evolution/dna-and-chromosomes.md).
+Lynn Margulis helped establish the modern account. The bacterial ancestry of these organelles is well supported; exactly how the first eukaryotic cells took shape remains a lively research problem.
+
+## 🔄 Making another cell—and knowing when to stop
+
+Before a cell divides, it generally needs to grow and copy its DNA. The DNA is organised into packages called **chromosomes**. In **mitosis**, copied chromosomes are separated into two sets; **cytokinesis** then divides the cell itself.
+
+The usual cycle is labelled G1, S, G2 and M: growth, DNA synthesis, further preparation, then division. The labels are less interesting than the coordination. Copying unfinished instructions into two new cells would spread the problem.
+
+Checkpoints help pause division when DNA is damaged or chromosomes are not correctly attached to the machinery that pulls them apart. Many cells also stop dividing when surrounding signals tell them to.
+
+Cells sometimes carry out a controlled self-dismantling process called **apoptosis**. Their contents are packaged for removal. This helps shape a developing body and remove cells that are no longer needed or are damaged.
+
+A whole organism depends on this cooperation. Cancer can develop when a cell's descendants acquire changes that let them grow, survive and invade despite the body's usual controls. Success for those cells can be disastrous for the body they belong to.
+
+That balance between individual cells and the whole body runs through [development](../bodies-and-energy/embryonic-development.md), [immunity](../bodies-and-energy/immunity.md) and [death](../death-and-decomposition.md). For the material being copied and divided, explore [DNA and chromosomes](../genetics-and-evolution/dna-and-chromosomes.md).
 
 ## 📚 Sources and further reading
 

@@ -28,6 +28,20 @@ Good target: "smart friend explaining the cool part, with enough humour and colo
 
 Bad target: "technical documentation, academic fog, or a comedy routine stapled to a biography."
 
+### 🗣️ Voice To Preserve
+
+Use the early biographies as a feel for the voice, especially [Mary Anning](👤-people/mary-anning.md): a fascinating concrete detail, a clear explanation, then a little humour that makes the idea stick. [Victor Borge](👤-people/victor-borge.md) captures the attitude towards the reader: invite everyone in without talking down to them. These are voice references, not templates to copy or authorities for unrelated facts.
+
+- **Assume curiosity, not prior knowledge.** A reader may never have met the subject. Introduce what something is before its functions or mechanisms; expand an acronym on first use in each standalone article. DNA needs “deoxyribonucleic acid” and a plain explanation, not just the long name.
+- **Give the reader a reason to care.** Begin with an observable puzzle, a surprising fact or a concrete example. A seed becoming a sunflower is a better doorway into genetics than a catalogue of molecular processes.
+- **Unpack the explanation as you go.** Answer what, why and how in a natural progression. Define unfamiliar terms where they become useful; avoid opening with a glossary or explaining one unknown word with three more.
+- **Keep the depth.** Show how things happen, why they matter and where the evidence runs out. Beginner-friendly means building the steps, not removing the interesting science.
+- **Let the subject supply the humour.** Prefer a sharp observation or a helpful analogy to invented anecdotes, running gags or elaborate scene-setting. An analogy should explain a particular feature; drop it when it stops helping.
+- **Write to a curious person.** Use warm, direct language, lively headings and concrete examples. Avoid textbook summaries, piles of abstract nouns, forced segues, repeated “not X but Y” constructions and a joke in every paragraph. Childlike curiosity does not require a babyish voice.
+- **Let each article stand alone.** Other notes are optional rabbit holes, not required earlier chapters. Briefly reintroduce a concept if understanding this article depends on it.
+
+Before finishing, read the opening and the densest section aloud. Could a newcomer explain the main idea afterwards? Is there something that makes them want to keep reading? If either answer is no, rewrite the passage rather than adding a glossary at the bottom.
+
 ### 💭 Content Approach
 
 - Embrace curiosity and wonder.

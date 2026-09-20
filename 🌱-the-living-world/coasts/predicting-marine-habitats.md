@@ -1,21 +1,23 @@
 # Predicting Marine Habitats from the Shore 🔎🌊
 
-A useful habitat prediction connects an observation to a mechanism. Seagrass growing in shallow water suggests that enough light reaches the leaves and that the substrate permits establishment. It does not prove that every nearby shallow area could support the same meadow.
+One patch of shallow water contains seagrass. The patch next to it is bare. Why? Too little light, shifting sand, hungry animals—or simply no plants arriving there yet?
 
-The distinction matters because several causes can produce similar scenes. Bare rock might reflect grazing, wave scour, recent disturbance or poor recruitment. A plausible explanation becomes stronger when it survives checks against the alternatives.
+A **habitat** is a place providing an organism with living conditions and resources. Predicting a habitat means asking where a species could survive, and why. **Seagrasses** are flowering plants adapted to seawater, so they need light for their leaves and a suitable bottom for their roots. That gives us useful first clues.
+
+Several causes can produce similar scenes. Bare rock might reflect grazing, wave scour, recent disturbance or too few young organisms arriving and surviving. A plausible explanation becomes stronger when it survives checks against the alternatives.
 
 ## 🧭 Describe conditions before predicting species
 
 Start with six questions:
 
-- Is the substrate stable rock, mobile sand, mud or a mixture?
+- Is the **substrate**, the material forming the bottom, stable rock, mobile sand, mud or a mixture?
 - How do waves and currents move water across it?
 - How long is it exposed between tides?
-- Does freshwater or evaporation substantially change salinity?
+- Does freshwater or evaporation substantially change **salinity**, the amount of dissolved salt?
 - How much light reaches the relevant depth?
 - What temperatures and seasonal extremes must organisms tolerate?
 
-These conditions interact. Clear water may allow photosynthesis at greater depth, but light cannot compensate for a lack of suitable attachment. Calm conditions may favour sediment accumulation while also reducing exchange. There is no single “good habitat” setting for all marine life.
+These conditions interact. Clear water may allow **photosynthesis**, the use of light energy to build biological material, at greater depth, but light cannot compensate for a lack of suitable attachment. Calm conditions may favour sediment accumulation while also reducing exchange. There is no single “good habitat” setting for all marine life.
 
 [Tides and shorelines](tides-salt-and-shorelines.md) explains the physical processes, while [coastal habitats](kelp-seagrass-mangroves-and-estuaries.md) connects them with major habitat-formers.
 
@@ -25,17 +27,17 @@ A living, established organism shows that it has survived the conditions it enco
 
 Even then, the organism does not reveal every environmental variable independently. A barnacle band reflects immersion, splash, temperature, competition and settlement history. Its upper boundary is not an exact tide mark.
 
-A mangrove stand indicates conditions suitable for that species and its establishment history. It need not prove substantial freshwater input, nor does it establish that the adjacent beach could support mangroves.
+A group of **mangroves**, trees or shrubs adapted to tidal saltwater conditions, indicates conditions suitable for that species and its establishment history. It need not prove substantial freshwater input, nor does it establish that the adjacent beach could support mangroves.
 
-A stranded alga is weaker evidence for local habitat than an attached population. Currents may have delivered it from elsewhere. The beach is quite capable of displaying someone else's vegetation.
+A stranded piece of seaweed is weaker evidence for local habitat than an attached population. Currents may have delivered it from elsewhere. The beach is quite capable of displaying someone else's vegetation.
 
 ## 🌱 Worked example: a seagrass patch
 
 **Observation:** rooted seagrass occupies part of a shallow sandy area, while a nearby patch is bare.
 
-**First hypothesis:** conditions in the bare patch do not support the plants.
+**First hypothesis**, or proposed explanation: conditions in the bare patch do not support the plants.
 
-That is a starting point, but several explanations remain. The patch might be deeper, more mobile, more shaded by turbid water or more frequently disturbed. Alternatively, it may be suitable but not yet recolonised after a disturbance.
+That is a starting point, but several explanations remain. The patch might be deeper, more mobile, more shaded by water clouded with suspended particles or more frequently disturbed. Alternatively, it may be suitable but not yet recolonised after a disturbance.
 
 Useful checks include substrate differences, depth, old photographs and repeated mapping. Measuring underwater light would test a different part of the explanation from examining sediment movement.
 
@@ -43,9 +45,9 @@ The prediction becomes specific: if light is the main limitation, comparable sit
 
 ## 🦔 Worked example: grazed reef
 
-**Observation:** many urchins, little large algal canopy and extensive encrusting growth on rock.
+**Observation:** many urchins, little cover of large seaweeds, and plenty of organisms growing as thin crusts on the rock.
 
-**Hypothesis:** grazing helps maintain the low-canopy state.
+**Hypothesis:** grazing helps keep larger seaweeds from returning. This can be tested with observations or experiments.
 
 To test it, researchers might compare areas with different grazing pressure or manipulate grazing in a controlled study. Recovery after an intervention can support the proposed mechanism while still leaving other questions open: why did urchin abundance change, and what prevents recovery elsewhere?
 
@@ -53,13 +55,13 @@ To test it, researchers might compare areas with different grazing pressure or m
 
 ## 🌡️ Predict across the whole year
 
-A warm afternoon does not establish a tropical climate. Persistence depends on winter temperatures, heat extremes, food supply, reproduction and dispersal as well as present conditions.
+A warm afternoon does not establish a tropical climate. Persistence depends on winter temperatures, heat extremes, food supply, reproduction and the ability to reach new places as well as present conditions.
 
 A visiting animal may survive briefly without establishing a population. A range extension supported by repeated observations and breeding is a different claim from a single unusual sighting.
 
 The same caution applies to moving expectations between regions. Victorian kelp habitats, Sunshine Coast coral communities and the Great Barrier Reef share some ecological processes, but differ in species, temperature regimes and habitat structure.
 
-Corals can also occur outside tropical reef-building systems. “Coral present” does not by itself mean “a tropical coral reef is developing.” The relevant question includes the balance between carbonate production and loss over time.
+Corals can also occur outside tropical reef-building systems. “Coral present” does not by itself mean “a tropical coral reef is developing.” The relevant question includes whether organisms build calcium carbonate skeletons—the main mineral framework of a coral reef—faster than that material is removed or dissolved.
 
 ## 👀 Absence needs an observation method
 
@@ -71,7 +73,7 @@ Repeated observations under comparable conditions improve confidence. Historical
 
 ## 🧪 A prediction is not yet a restoration plan
 
-Knowing that a species could tolerate a site is only part of restoration. Establishment may also depend on seed or larval supply, neighbouring habitats, grazing, disease and past changes to water movement.
+Knowing that a species could tolerate a site is only part of restoration. Establishment may also depend on the arrival of seeds or young animals called **larvae**, neighbouring habitats, grazing, disease and past changes to water movement.
 
 The target matters: restoring a historical community, improving a particular ecological function and anticipating future conditions can lead to different choices. The people responsible for a place, including Traditional Owners and managers, belong in that decision.
 
@@ -87,7 +89,7 @@ A useful note separates three layers:
 >
 > **To check:** seasonal extent, depth and whether the apparently bare area was formerly vegetated.
 
-Confidence should increase as independent evidence agrees. When it does not, revise the explanation. The reward is a better question and a more accurate picture of the shore, rather than a prediction that has merely become more emphatic.
+Confidence can grow when different kinds of evidence agree. When they do not, the interesting question is what you missed. The shore is allowed to prove you wrong; that is how it gets more interesting. The reward is a better question and a more accurate picture of the shore, rather than a prediction that has merely become more emphatic.
 
 [Coastal case studies](coastal-case-studies.md) applies this method to Victorian and Sunshine Coast settings. [Reading a seascape](../reading-a-seascape.md) gives the wider framework.
 

@@ -34,7 +34,7 @@ Fish enter parts of the intertidal as the water rises. Birds gain access as it f
 
 Predation interacts with habitat structure. Crevices, algal cover and shell beds provide refuges for some prey while creating hunting opportunities for others. Removing the structure can change those interactions even if the water chemistry stays the same.
 
-For the broader relationship between anatomy and feeding, see [animal body plans](../animal-body-plans.md).
+For the broader relationship between anatomy and feeding, see [animal body plans](../bodies-and-energy/animal-body-plans.md).
 
 ## 🏠 Animals can build habitat
 

@@ -12,7 +12,7 @@ Liquid water alone is insufficient. A habitat also needs accessible chemical ing
 
 Energy must be available in a form organisms can exploit. Sunlight supports photosynthesis; differences in chemical oxidation state can support other metabolisms. Heat can help maintain a liquid environment, but warmth alone does not specify a usable metabolic reaction.
 
-For the underlying molecular constraints, see [the chemistry of life](chemistry-of-life.md).
+For the underlying molecular constraints, see [the chemistry of life](../cells-and-chemistry/chemistry-of-life.md).
 
 ## 🌍 The habitable zone is one search filter
 
@@ -30,7 +30,7 @@ Microbes on Earth exploit a wide range of chemical reactions. Some inhabit envir
 
 These examples show that sunlight at the organism's location is not universally required. They do not show that any warm underground ocean must be inhabited. Reactants must be supplied, products removed and the energy balance maintained.
 
-The analogy also needs care: many Earth vent communities use oxidants ultimately connected to surface processes. An icy moon may have a different supply. [Ocean ecology](ocean-ecology.md) provides useful mechanisms without making Earth and every ocean world equivalent.
+The analogy also needs care: many Earth vent communities use oxidants ultimately connected to surface processes. An icy moon may have a different supply. [Ocean ecology](../ocean-ecology.md) provides useful mechanisms without making Earth and every ocean world equivalent.
 
 ## 🧬 What would a biosignature be?
 
@@ -48,7 +48,7 @@ A combination of evidence can be stronger when its pieces test genuinely differe
 
 A planet could support microbial life for billions of years without generating a detectable technological signal. Conversely, detecting a signal that looks engineered would still require excluding interference, instrumental effects and natural alternatives.
 
-The [Fermi paradox](../💡-concepts/fermi-paradox.md) asks about the apparent absence of extraterrestrial civilisations. It does not establish how common microbial life is. The probability of life's emergence and the probability of technological activity are separate unknowns.
+The [Fermi paradox](../../💡-concepts/fermi-paradox.md) asks about the apparent absence of extraterrestrial civilisations. It does not establish how common microbial life is. The probability of life's emergence and the probability of technological activity are separate unknowns.
 
 ## 🧪 How unfamiliar could life be?
 

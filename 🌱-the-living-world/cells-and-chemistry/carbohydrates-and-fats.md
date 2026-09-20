@@ -27,7 +27,7 @@ Liver glycogen can support blood glucose between meals. Muscle glycogen primaril
 
 Starch accessibility changes with processing. Heating starch with water can disrupt its granular structure, making it easier for enzymes to reach. Cooling can allow some chains to reassociate into less digestible forms. The amount depends on the food and conditions, not simply whether a potato spent the night in the fridge.
 
-That connection between structure and digestion is developed in [food energy](calories-and-food-energy.md).
+That connection between structure and digestion is developed in [food energy](../bodies-and-energy/calories-and-food-energy.md).
 
 ## 🏷️ Sugars on cell surfaces
 
@@ -59,7 +59,7 @@ Fatty-acid composition influences packing. Cis double bonds introduce bends that
 
 A membrane is not a uniform bag. Its two sides can have different compositions, proteins interact with particular lipid environments, and cells constantly remodel it. These differences let one membrane insulate a nerve fibre and another sustain the proton gradient that drives ATP synthesis.
 
-The mechanics belong with [cells and organelles](cells-and-organelles.md); the gradient appears in [cellular energy](digestion-and-cellular-energy.md).
+The mechanics belong with [cells and organelles](cells-and-organelles.md); the gradient appears in [cellular energy](../bodies-and-energy/digestion-and-cellular-energy.md).
 
 ## 🧪 Structure does not prescribe a diet
 
@@ -67,7 +67,7 @@ Cholesterol is a precursor for steroid hormones and bile acids. Humans can synth
 
 These are distinct facts. A molecule being essential to cellular function does not mean more dietary intake is always beneficial, or that the body must obtain that molecule directly from food. Nutritional questions depend on synthesis, absorption, transport and regulation as well as chemical roles.
 
-The useful biological lesson is broader: energy-bearing molecules can also be indispensable materials. [Plants](plant-biology.md), [immunity](immunity.md) and [protein modification](proteins-and-folding.md) all make use of that versatility.
+The useful biological lesson is broader: energy-bearing molecules can also be indispensable materials. [Plants](../plant-biology.md), [immunity](../bodies-and-energy/immunity.md) and [protein modification](proteins-and-folding.md) all make use of that versatility.
 
 ## 📚 Sources and further reading
 

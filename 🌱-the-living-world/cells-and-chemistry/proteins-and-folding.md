@@ -43,7 +43,7 @@ An **active site** contains chemical groups positioned to act on a substrate. Th
 
 These mechanisms explain why a small sequence change can have a large effect, while another change has almost none. Position and context matter more than the mere fact that a mutation occurred.
 
-Enzymes connect this subject directly to [digestion and cellular energy](digestion-and-cellular-energy.md). Other proteins provide structure: collagen supports tissues, while actin and tubulin form dynamic cellular scaffolds.
+Enzymes connect this subject directly to [digestion and cellular energy](../bodies-and-energy/digestion-and-cellular-energy.md). Other proteins provide structure: collagen supports tissues, while actin and tubulin form dynamic cellular scaffolds.
 
 ## 🧶 When there is no single stable shape
 
@@ -67,7 +67,7 @@ The 2021 AlphaFold2 work demonstrated a major advance in predicting protein stru
 
 A predicted structure still leaves important questions: how the protein moves, which partners it binds, whether a mutation changes stability, what chemical modifications matter and how the molecule behaves inside a cell. Confidence varies across a prediction, especially in flexible regions.
 
-Solving a shape is a powerful step towards understanding a protein. It is not automatically a complete account of its chemistry. The related topics are [gene expression](gene-expression-and-regulation.md), which produces the chain, and [immunity](immunity.md), where molecular recognition becomes especially consequential.
+Solving a shape is a powerful step towards understanding a protein. It is not automatically a complete account of its chemistry. The related topics are [gene expression](../genetics-and-evolution/gene-expression-and-regulation.md), which produces the chain, and [immunity](../bodies-and-energy/immunity.md), where molecular recognition becomes especially consequential.
 
 ## 📚 Sources and further reading
 

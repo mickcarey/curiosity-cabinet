@@ -55,7 +55,7 @@ Human mitochondria retain a small circular genome with 37 genes. Most mitochondr
 
 This combination reflects the bacterial ancestry of mitochondria and the transfer or loss of many ancestral genes. Mitochondrial DNA is generally inherited maternally in humans because the egg supplies the cytoplasm and paternal mitochondria are normally excluded or eliminated.
 
-Cells can contain many copies of mitochondrial DNA, and the copies need not all be identical. The phrase “your genome” can therefore hide both multiple compartments and variation among cells. [Cell organisation](cells-and-organelles.md) explores the origin and workings of those compartments.
+Cells can contain many copies of mitochondrial DNA, and the copies need not all be identical. The phrase “your genome” can therefore hide both multiple compartments and variation among cells. [Cell organisation](../cells-and-chemistry/cells-and-organelles.md) explores the origin and workings of those compartments.
 
 ## 📖 What counts as a gene, and what else is there?
 

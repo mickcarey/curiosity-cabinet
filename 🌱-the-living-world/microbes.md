@@ -33,7 +33,7 @@ Microbial combinations are extraordinarily diverse:
 
 “Eating rock” is a memorable description, but chemically imprecise. Often the useful resource is an inorganic substance dissolved from rock, coupled to another substance that can accept electrons. The energy comes from the reaction, not from mineral crunchiness.
 
-These processes connect [soil ecology](soil-ecology.md), [ocean food webs](ocean-ecology.md) and the search for [habitable environments beyond Earth](astrobiology.md).
+These processes connect [soil ecology](soil-ecology.md), [ocean food webs](ocean-ecology.md) and the search for [habitable environments beyond Earth](astrobiology/astrobiology.md).
 
 ## 🌍 Life changed the conditions for other life
 
@@ -71,9 +71,9 @@ The **pangenome** describes the combined gene repertoire found across a group of
 
 ## 🧍 Humans are one habitat among many
 
-Our gut, skin and mouth support distinct microbial communities. Some microbes help process food; their products interact with tissues and the [immune system](immunity.md). Those relationships are real, but a correlation between a microbe and a health outcome is not automatically a causal mechanism.
+Our gut, skin and mouth support distinct microbial communities. Some microbes help process food; their products interact with tissues and the [immune system](bodies-and-energy/immunity.md). Those relationships are real, but a correlation between a microbe and a health outcome is not automatically a causal mechanism.
 
-The broader lesson is ecological. A host provides resources and conditions, microbes alter those conditions, and both change over time. The [body as an ecosystem](the-body-as-an-ecosystem.md) is a useful application of that idea, provided it does not become an excuse to attribute everything about a person to their lunch companions.
+The broader lesson is ecological. A host provides resources and conditions, microbes alter those conditions, and both change over time. The [body as an ecosystem](bodies-and-energy/the-body-as-an-ecosystem.md) is a useful application of that idea, provided it does not become an excuse to attribute everything about a person to their lunch companions.
 
 ## 📚 Sources and further reading
 

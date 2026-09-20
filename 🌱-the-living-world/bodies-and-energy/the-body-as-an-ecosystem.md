@@ -12,7 +12,7 @@ Many control systems use **negative feedback**. A change produces a response tha
 
 These are interacting systems, not independent thermostats. Fever involves a regulated change in temperature control; exercise changes heat production, circulation and ventilation together. “Normal” also depends on time of day, activity, age and the variable being measured.
 
-The cabinet's [feedback-loops note](../🧠-mental-models/feedback-loops.md) gives the general pattern. Physiology shows why delays, competing demands and changing targets make the real version interesting.
+The cabinet's [feedback-loops note](../../🧠-mental-models/feedback-loops.md) gives the general pattern. Physiology shows why delays, competing demands and changing targets make the real version interesting.
 
 ## 🗣️ Coordination uses overlapping signals
 
@@ -20,7 +20,7 @@ Nerves provide rapid, targeted communication through electrical impulses and che
 
 The categories overlap. The brain controls hormone release; hormones alter immune activity; inflammatory signals affect temperature, appetite and behaviour. The nervous system also contains local circuits, including the enteric nervous system in the gut, that can coordinate activity without every decision passing through conscious awareness.
 
-A hormone in the blood does not affect every cell equally. Receptor expression and cellular state determine the response. That connects whole-body coordination to [gene regulation](gene-expression-and-regulation.md).
+A hormone in the blood does not affect every cell equally. Receptor expression and cellular state determine the response. That connects whole-body coordination to [gene regulation](../genetics-and-evolution/gene-expression-and-regulation.md).
 
 ## 🩸 Organs maintain a shared environment
 
@@ -60,7 +60,7 @@ Evaporative cooling supports sustained activity in some hot conditions but depen
 
 There is no single settled explanation for why all these features evolved when they did. Comparative energy studies suggest human evolution involved changes in total energy expenditure as well as allocation among tissues. Simple stories in which one organ paid for another are incomplete.
 
-For comparisons that make the human arrangement less familiar, explore [animal body plans](animal-body-plans.md). [Microbes](microbes.md), [immunity](immunity.md) and [digestion](digestion-and-cellular-energy.md) examine different parts of the body's ecological relationships.
+For comparisons that make the human arrangement less familiar, explore [animal body plans](animal-body-plans.md). [Microbes](../microbes.md), [immunity](immunity.md) and [digestion](digestion-and-cellular-energy.md) examine different parts of the body's ecological relationships.
 
 ## 📚 Sources and further reading
 

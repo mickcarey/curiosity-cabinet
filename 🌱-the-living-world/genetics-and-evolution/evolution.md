@@ -47,7 +47,7 @@ Speciation occurs as populations become independently evolving lineages. Geograp
 
 The process need not be instant or complete. Recently separated species may still hybridise. In plants, chromosome doubling can sometimes create reproductive isolation unusually quickly.
 
-No single species definition works equally well for sexually reproducing animals, fossils and bacteria. Reproductive isolation is useful in many cases; evolutionary history, ecology and genetic clustering help in others. [Open questions in biology](open-questions-in-biology.md) explores why these boundaries can remain fuzzy without making the underlying diversity imaginary.
+No single species definition works equally well for sexually reproducing animals, fossils and bacteria. Reproductive isolation is useful in many cases; evolutionary history, ecology and genetic clustering help in others. [Open questions in biology](../open-questions-in-biology.md) explores why these boundaries can remain fuzzy without making the underlying diversity imaginary.
 
 ## 🦇 Similarity can have different explanations
 
@@ -55,7 +55,7 @@ No single species definition works equally well for sexually reproducing animals
 
 **Convergence** is the independent evolution of similar features. Sharks and dolphins have streamlined bodies because moving efficiently through water imposes similar physical demands, not because dolphins are fish.
 
-Both processes can occur in the same comparison. Bat and bird forelimbs are homologous as tetrapod limbs; their specialised arrangements for powered flight evolved separately. [Animal body plans](animal-body-plans.md) looks at the anatomical evidence.
+Both processes can occur in the same comparison. Bat and bird forelimbs are homologous as tetrapod limbs; their specialised arrangements for powered flight evolved separately. [Animal body plans](../bodies-and-energy/animal-body-plans.md) looks at the anatomical evidence.
 
 Living species are all contemporary branches. A bacterium is not an unfinished animal, and humans are not the destination of a process that started billions of years before we existed. Evolution can produce greater complexity, reduced complexity or long-term stability, depending on circumstances.
 
@@ -65,7 +65,7 @@ A branching tree captures much of life's history, but individual genes can have 
 
 Bacteria and archaea exchange DNA through several routes, including uptake of environmental DNA, viruses and direct transfer between cells. This helps explain the spread of antibiotic-resistance genes across otherwise distinct lineages.
 
-Endosymbiosis produced an even deeper combination: mitochondria descend from bacteria that became permanent partners inside ancestral eukaryotic cells. Chloroplasts descend from cyanobacteria. The evolution of [complex cells](cells-and-organelles.md) includes mergers as well as splits.
+Endosymbiosis produced an even deeper combination: mitochondria descend from bacteria that became permanent partners inside ancestral eukaryotic cells. Chloroplasts descend from cyanobacteria. The evolution of [complex cells](../cells-and-chemistry/cells-and-organelles.md) includes mergers as well as splits.
 
 ## 🔬 What remains difficult
 

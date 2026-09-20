@@ -14,7 +14,7 @@ Sperm and egg production distribute resources differently. Sperm development pro
 
 Errors in chromosome separation can produce missing or additional chromosomes. Errors after fertilisation can produce **mosaicism**, where different cell lineages have different genetic compositions. These describe mechanisms, not a complete prediction of an individual's development.
 
-For the chromosome machinery itself, see [DNA and chromosomes](dna-and-chromosomes.md) and [inheritance](inheritance.md).
+For the chromosome machinery itself, see [DNA and chromosomes](../genetics-and-evolution/dna-and-chromosomes.md) and [inheritance](../genetics-and-evolution/inheritance.md).
 
 ## 🫧 From one cell to distinct cell populations
 
@@ -66,7 +66,7 @@ Monozygotic twinning shows that early development has a capacity for reorganisat
 
 More generally, researchers can explain many local developmental mechanisms without yet predicting an entire human body's formation from first principles. Work in other animals, human embryonic material and stem-cell models illuminates different parts of the process; a model reproducing one feature does not automatically reproduce the whole embryo.
 
-[Gene regulation](gene-expression-and-regulation.md) explains how cell identities persist, and [animal body plans](animal-body-plans.md) shows how related developmental tools have produced very different anatomies.
+[Gene regulation](../genetics-and-evolution/gene-expression-and-regulation.md) explains how cell identities persist, and [animal body plans](animal-body-plans.md) shows how related developmental tools have produced very different anatomies.
 
 ## 📚 Sources and further reading
 

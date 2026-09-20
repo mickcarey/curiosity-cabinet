@@ -12,7 +12,7 @@ In eukaryotes, newly made mRNA usually undergoes processing. A cap and a poly-A 
 
 During **translation**, the ribosome reads mRNA in three-base units called **codons**. Transfer RNAs pair with codons and deliver amino acids. Enzymes called aminoacyl-tRNA synthetases load the correct amino acids onto those tRNAs. The ribosome joins the amino acids into a growing chain.
 
-The ribosome's catalytic centre is RNA. RNA therefore carries information and participates directly in the machinery that interprets it. This is one reason RNA features so prominently in [origin-of-life research](open-questions-in-biology.md).
+The ribosome's catalytic centre is RNA. RNA therefore carries information and participates directly in the machinery that interprets it. This is one reason RNA features so prominently in [origin-of-life research](../open-questions-in-biology.md).
 
 The usual flow is DNA → RNA → protein, but RNA can also be copied into DNA by reverse transcriptases. This does not contradict the precise central-dogma claim that sequence information does not flow back out of protein into nucleic acid. The simplified classroom arrow lost a few footnotes.
 
@@ -30,7 +30,7 @@ A cell can change a gene's output by controlling:
 
 These controls form networks. One transcription factor may activate another, which then reinforces the original state or inhibits an alternative. Feedback helps a differentiated cell preserve its identity while remaining responsive to signals.
 
-Not every gene is either fully on or fully off. Amount, timing and location can be as consequential as presence. Development depends on those distinctions; [embryonic development](embryonic-development.md) follows how local signals help build a whole body.
+Not every gene is either fully on or fully off. Amount, timing and location can be as consequential as presence. Development depends on those distinctions; [embryonic development](../bodies-and-energy/embryonic-development.md) follows how local signals help build a whole body.
 
 ## 📝 Epigenetics without the family horoscope
 
@@ -58,7 +58,7 @@ The history of a particular gene can therefore differ from the history of the or
 
 CRISPR systems illustrate a different interaction with foreign DNA. Some bacteria and archaea retain short sequences from invading genetic elements. RNAs derived from these stored sequences guide associated proteins to matching targets. Different systems target DNA or RNA.
 
-The gene-editing tools developed from CRISPR exploit this sequence recognition. Its original biological role was defence, demonstrated experimentally in bacteria before it became a laboratory technology. [Microbes](microbes.md) and [immunity](immunity.md) explore the larger context.
+The gene-editing tools developed from CRISPR exploit this sequence recognition. Its original biological role was defence, demonstrated experimentally in bacteria before it became a laboratory technology. [Microbes](../microbes.md) and [immunity](../bodies-and-energy/immunity.md) explore the larger context.
 
 ## 🔄 Copying cells and making gametes
 

@@ -40,7 +40,7 @@ That is the physical basis of many [cell membranes](cells-and-organelles.md). Li
 
 Availability is not the same as abundance. Nitrogen gas makes up most of the atmosphere, but its strong triple bond prevents plants and animals from using it directly. Certain bacteria and archaea carry out **nitrogen fixation**, converting N₂ into biologically accessible compounds. Nitrogenase, the enzyme system involved, is demanding chemistry that agriculture depends on whether or not anyone notices the microbes.
 
-Phosphorus presents a different problem. It has no major atmospheric reservoir comparable to nitrogen gas. Its supply depends heavily on rocks, weathering, recycling and chemical binding in soils. These constraints help explain why [soil ecology](soil-ecology.md) affects entire forests.
+Phosphorus presents a different problem. It has no major atmospheric reservoir comparable to nitrogen gas. Its supply depends heavily on rocks, weathering, recycling and chemical binding in soils. These constraints help explain why [soil ecology](../soil-ecology.md) affects entire forests.
 
 ## 🔩 Small quantities, essential jobs
 
@@ -66,9 +66,9 @@ Proteins also mostly use **L-amino acids**, while the sugars in DNA and RNA belo
 
 Why life settled on this particular combination remains an origin-of-life problem. Once enzymes and polymers depend on a consistent molecular geometry, changing it becomes difficult. That explains persistence more readily than the initial choice.
 
-Alternative solvents, such as Titan's liquid hydrocarbons, would change which molecules dissolve and how compartments form. Whether a complete evolving biology could operate there is unknown. [Other potentially habitable worlds](worlds-that-might-host-life.md) make that chemical question concrete.
+Alternative solvents, such as Titan's liquid hydrocarbons, would change which molecules dissolve and how compartments form. Whether a complete evolving biology could operate there is unknown. [Other potentially habitable worlds](../astrobiology/worlds-that-might-host-life.md) make that chemical question concrete.
 
-For familiar Earth chemistry in action, explore [proteins](proteins-and-folding.md), [carbohydrates and fats](carbohydrates-and-fats.md), or [DNA](dna-and-chromosomes.md).
+For familiar Earth chemistry in action, explore [proteins](proteins-and-folding.md), [carbohydrates and fats](carbohydrates-and-fats.md), or [DNA](../genetics-and-evolution/dna-and-chromosomes.md).
 
 ## 📚 Sources and further reading
 

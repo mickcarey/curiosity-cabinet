@@ -51,7 +51,7 @@ Grinding, heating and other processing can change accessibility. Cooking may gel
 
 Cooling some cooked starches produces **resistant starch**, which escapes digestion in the small intestine. Some is fermented by gut microbes. Its energy contribution is therefore neither identical to readily digested starch nor necessarily zero.
 
-The underlying structures are explained in [carbohydrates and fats](carbohydrates-and-fats.md).
+The underlying structures are explained in [carbohydrates and fats](../cells-and-chemistry/carbohydrates-and-fats.md).
 
 ## 🦠 Digestion has costs and additional participants
 

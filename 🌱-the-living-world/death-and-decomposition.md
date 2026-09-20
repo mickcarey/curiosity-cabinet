@@ -8,7 +8,7 @@ Fungi spread through its wood, beetle larvae feed beneath its bark, and the deca
 
 Cells die throughout the life of a multicellular organism. Controlled cell death helps shape developing tissues, remove damaged cells and regulate populations of immune cells.
 
-In **apoptosis**, a cell activates mechanisms that dismantle it in a relatively contained way, allowing its remains to be cleared. Other forms of cell death can rupture membranes and provoke inflammation. The details matter to [development](embryonic-development.md) and [immunity](immunity.md).
+In **apoptosis**, a cell activates mechanisms that dismantle it in a relatively contained way, allowing its remains to be cleared. Other forms of cell death can rupture membranes and provoke inflammation. The details matter to [development](bodies-and-energy/embryonic-development.md) and [immunity](bodies-and-energy/immunity.md).
 
 Organismal death concerns the loss of the coordinated processes that sustain the organism. It does not require every cell or associated microbe to cease activity simultaneously. Tissues differ in their dependence on oxygen, nutrients and ongoing signals.
 

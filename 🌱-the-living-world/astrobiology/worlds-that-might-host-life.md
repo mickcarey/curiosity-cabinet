@@ -60,7 +60,7 @@ Atmospheric spectroscopy adds chemical possibilities. During a transit, some sta
 
 A detected gas is therefore a model-tested inference from a spectrum, not a photograph of an ocean or forest. Repeated observations and different wavelength ranges can strengthen it. Planetary and stellar context are essential when considering possible biosignatures.
 
-These methods eventually permit comparisons across worlds, which local exploration alone cannot provide. The reasoning belongs with [astrobiology](astrobiology.md) and [evaluating biosignatures](evaluating-biosignatures.md); the nearest biological analogues include Earth's [ocean](ocean-ecology.md) and [microbial metabolisms](microbes.md).
+These methods eventually permit comparisons across worlds, which local exploration alone cannot provide. The reasoning belongs with [astrobiology](astrobiology.md) and [evaluating biosignatures](evaluating-biosignatures.md); the nearest biological analogues include Earth's [ocean](../ocean-ecology.md) and [microbial metabolisms](../microbes.md).
 
 ## 📚 Sources and further reading
 

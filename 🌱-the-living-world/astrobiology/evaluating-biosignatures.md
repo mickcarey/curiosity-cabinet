@@ -70,7 +70,7 @@ An instrument can miss life because the sample contains none, the organisms are 
 
 A useful negative result therefore states what was tested and at what sensitivity. “No detectable signal of this type in these samples” can be powerful evidence. Expanding it to “no life on this world” requires far more coverage.
 
-Technological searches face related constraints. An unusual radio signal needs repeatability, localisation and exclusion of interference. The [Fermi paradox](../💡-concepts/fermi-paradox.md) addresses the broader question; [Tabby's Star](../✈️-airplane-reading/tabbys-star.md) illustrates how follow-up can replace an exotic temptation with a physical explanation.
+Technological searches face related constraints. An unusual radio signal needs repeatability, localisation and exclusion of interference. The [Fermi paradox](../../💡-concepts/fermi-paradox.md) addresses the broader question; [Tabby's Star](../../✈️-airplane-reading/tabbys-star.md) illustrates how follow-up can replace an exotic temptation with a physical explanation.
 
 ## 📚 Sources and further reading
 

@@ -47,7 +47,7 @@ Mitochondria and chloroplasts originated through **endosymbiosis**: relationship
 
 Evidence includes their genomes, bacterial relationships revealed by sequence comparisons, membrane organisation and division machinery. Over evolutionary time, many genes were lost or transferred to the nucleus. Modern organelles depend heavily on proteins made elsewhere in the cell.
 
-Mitochondria use their inner membranes to sustain the proton gradients involved in [ATP production](digestion-and-cellular-energy.md). Chloroplasts descend from cyanobacteria and support photosynthesis in plants and algae. Both retain specialised genetic machinery, but their ribosomes and genomes have changed substantially since the original associations.
+Mitochondria use their inner membranes to sustain the proton gradients involved in [ATP production](../bodies-and-energy/digestion-and-cellular-energy.md). Chloroplasts descend from cyanobacteria and support photosynthesis in plants and algae. Both retain specialised genetic machinery, but their ribosomes and genomes have changed substantially since the original associations.
 
 Lynn Margulis helped establish the modern endosymbiotic account. Its central claims about mitochondria and plastids became well supported; some additional proposals did not. Scientific credit need not require treating every idea from a scientist as a package deal.
 
@@ -63,7 +63,7 @@ Checkpoints help prevent division with damaged DNA or improperly attached chromo
 
 Cancer can arise when evolving cell lineages acquire combinations of changes that promote inappropriate survival, growth and invasion. It illustrates a tension within multicellularity: what benefits one cell lineage can damage the organism supporting it.
 
-These processes connect to [embryonic development](embryonic-development.md), [immunity](immunity.md) and [death and decomposition](death-and-decomposition.md). For the information machinery inside the nucleus, see [DNA and chromosomes](dna-and-chromosomes.md).
+These processes connect to [embryonic development](../bodies-and-energy/embryonic-development.md), [immunity](../bodies-and-energy/immunity.md) and [death and decomposition](../death-and-decomposition.md). For the information machinery inside the nucleus, see [DNA and chromosomes](../genetics-and-evolution/dna-and-chromosomes.md).
 
 ## 📚 Sources and further reading
 

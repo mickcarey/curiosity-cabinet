@@ -52,15 +52,15 @@ Calling this “nine brains” is memorable but misleading. The arms are not eig
 
 Birds, mammals, cephalopods and insects also challenge easy definitions of intelligence. Different tasks test different capabilities, and performance depends on an animal's sensory world and ecological needs. A test designed around primate hands can be a poor measure of what a crow or octopus can learn.
 
-The cabinet has fuller notes on [octopus intelligence](../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md) and [collective decisions in bees](../🌙-bedtime-reading/how-bees-vote-for-a-home.md).
+The cabinet has fuller notes on [octopus intelligence](../../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md) and [collective decisions in bees](../../🌙-bedtime-reading/how-bees-vote-for-a-home.md).
 
 ## 🧊 Survival is different from active life
 
 Some tardigrades survive severe drying by entering a state of extremely low metabolic activity. Experiments have shown survival under some space-exposure conditions, with major limits imposed by factors such as radiation.
 
-This is endurance of a dormant state, not evidence that tardigrades feed and reproduce in vacuum. That distinction is useful in [astrobiology](astrobiology.md): surviving transport and establishing a functioning population are different achievements.
+This is endurance of a dormant state, not evidence that tardigrades feed and reproduce in vacuum. That distinction is useful in [astrobiology](../astrobiology/astrobiology.md): surviving transport and establishing a functioning population are different achievements.
 
-For the evolutionary mechanisms behind these comparisons, see [evolution](evolution.md). For animals encountered on a shore, [coastal animals](coasts/coastal-animals.md) connects body structures to visible ecological roles.
+For the evolutionary mechanisms behind these comparisons, see [evolution](../genetics-and-evolution/evolution.md). For animals encountered on a shore, [coastal animals](../coasts/coastal-animals.md) connects body structures to visible ecological roles.
 
 ## 📚 Sources and further reading
 

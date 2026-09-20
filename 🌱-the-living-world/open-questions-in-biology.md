@@ -34,7 +34,7 @@ Meteorites and other extraterrestrial material contain organic molecules. Delive
 
 Even successful transfer would relocate the original emergence of life rather than explain it. Postage is useful; it is not a theory of who wrote the letter.
 
-The practical consequence appears in [biosignature evaluation](evaluating-biosignatures.md): a familiar organism found elsewhere would raise questions about contamination or shared ancestry as well as habitability.
+The practical consequence appears in [biosignature evaluation](astrobiology/evaluating-biosignatures.md): a familiar organism found elsewhere would raise questions about contamination or shared ancestry as well as habitability.
 
 ## 🦠 Did all viruses originate the same way?
 
@@ -50,7 +50,7 @@ The biological species concept emphasises reproductive isolation. It is useful f
 
 Other approaches use morphology, ancestry, ecological roles or genetic similarity. These are different ways of recognising lineages, each suited to some questions better than others.
 
-Microbes make the issue especially clear. Genes can move horizontally, and different parts of a genome can have different histories. A numerical similarity threshold can be useful for classification without being a law of nature. [Evolution](evolution.md) explains how divergence and gene exchange coexist.
+Microbes make the issue especially clear. Genes can move horizontally, and different parts of a genome can have different histories. A numerical similarity threshold can be useful for classification without being a law of nature. [Evolution](genetics-and-evolution/evolution.md) explains how divergence and gene exchange coexist.
 
 ## 🤝 When does a partnership become an evolutionary individual?
 
@@ -58,7 +58,7 @@ A host and its associated microbes are often called a **holobiont**. The word de
 
 Partners can have conflicting interests, come from the environment each generation or change rapidly. Stable co-inheritance and aligned reproductive success make the case for joint selection stronger; ecological intimacy alone does not settle it.
 
-Mitochondria are an exceptionally integrated outcome of symbiosis. A changing gut community is a different kind of relationship. [Cells](cells-and-organelles.md), [soil](soil-ecology.md) and [the human body](the-body-as-an-ecosystem.md) illustrate different degrees of integration.
+Mitochondria are an exceptionally integrated outcome of symbiosis. A changing gut community is a different kind of relationship. [Cells](cells-and-chemistry/cells-and-organelles.md), [soil](soil-ecology.md) and [the human body](bodies-and-energy/the-body-as-an-ecosystem.md) illustrate different degrees of integration.
 
 ## 🌍 Does life stabilise its planet?
 

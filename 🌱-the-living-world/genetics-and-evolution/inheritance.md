@@ -68,7 +68,7 @@ An associated marker may be travelling alongside the causal variant rather than 
 
 Polygenic scores combine effects from many variants. Their predictive performance depends on the trait, the study population and the setting in which they are used. A score trained in one ancestry group or environment may transfer poorly to another.
 
-The useful picture is neither destiny nor randomness: inherited differences influence probabilities through biological mechanisms. [Embryonic development](embryonic-development.md) shows those mechanisms building an organism; [evolution](evolution.md) follows what happens when inherited variation changes across generations.
+The useful picture is neither destiny nor randomness: inherited differences influence probabilities through biological mechanisms. [Embryonic development](../bodies-and-energy/embryonic-development.md) shows those mechanisms building an organism; [evolution](evolution.md) follows what happens when inherited variation changes across generations.
 
 ## 📚 Sources and further reading
 

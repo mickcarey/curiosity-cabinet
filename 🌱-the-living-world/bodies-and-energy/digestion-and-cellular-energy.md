@@ -63,7 +63,7 @@ Gut microbes ferment some compounds that human enzymes leave undigested. Product
 
 The amount and outcome depend on food, microbial community and intestinal conditions. This is a real metabolic contribution, but it does not make the effect of a particular probiotic predictable from a general diagram.
 
-For different scales of the same process, explore [calories](calories-and-food-energy.md) for energy measurement, [cells](cells-and-organelles.md) for mitochondrial organisation, and [microbes](microbes.md) for other ways organisms obtain energy. The cabinet's [endurance notes](../📰-articles/health-fitness-endurance.md) connect these pathways to exercise.
+For different scales of the same process, explore [calories](calories-and-food-energy.md) for energy measurement, [cells](../cells-and-chemistry/cells-and-organelles.md) for mitochondrial organisation, and [microbes](../microbes.md) for other ways organisms obtain energy. The cabinet's [endurance notes](../../📰-articles/health-fitness-endurance.md) connect these pathways to exercise.
 
 ## 📚 Sources and further reading
 

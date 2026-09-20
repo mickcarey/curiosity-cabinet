@@ -10,7 +10,7 @@ A cell continually replaces damaged molecules, regulates its internal chemistry 
 
 This does not violate the second law of thermodynamics. Organisms are open systems: they take in energy and materials, release heat and waste, and increase the total entropy of themselves and their surroundings. A tidy cell has an energy bill.
 
-Erwin Schrödinger made this relationship central to his 1944 book *What Is Life?* His language of “negative entropy” was influential, but **usable free energy** is the clearer biological idea. Sunlight or chemical reactions can drive processes that would not proceed on their own. The details appear in [cellular energy](digestion-and-cellular-energy.md).
+Erwin Schrödinger made this relationship central to his 1944 book *What Is Life?* His language of “negative entropy” was influential, but **usable free energy** is the clearer biological idea. Sunlight or chemical reactions can drive processes that would not proceed on their own. The details appear in [cellular energy](bodies-and-energy/digestion-and-cellular-energy.md).
 
 Energy use alone is insufficient. Hurricanes also persist by dissipating energy. They do not pass an inherited system of biochemical instructions to hurricane offspring.
 
@@ -42,7 +42,7 @@ The definition is a research tool, not a universally binding verdict. Different 
 
 Viruses are especially informative because their dependence is so complete. A viral particle does not make its own proteins or generate its own ATP. Inside a suitable host, its genome redirects cellular machinery into producing more virus. Whether the word *alive* applies depends partly on whether we classify the particle, its entire reproductive cycle or the infected system.
 
-Prions demonstrate something subtler: transmissible biological information need not always be a DNA sequence. A protein's shape can influence the shape of other copies. That does not make a prion a miniature organism; it makes [protein folding](proteins-and-folding.md) much more consequential than “getting the right shape” sounds.
+Prions demonstrate something subtler: transmissible biological information need not always be a DNA sequence. A protein's shape can influence the shape of other copies. That does not make a prion a miniature organism; it makes [protein folding](cells-and-chemistry/proteins-and-folding.md) much more consequential than “getting the right shape” sounds.
 
 ## 🌳 Common ancestry is not the origin of life
 
@@ -56,9 +56,9 @@ A [2024 reconstruction by Moody and colleagues](https://www.nature.com/articles/
 
 If we search only for DNA, we are searching for life with familiar machinery. If we search only for chemical complexity, we risk mistaking nonliving chemistry for biology. A useful search therefore combines evidence: energy use, organised chemistry, environmental context and signs of reproduction or sustained disequilibrium.
 
-We do not yet know which features of Earth life are universal necessities and which are historical choices. That is the connection between the everyday question “what is alive?” and [astrobiology](astrobiology.md). The uncertainty is productive when it helps us design better observations.
+We do not yet know which features of Earth life are universal necessities and which are historical choices. That is the connection between the everyday question “what is alive?” and [astrobiology](astrobiology/astrobiology.md). The uncertainty is productive when it helps us design better observations.
 
-For the related mechanisms, explore [cells and their compartments](cells-and-organelles.md), [evolution](evolution.md) and [open questions about life's origins](open-questions-in-biology.md).
+For the related mechanisms, explore [cells and their compartments](cells-and-chemistry/cells-and-organelles.md), [evolution](genetics-and-evolution/evolution.md) and [open questions about life's origins](open-questions-in-biology.md).
 
 ## 📚 Sources and further reading
 

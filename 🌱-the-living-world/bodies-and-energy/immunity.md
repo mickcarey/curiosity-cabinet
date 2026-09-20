@@ -75,7 +75,7 @@ The innate–adaptive distinction also has an interesting qualification. **Train
 
 Tumours arise from the body's own cells. Immune responses can eliminate some abnormal cells or constrain their growth, while other tumour populations escape recognition or suppress local responses. This interaction can select for variants better able to survive immune pressure: **immunoediting**.
 
-It connects immunity with [cell growth and regulation](cells-and-organelles.md) and [evolution](evolution.md). A response changes the environment in which cells compete. The surviving population may then be different from the one that first appeared.
+It connects immunity with [cell growth and regulation](../cells-and-chemistry/cells-and-organelles.md) and [evolution](../genetics-and-evolution/evolution.md). A response changes the environment in which cells compete. The surviving population may then be different from the one that first appeared.
 
 The unifying idea is regulation. Immune systems must detect, act, remember and tolerate, with enough coordination that protecting the organism does not destroy the tissue being protected.
 

@@ -72,7 +72,7 @@ Oxygen varies with circulation, temperature and biological consumption. Where de
 
 A vent, a muddy plain, a rocky seamount and a trench are consequently distinct habitats. “Deep sea” locates a place vertically; it does not describe its full ecology.
 
-For the observable coastal end of these processes, explore [reading a seascape](reading-a-seascape.md) and [kelp, seagrass and estuaries](coasts/kelp-seagrass-mangroves-and-estuaries.md). For the implications of subsurface oceans elsewhere, see [astrobiology](astrobiology.md).
+For the observable coastal end of these processes, explore [reading a seascape](reading-a-seascape.md) and [kelp, seagrass and estuaries](coasts/kelp-seagrass-mangroves-and-estuaries.md). For the implications of subsurface oceans elsewhere, see [astrobiology](astrobiology/astrobiology.md).
 
 ## 📚 Sources and further reading
 

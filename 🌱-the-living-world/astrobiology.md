@@ -1,0 +1,74 @@
+# What Makes a World Habitable? 🔭
+
+Astrobiology studies life's origins, distribution and possibilities beyond Earth. One of its central tasks is separating two questions: could an environment support life, and is there evidence that life actually exists there?
+
+Water, organic molecules and usable energy make a place interesting. Their presence does not establish inhabitants. A fully stocked kitchen can still be waiting for its first cook.
+
+## 💧 Why the search often begins with water
+
+All known active cellular life depends on liquid water. Water dissolves many ions, participates in reactions and supports the behaviour of proteins and membranes. It is therefore a well-motivated starting point for a search.
+
+Liquid water alone is insufficient. A habitat also needs accessible chemical ingredients and a sustained source of usable energy. Salinity, acidity, pressure and temperature influence whether familiar biochemistry can function.
+
+Energy must be available in a form organisms can exploit. Sunlight supports photosynthesis; differences in chemical oxidation state can support other metabolisms. Heat can help maintain a liquid environment, but warmth alone does not specify a usable metabolic reaction.
+
+For the underlying molecular constraints, see [the chemistry of life](chemistry-of-life.md).
+
+## 🌍 The habitable zone is one search filter
+
+A star's **habitable zone** describes distances at which a planet with suitable atmospheric conditions could maintain liquid water at its surface. It is not a guarantee that a particular planet has water, an atmosphere or life.
+
+Atmospheric composition, pressure, clouds, rotation and stellar history all affect the outcome. Planets receiving similar amounts of starlight can have different surface conditions.
+
+Subsurface oceans further broaden the search. Internal heating can keep water liquid beneath ice well outside the conventional surface habitable zone. The questions then concern ocean chemistry, transport, persistence and access to energy sources.
+
+Habitability also changes through time. A world could preserve evidence of a past habitat despite being hostile at the surface today. Conversely, a briefly suitable environment may not have persisted long enough for an ecosystem to establish.
+
+## ⚡ Earth provides examples, not a complete menu
+
+Microbes on Earth exploit a wide range of chemical reactions. Some inhabit environments without local sunlight, including deep subsurface settings and hydrothermal systems.
+
+These examples show that sunlight at the organism's location is not universally required. They do not show that any warm underground ocean must be inhabited. Reactants must be supplied, products removed and the energy balance maintained.
+
+The analogy also needs care: many Earth vent communities use oxidants ultimately connected to surface processes. An icy moon may have a different supply. [Ocean ecology](ocean-ecology.md) provides useful mechanisms without making Earth and every ocean world equivalent.
+
+## 🧬 What would a biosignature be?
+
+A **biosignature** is an observation potentially attributable to life. Candidates include particular molecular patterns, isotope distributions, microscopic structures or atmospheric combinations requiring continual replenishment.
+
+The difficulty is that nonliving processes produce many of the same ingredients and some similar patterns. Organic molecules can form without organisms. Water–rock reactions can produce methane. Minerals can resemble cells.
+
+Oxygen illustrates the importance of context. Earth's abundant atmospheric oxygen reflects biological activity, but oxygen can accumulate abiotically under some planetary conditions. Life can also exist without producing detectable oxygen. A search relying on one familiar gas risks both false positives and false negatives.
+
+A combination of evidence can be stronger when its pieces test genuinely different explanations. [Evaluating biosignatures](evaluating-biosignatures.md) describes that reasoning in detail.
+
+## 📡 Life and technology leave different evidence
+
+**Technosignatures** are possible indications of technology, such as artificial radio emissions or distinctive industrial atmospheric chemistry. They would imply a narrower kind of activity than metabolism alone.
+
+A planet could support microbial life for billions of years without generating a detectable technological signal. Conversely, detecting a signal that looks engineered would still require excluding interference, instrumental effects and natural alternatives.
+
+The [Fermi paradox](../💡-concepts/fermi-paradox.md) asks about the apparent absence of extraterrestrial civilisations. It does not establish how common microbial life is. The probability of life's emergence and the probability of technological activity are separate unknowns.
+
+## 🧪 How unfamiliar could life be?
+
+Alternative solvents, different molecular handedness or other information-bearing polymers are legitimate research possibilities. No complete alternative biochemistry has been observed, so these possibilities remain hypotheses rather than known habitats.
+
+There is also a proposed **shadow biosphere** on Earth: organisms from an independent origin that familiar detection methods could miss. Its existence has not been established. The proposal usefully asks how strongly our instruments assume DNA, ribosomes and other familiar features.
+
+An unfamiliar signal should prompt tests of unfamiliar chemistry as well as biology. “Life unlike ours” cannot be an explanation that fits every anomaly and therefore predicts nothing.
+
+## 🔎 What another discovery could establish
+
+A second inhabited world would be profound, but independence would matter. Similar biochemistry on Mars and Earth might reflect common ancestry through transfer, contamination or independent emergence with shared chemical constraints. Each possibility would require evidence.
+
+Even two independent origins would not directly reveal the galaxy-wide probability of life. Observational selection matters: we necessarily find ourselves on an inhabited world, and our searches target a limited range of environments.
+
+The useful next question is concrete: which measurement would most reduce uncertainty? [Worlds that might host life](worlds-that-might-host-life.md) compares places where different measurements could help.
+
+## 📚 Sources and further reading
+
+- Meadows et al. (2018), [Oxygen as a biosignature in environmental context](https://pubmed.ncbi.nlm.nih.gov/29746149/).
+- Neveu et al. (2018), [The Ladder of Life Detection](https://pmc.ncbi.nlm.nih.gov/articles/PMC6211372/).
+- Davies et al. (2009), [Signatures of a shadow biosphere](https://www.liebertpub.com/doi/10.1089/ast.2008.0251) — a proposed search, not a discovery.
+- NASA, [Europa Clipper mission FAQ](https://science.nasa.gov/mission/europa-clipper/mission-faq/) — a concrete example of investigating habitability.

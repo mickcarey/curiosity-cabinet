@@ -1,75 +1,60 @@
-# From Food to Cellular Energy ⚡
+# What Happens Between Toast and a Cartwheel? 🍞⚡
 
-A muscle cannot spend a piece of toast. Food must be broken down, absorbed and processed before cells can capture some of its chemical energy in a usable form.
+A piece of toast cannot pull a muscle. Yet after you eat it, some of its material can help power a cartwheel, a heartbeat or a thought.
 
-**Cells** are the tiny living units making up your body. Much of their work uses **ATP**, short for **adenosine triphosphate**. It is a molecule—a group of connected atoms—with three attached phosphate groups. Reactions that remove its last phosphate can be linked to tasks that need energy, such as moving a muscle or building another molecule.
+The journey has two big parts. **Digestion** breaks food into pieces the body can absorb. Then **cells**, the tiny living units making up the body, use chemical reactions to turn some of that food energy into a form they can work with.
 
-The cell continually rebuilds ATP from **ADP**, adenosine diphosphate, which has two phosphates. Food supplies energy for that rebuilding. Fat is a long-term reserve; ATP is a small supply being replenished at a furious pace.
+## 🦷 The dismantling starts in your mouth
 
-## 🍽️ Digestion is selective disassembly
+Chewing breaks food into smaller chunks, exposing more surface. Saliva contains an **enzyme** called amylase. Enzymes speed up particular chemical reactions; this one begins cutting starch, the chains of sugar units found in bread.
 
-Chewing exposes more food surface to digestive juices. Saliva contains **amylase**, an enzyme that starts breaking starch—the long sugar chains in foods such as bread—into smaller pieces. **Enzymes** speed up specific chemical reactions. In the stomach, acid unfolds many proteins, chains of small units called amino acids, and supports the activity of pepsin, a protein-digesting enzyme.
+In your stomach, acid helps unfold proteins, food molecules made from smaller pieces called amino acids. Other enzymes begin cutting those chains.
 
-Most nutrient digestion and absorption occur in the small intestine. The pancreas supplies bicarbonate, an alkaline substance that helps neutralise acidic contents arriving from the stomach. Pancreatic enzymes digest carbohydrates, proteins and fats, while enzymes on the intestinal surface complete many final steps.
+Most digestion and absorption happen farther along, in the **small intestine**. Despite the name, it is a long, folded tube. The pancreas supplies more digestive enzymes. The liver makes **bile**, which helps disperse fat into forms that are easier to digest and absorb.
 
-**Bile**, made by the liver, helps disperse fat in the watery intestine. Its components also form tiny clusters called **micelles** that carry fat-digestion products towards the intestinal lining. Bile is not an enzyme; its physical chemistry helps enzymes and absorption do their jobs.
+Bile isn't an enzyme. It helps organise the job, rather as washing-up liquid helps water deal with grease.
 
-The lining has folds, small finger-like projections called **villi**, and still smaller projections called **microvilli**. Together they provide a large absorptive surface. Nutrients cross through specific transporters and other mechanisms, rather than simply soaking through a passive sponge.
+## 🩸 How does lunch get out of the tube?
 
-## 🩸 Nutrients take different routes
+The intestinal lining has folds and tiny projections that give it lots of surface for absorbing nutrients. Cells in the lining control what crosses.
 
-Most absorbed sugars and amino acids enter blood vessels that drain through the **hepatic portal vein** to the liver. The liver can store, modify or redistribute them. For example, it stores the sugar glucose in a branched form called **glycogen**, and processes excess nitrogen from amino acids into waste that can leave the body.
+Many sugars and amino acids enter the blood and travel first to the liver. The liver can store, change or redistribute them. Much dietary fat is packaged into particles and travels first through the **lymphatic system**, a network of fluid-carrying vessels that joins the bloodstream.
 
-Most long-chain dietary fats take a different route. Intestinal cells rebuild fat molecules called triglycerides and package them into **chylomicrons**, particles containing fats, related oily molecules called **lipids**, and proteins. These enter **lymph vessels**, part of a drainage and transport network that eventually joins the bloodstream. Their remnants are subsequently taken up by the liver.
+Blood delivers supplies around the body. Some are used as building material, some as fuel, and some are stored for later.
 
-Shorter-chain fatty acids can travel more directly through portal blood. The distinctions follow solubility, particle size and transport machinery, not a single universal route for “food”.
+## 🔋 Cells need an immediately usable supply
 
-Liver glycogen helps support blood glucose. Muscle glycogen mainly supports the muscle containing it. Fat can provide substantial stored energy, while amino acids also supply material for proteins and other nitrogen-containing molecules.
+Cells use a molecule called **ATP**, short for **adenosine triphosphate**, to power many jobs. Reactions involving ATP can be connected to moving a muscle, pumping material or building another molecule.
 
-## 🔋 How glucose supports ATP production
+Think of ATP as a small rechargeable supply. Cells use it and continually rebuild it. Stored fat and carbohydrate provide longer-term reserves; ATP is continually being turned over.
 
-A glucose molecule contains energy the cell can capture through a series of reactions. **Oxidation** means losing electrons, the tiny charged particles involved in chemical bonds. Rather than releasing all that energy in one blaze, the cell transfers it in stages. No tiny bonfire required.
+The energy for rebuilding ATP comes from controlled chemical reactions. Breaking down glucose, a simple sugar, starts in the cell's fluid. Later steps in many cells happen inside compartments called **mitochondria**.
 
-The main stages in an oxygen-using human cell are:
+## 🌀 There really is a tiny turning machine
 
-1. **Glycolysis**, in the cell's internal fluid, or **cytosol**, splits glucose into two smaller molecules called **pyruvate**. It makes a little ATP directly and loads electrons onto a carrier.
-2. **Pyruvate oxidation**, inside energy-converting compartments called **mitochondria**, releases carbon dioxide and attaches a two-carbon fragment to a carrier called **coenzyme A**. The combined molecule is **acetyl-CoA**.
-3. **The citric acid cycle** takes in that fragment and rearranges it through a cycle of reactions. Carbon dioxide leaves; more electron carriers are loaded; a little more energy is captured directly. The starting molecule is regenerated, ready for another turn.
-4. **Oxidative phosphorylation** uses those carried electrons to help produce most of the ATP. Its formidable name describes the final energy-transfer stage, explained below.
+As food molecules are processed, they pass along **electrons**, tiny charged particles. Inside a mitochondrion, a thin boundary called a **membrane** separates two spaces. Proteins fitted into it use energy from the electron transfers to pump other charged particles across that boundary.
 
-One major carrier is **NAD**, nicotinamide adenine dinucleotide. Its electron-loaded form is **NADH**; the form ready to receive electrons is **NAD⁺**. The long name is less important than the job: transferring electrons between reactions so their energy can be used.
+Now more of those particles are on one side than the other. The arrangement stores energy, a little like water held behind a dam.
 
-Fatty-acid breakdown supplies acetyl-CoA and electron carriers through **beta-oxidation**. What remains of amino acids after their nitrogen is removed can enter these pathways at several points. The pathways intersect; cells do not have entirely separate machinery for every meal ingredient.
+As particles flow back through a molecular machine, parts of that machine turn. This helps it rebuild ATP. The machine is called **ATP synthase**.
 
-## 🌀 Why a membrane is essential
+That is quite a journey: food chemistry helps create an imbalance, the imbalance drives movement, and that movement helps make a usable chemical supply.
 
-The **electron-transport chain** passes electrons along a series of proteins in a mitochondrion's inner membrane. At the end, oxygen accepts electrons and joins with hydrogen ions to form water. That is a major reason you need to breathe.
+Oxygen accepts electrons near the end of this process and helps form water. Breathing and eating meet inside your cells.
 
-Several proteins use energy released along the way to pump hydrogen ions, also called **protons**, across the membrane.
+## 🏃 What about a sudden sprint?
 
-This produces an **electrochemical gradient**: a difference in both proton concentration and electrical potential. Protons returning through **ATP synthase** turn parts of this molecular machine and change its shape, helping it form ATP from ADP and phosphate.
+Cells can make some ATP through earlier steps without directly using oxygen. During rapid activity, a substance called **lactate** helps keep those steps running.
 
-The energy has changed form: chemical differences support an electrical and concentration gradient, which supports chemical synthesis. A membrane prevents the gradient from immediately dissipating. A punctured membrane is rather like a battery with an enthusiastic short circuit.
+Lactate can be used as fuel by other cells or processed by the liver. It isn't simply useless waste, and it doesn't explain muscle soreness the following day.
 
-An idealised accounting often gives roughly 30–32 ATP per glucose in cells like ours. Actual yields vary with transport costs, tissue, proton leak and how intermediates are used. The mechanism is more informative than memorising one exact total.
+Energy changes also release heat. That's one reason working muscles warm you up.
 
-## 🫁 Oxygen, lactate and heat
+## 🦠 The leftovers have more visitors
 
-Glycolysis does not directly require oxygen. It does require NAD⁺. Converting pyruvate to lactate regenerates NAD⁺ so glycolysis can continue when the rate of glycolysis exceeds the capacity to oxidise its products through mitochondria.
+Material reaching the large intestine meets gut microbes, microscopic organisms that can break down some things our own enzymes couldn't. They produce small molecules we can absorb and use, as well as gas and waste.
 
-Lactate can be produced even when oxygen is present. It can be used as fuel by other cells or converted back towards glucose by the liver. It is a transferable fuel molecule, not merely waste, and it does not explain delayed muscle soreness.
-
-Oxygen enables efficient mitochondrial respiration, but highly reactive oxygen-containing compounds also form in cells. They participate in signalling and can cause damage when poorly controlled. Cells have several protective systems; ageing cannot be reduced to a single story of biological rust.
-
-Energy conversion also releases heat. In **brown fat**, a specialised tissue, protons can return across the membrane through another route. This releases energy as heat without making the corresponding ATP. The process is called **uncoupling**: the stored energy still goes somewhere, but it warms the body instead.
-
-## 🦠 What reaches the colon
-
-In the **colon**, the main part of the large intestine, microscopic organisms called gut microbes ferment some compounds that human enzymes leave undigested. Products include acetate, propionate and butyrate, which can be absorbed and used by the host. Other products support microbes or leave as waste and gas.
-
-The amount and outcome depend on food, microbial community and intestinal conditions. This is a real metabolic contribution, but it does not make the effect of a particular probiotic predictable from a general diagram.
-
-For different scales of the same process, explore [calories](calories-and-food-energy.md) for energy measurement, [cells](../cells-and-chemistry/cells-and-organelles.md) for mitochondrial organisation, and [microbes](../microbes.md) for other ways organisms obtain energy. The cabinet's [endurance notes](../../📰-articles/health-fitness-endurance.md) connect these pathways to exercise.
+So a meal feeds a busy collection of processes. [Calories](calories-and-food-energy.md) measure energy; digestion makes supplies accessible; cells capture enough of that energy to keep the whole operation—and perhaps the cartwheel—going.
 
 ## 📚 Sources and further reading
 

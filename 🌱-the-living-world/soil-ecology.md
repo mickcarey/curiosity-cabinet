@@ -1,76 +1,64 @@
-# Soil: Structure, Chemistry and Living Communities 🪱
+# Soil: A Whole World in a Handful 🪱
 
-Dig into the ground and you find more than crushed rock. **Soil** is a mixture of mineral particles, living things and their remains, with water and air in the gaps. It is both a material and a place to live.
+A plant can struggle in soaking-wet soil. Another can go short of a nutrient even when plenty of that element is in the ground nearby.
 
-That mixture explains a puzzle: a plant can struggle in wet soil, or go short of a nutrient that is present all around its roots. Having something nearby is different from being able to use it. A locked pantry is still a poor place to have lunch.
+Why? Because roots need usable supplies, and they need air as well as water. A pantry isn't much help if the food is locked away and the room is flooded.
 
-The spaces between particles are as important as the particles themselves. To a root, a compacted soil can be full of resources and still be a terrible address.
+**Soil** is a mixture of mineral particles, living things and their remains, with water and air in the gaps. Those gaps are an important part of the story.
 
-## ✋ Texture and structure are different
+## 🏘️ The spaces matter as much as the pieces
 
-**Texture** describes the proportions of sand, silt and clay-sized mineral particles. Sand is relatively coarse; clay is very fine. Classification systems use slightly different size boundaries, so a number should be read with its system attached.
+Sand, silt and clay are different sizes of mineral particle. Sand is relatively coarse; clay particles are extremely small. The mixture is the soil's **texture**.
 
-Coarse sandy soils usually have low water retention and drain quickly. Fine-textured soils hold more water, but some is held too tightly for plants to extract. Clay mineral type also affects behaviour.
+Its **structure** is how the particles gather into clumps and how the gaps connect. Two soils with similar ingredients can behave differently if one has open passages and the other has been squashed compact.
 
-**Structure** describes how particles gather into clumps called **aggregates**, and how the spaces or **pores** connect between and within them. Two soils with similar texture can behave differently because one has stable aggregates and the other is compacted or dispersed.
+Larger gaps let air and water move. Smaller gaps can hold water between rain showers. Some water is held too tightly for roots to take up easily.
 
-Large pores help drainage and aeration; smaller pores retain water. Root channels, animal activity, fungal threads and organic compounds all influence the arrangement. The practical field version is [reading soil](forests/reading-soil.md).
+Roots, burrowing animals, fungal threads and sticky substances made by organisms all help change this arrangement. Soil inhabitants continually alter their own neighbourhood.
 
-## 🌧️ Soil develops through interacting causes
+## 🪨 Where did the soil come from?
 
-Hans Jenny described soil formation in terms of **climate, organisms, relief, parent material and time**. Relief means the shape of the land; parent material means the rock or sediment from which soil forms. Together these help explain a **soil profile**, the sequence of layers visible in a vertical slice.
+Rock breaks down and changes chemically. Water carries material away or deposits it. Plants add dead leaves and roots. Animals mix things. Time lets those processes build layers.
 
-A young soil may strongly reflect its parent rock. Long periods of **weathering**, the breakdown and chemical alteration of rock, and **leaching**, the washing out of dissolved substances, can remove readily soluble nutrients and leave different minerals behind. Slope position affects erosion, deposition and water movement. Organisms add carbon, alter chemistry and move material.
+Climate, slope and the starting rock or sediment influence the result. Soil on a hilltop may differ from soil washed into a hollow nearby.
 
-Soil layers, called **horizons**, record some of this history. A dark surface layer may contain organic matter; a pale layer may have lost material through leaching; a deeper layer may accumulate clay or iron compounds. Not every profile contains the same sequence, and imported fill can interrupt it completely.
+Dark surface soil often contains more remains of living things. A pale layer may have lost substances washed out by water. Deeper layers can gather clay or other materials. [Reading soil](forests/reading-soil.md) explains how to investigate those clues.
 
-## ⚡ Chemical availability is not the same as total content
+## 🔐 Why a nutrient can be there but unavailable
 
-**pH** measures acidity or alkalinity: 7 is neutral, lower numbers are more acidic and higher numbers more alkaline. It influences nutrient solubility, mineral reactions and biological activity. Strong acidity can increase aluminium toxicity in some soils. High pH can make iron and other nutrients less available to susceptible plants. Different communities are adapted to different ranges.
+Roots usually take up nutrients dissolved in water. A nutrient locked inside a mineral, or attached tightly to a particle, may be hard to obtain.
 
-**Cation exchange capacity**, or CEC, describes the capacity of soil surfaces to retain positively charged particles, or **cations**, that can later swap places with others in the surrounding water. Clay minerals and organic matter contribute, but their capacities differ. Calcium, magnesium, potassium and ammonium can participate in this exchange.
+Acidity matters too. **pH** is a measure of acidity and alkalinity: 7 is neutral, lower numbers are acidic and higher numbers alkaline. Changes in pH alter which substances dissolve and which remain difficult to reach.
 
-**Nitrate**, a form of nitrogen used by plants, is negatively charged and is often relatively mobile. **Phosphate**, a form of phosphorus, behaves differently again, binding strongly to some mineral surfaces or forming sparingly soluble compounds. “The soil holds nutrients” is therefore too broad unless we ask which nutrient and by what mechanism.
+Clay and decayed material can hold some dissolved nutrient particles and release them later. Other nutrients wash through more easily. Soil doesn't treat every ingredient alike.
 
-**Salinity** and **sodicity** also differ. Salinity describes dissolved salts, which can make water harder for plants to obtain. Sodicity concerns excess sodium attached to soil particles; it can cause susceptible clay clumps to fall apart, damaging the spaces through which water and air move. They can occur together, but are not interchangeable diagnoses.
+Salt creates another difficulty: salty soil water can be harder for roots to take up. Too much sodium attached to some clay surfaces can also make soil clumps fall apart, damaging the passages for water and air. These are related but different problems.
 
-## 🔁 Nitrogen moves through several forms
+## 🔁 The underground kitchen keeps changing ingredients
 
-Atmospheric nitrogen gas is abundant but inaccessible to most organisms. Some **microbes**, microscopic organisms, convert it into ammonia through **nitrogen fixation**. They use **nitrogenase**, an enzyme system—molecules that speed up and enable the reactions. Plants acquire nitrogen mainly through compounds such as ammonium and nitrate, not by extracting N₂ directly from air.
+Plants need nitrogen, yet they can't use the abundant nitrogen gas in air directly. Certain microbes—microscopic organisms—convert it into usable compounds.
 
-Decomposition releases ammonium from organic material through **mineralisation**. Microbes can also take up mineral nitrogen and incorporate it into their own bodies, called **immobilisation**.
+Other microbes release nitrogen from dead material, take it into their own bodies or convert it between forms. Some processes return nitrogen to the atmosphere. Water can wash dissolved nitrogen away before a root captures it.
 
-During **nitrification**, microbes gain energy by transforming ammonia into nitrite and then nitrate. Under suitable low-oxygen conditions, other microbes use nitrate in reactions producing nitrogen gas and sometimes nitrous oxide. This is **denitrification**. Another route, **anammox** (anaerobic ammonium oxidation), lets certain microbes combine ammonium and nitrite to produce nitrogen gas without oxygen. It is a network of routes, not one tidy circular arrow.
+Phosphorus behaves differently. It comes largely from minerals and recycled remains and can become strongly attached to soil material. Some roots and microbes release chemicals that help free it.
 
-Water movement can carry nitrate away before a root captures it. Nitrogen cycling therefore connects soil management to streams, estuaries and [coastal productivity](coasts/kelp-seagrass-mangroves-and-estuaries.md).
+A fallen leaf doesn't simply dissolve into “plant food”. Many organisms and reactions stand between the leaf and a new root's meal.
 
-## 🪨 Phosphorus moves on a different timetable
+## 🍄 Fungi help, but forests aren't fairy tales
 
-Weathering of phosphorus-containing minerals supplies phosphate. Biological recycling returns it from dead cells and organic molecules. Unlike nitrogen, phosphorus has no comparably large atmospheric gas reservoir supporting rapid exchange.
+Many roots form close partnerships with fungi. These partnerships are called **mycorrhizas**. The plant supplies carbon-rich food. Fungal threads can help it obtain nutrients from farther through the soil.
 
-Phosphate can bind to iron and aluminium compounds in acidic soils, or form calcium-associated compounds under other conditions. Old, highly weathered landscapes can therefore be phosphorus-limited despite containing phosphorus in total.
+A fungus can connect with more than one plant. Material can move through some shared networks. But that doesn't prove that forests routinely distribute resources according to need, or that trees run an underground welfare system.
 
-Roots and microbes release enzymes and other chemicals that make some of this phosphorus available. The cost of obtaining nutrients influences plant strategies: [banksias and other woodland plants](forests/woodland-and-rainforest-plants.md) provide visible examples.
+The [research on fungal networks](https://www.nature.com/articles/s41559-023-01986-1) distinguishes demonstrated relationships from stronger popular stories.
 
-## 🍄 Fungal partnerships: substantial, but specific
+## 🍂 Why some carbon stays underground
 
-**Mycorrhizas** are associations between fungi and plant roots. The plant supplies carbon compounds; the fungus can help it obtain nutrients. In **arbuscular mycorrhizas**, fungal threads form small branching structures inside root cells, the tiny living units of the plant. A plant membrane still separates the fungal material from the cell's inner contents. In **ectomycorrhizas**, fungi typically form a sheath around roots and a network between root cells.
+Some remains are quickly consumed. Other material persists because it is attached to minerals, sheltered within soil clumps or sitting in conditions that slow decomposition.
 
-These associations can improve nutrient access while receiving carbon from the plant. Their effects depend on the partners and conditions; a partnership can be more beneficial in one environment than another.
+Waterlogged ground can build up partly decomposed plant material called **peat**. Draining it changes oxygen supply and can speed breakdown.
 
-A fungus can associate with more than one plant, and transfers through shared networks are possible. That does not establish that forests routinely redistribute resources according to kinship or collective need. [Karst, Jones and Hoeksema's review](https://www.nature.com/articles/s41559-023-01986-1) distinguishes evidence for common mycorrhizal networks from stronger popular claims about their prevalence and benefits.
-
-The cabinet's [fungal-network article](../✈️-airplane-reading/the-fungal-network-beneath-our-feet.md) explores the attraction of that idea; the evidence needs the qualifications here.
-
-## 🍂 Carbon storage is a process
-
-Organic matter includes fresh residues, living organisms and material transformed through decomposition. Persistence depends on climate, accessibility, aggregation and association with minerals, as well as molecular chemistry.
-
-**Peat** is partly decomposed plant material built up in waterlogged conditions. Draining it can expose previously waterlogged organic matter to oxygen and accelerate decomposition. Disturbing mineral soil can alter aggregation and exposure, although outcomes depend on conditions. There is no single universal lifetime for “soil carbon”.
-
-Many soil organisms remain poorly characterised. Detecting a **gene**, a section of inherited information used to make a biological product, suggests a capability; it does not show how fast the process is running in the field. That gap between inventory and activity is one reason soils remain a major research frontier.
-
-[Death and decomposition](death-and-decomposition.md) follows organic matter into these pathways; [reading a landscape](reading-a-landscape.md) puts soil back into its setting.
+Soil is both stored history and ongoing activity. [Decomposition](death-and-decomposition.md) follows the recycling; above ground, a new leaf may be using ingredients that passed through this hidden world.
 
 ## 📚 Sources and further reading
 

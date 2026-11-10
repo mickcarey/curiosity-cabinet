@@ -1,80 +1,60 @@
-# Coastal Case Studies: Bays, Platforms, Estuaries and Reefs 🥾🌊
+# One Coast, Several Very Different Worlds 🥾🌊
 
-A mudflat may look uneventful until birds start pulling lunch out of it. A rocky platform can look immovable while its residents spend every tide clinging on. Different shores make the same basic demands—find food, stay alive—but offer very different ways to meet them.
+A mudflat can look empty until a bird starts pulling lunch from it. A rocky platform looks solid, but its residents spend hours being shoved by water. A mangrove may stand with roots in places that would drown an ordinary garden plant.
 
-A **habitat** is a place providing living conditions and resources. These coastal comparisons show how habitats change with the bottom material, water movement, time underwater and food supply. You can start noticing the differences long before you can name every shell.
+These coastal examples show how water movement, the ground beneath it and living inhabitants create different homes.
 
-These are ecological comparisons rather than route instructions. Use the relevant park's current access information and local tide, weather and swell conditions when planning a visit. The cabinet's [Melbourne hikes](../../🏙️-melbourne/hikes.md) supplies nearby outing ideas.
+They are ecological comparisons, not route instructions. Use current park, tide, weather and swell information for an actual visit.
 
-## 🧭 Port Phillip: the entrance and the inner bay
+## 🚪 Port Phillip: a narrow doorway and a large room
 
-From suitable established viewpoints around Point Nepean, compare the ocean-facing coast, the entrance and the bay-facing shore. Note **swell**, waves arriving from weather systems farther away, along with visible currents, shelter and changes in the **substrate**, the material forming the bottom. They will vary with the day.
+Compare the entrance with sheltered inner shores. Large amounts of water pass through the relatively narrow Heads, producing strong currents even though the inner bay's vertical tide change is modest.
 
-The narrow entrance constrains exchange between a large bay and Bass Strait. Strong tidal streams can occur there even though the inner bay has a modest **tidal range**, the difference between high and low water. Farther inside, locally generated wind waves become more important than incoming ocean swell.
+Water height and current speed aren't the same thing. At the entrance, the time when the current weakens before reversing doesn't simply match high or low tide. The [Bureau of Meteorology explains the local pattern](https://www.bom.gov.au/australia/tides/about/p4a-port-phillip.shtml).
 
-The useful distinction is water level versus current speed. At the Heads, **slack water**—when the tidal current weakens before reversing—does not simply coincide with local high or low tide; the [Bureau of Meteorology explains why](https://www.bom.gov.au/australia/tides/about/p4a-port-phillip.shtml).
+Farther inside, locally generated wind waves matter more than ocean swell. Those differences help explain why sheltered seagrass and exposed rocky communities can exist within one connected bay.
 
-This contrast helps explain why sheltered **seagrass** areas, occupied by flowering plants adapted to seawater, and exposed rocky habitats occur within the same connected system. It does not imply that every bay-facing shore is calm or every ocean-facing patch identical.
+## 🪨 Surf Coast: how do you stay attached?
 
-[Parks Victoria's Point Nepean page](https://www.parks.vic.gov.au/places-to-see/parks/point-nepean-national-park) provides the local setting and current notices.
+On exposed rock, compare high surfaces, cracks, pools and lower seaweed-covered patches. Strong attachment, flexible bodies and sheltered positions offer different ways to cope.
 
-## 🪨 Surf Coast: attached life on exposed rock
+A pool keeps water when nearby rock dries, but its water can heat up or change saltiness. A seaweed patch may shelter smaller animals underneath.
 
-Where access and conditions permit, compare higher exposed rock, crevices, pools and lower patches of **algae**, including seaweeds that capture light energy. Record attached organisms separately from stranded seaweed. Include shaded and exposed patches rather than photographing only the fullest pool.
+[Point Addis](https://www.greatoceanroadauthority.vic.gov.au/Land-We-Manage/National-Parks/Marine-Parks/Point-Addis-Marine-National-Park) and [Point Danger](https://www.parks.vic.gov.au/places-to-see/parks/point-danger-marine-sanctuary) provide documented examples of these shore habitats. [Rockpools](rockpool-ecology.md) explains the small-scale processes.
 
-The time spent underwater creates a broad change in conditions up the shore, modified by splash, slope and shade. Attachment and flexibility help organisms tolerate water movement. Retained pool water reduces drying while allowing temperature and chemistry to diverge from the sea.
+## 🌿 Jawbone: mangroves with an unexpected footing
 
-A band of barnacles marks where those animals can live; it is not an exact surveyed tide height. A gap in algae might reflect scour, grazing, disturbance or the wrong season for that species.
+At Jawbone, near Melbourne, rocky shore, saltmarsh, mangroves and shallow-water habitats occur close together.
 
-[Point Addis Marine National Park](https://www.greatoceanroadauthority.vic.gov.au/Land-We-Manage/National-Parks/Marine-Parks/Point-Addis-Marine-National-Park) includes rocky coastal settings within the Surf Coast. Nearby [Point Danger Marine Sanctuary](https://www.parks.vic.gov.au/places-to-see/parks/point-danger-marine-sanctuary) provides another documented example of **intertidal** habitat, the area between high- and low-tide levels. The [rockpool note](rockpool-ecology.md) explains the small-scale processes.
+Mangroves are often introduced as trees growing in mud. Here, some grow in sediment-filled cracks among basalt rock. That arrangement is described in the [2007 management plan](https://www.parks.vic.gov.au/-/media/project/pv/main/parks/documents/management-plans/resource-library/jawbone-marine-sanctuary---management-plan---2007.pdf).
 
-## 🌿 Jawbone: several habitats beside the city
+The lesson is to look at the actual rooting place. A broad habitat description can hide a clever local variation. Historical accounts also need comparison with later observations; a shoreline doesn't remain frozen on a plan's publication date.
 
-Use the established paths and viewing areas to compare **mangroves**, woody plants adapted to tidal conditions; **saltmarsh**, low salt-tolerant plants; rocky shore and nearby shallow-water habitats. Look for changes in substrate and elevation, and how birds use exposed areas.
+## 🐦 Western Port and Corner Inlet: follow the birds' lunch
 
-A small coastal area can contain several distinct habitats. Shelter, tidal wetting and the ground beneath the plants help explain their arrangement.
+Tidal flats expose and disappear as water rises and falls. Worms, shellfish and small crustaceans can remain hidden in the sediment while birds reveal some of that food supply.
 
-Jawbone is a useful correction to the idea that mangroves require a broad, uninterrupted mudflat: plants there also occupy sediment pockets within cracks in **basalt**, a dark volcanic rock. The [2007 management plan](https://www.parks.vic.gov.au/-/media/project/pv/main/parks/documents/management-plans/resource-library/jawbone-marine-sanctuary---management-plan---2007.pdf) describes that setting. “Mangroves grow in mud” is a useful introduction with a rather interesting local footnote.
+Nearby seagrass, mangroves and saltmarsh add different shelter and feeding opportunities. Birds also need resting places when the flats are covered.
 
-Historical descriptions show what was recorded then, so compare them with what is visible now. Seagrass extent and other features can change. The [current sanctuary page](https://www.parks.vic.gov.au/places-to-see/parks/jawbone-marine-sanctuary) provides visitor information and links to local conservation work.
-
-## 🐦 Western Port and Corner Inlet: tidal flats are occupied
-
-From appropriate shoreline paths or viewing sites, notice the changing extent of exposed sediment, vegetation margins and bird activity across the tide. Seagrass may be visible in suitable shallows, while other life remains buried.
-
-Water depth and time underwater change access to feeding grounds. Mangroves, marsh, sediment communities and seagrass contribute different structures and resources. Fine sediment can also support large changes in chemistry over small distances beneath its surface, especially as oxygen runs short.
-
-Local maps or surveys help establish which species are present and where habitat boundaries lie. A distant green fringe is not enough to distinguish all communities, and a quiet mudflat at one hour does not establish low animal abundance.
-
-These systems show why a brown, apparently uneventful shore can be ecologically rich. Some habitats require better observation, not better scenery.
+A quiet-looking flat at one hour doesn't tell you how many creatures use it across a day or year. Some scenery improves enormously once you know what's beneath it.
 
 ## 🌞 Sunshine Coast: warmer water, familiar questions
 
-On accessible headland shores, compare immersion zones, algal cover, attached animals and pools. At an **estuary**, where freshwater meets seawater, compare sheltered margins with the more exposed mouth, especially across different rainfall conditions.
+Compare an exposed headland with an estuary, where river water meets the sea. Rainfall can change saltiness and carry sediment that reduces underwater light. Shelter changes the places plants and animals can occupy.
 
-Temperature, currents and regional species distributions differ from Victoria, while the same physical questions remain useful. Freshwater pulses can change saltiness and underwater light near river mouths; sheltered estuarine structure supports different communities from exposed rock.
+A [2010 survey between Noosa and Caloundra](https://www.researchgate.net/publication/278038720_Nearshore_Marine_Biodiversity_of_the_Sunshine_Coast_South-East_Queensland_Inventory_of_molluscs_corals_and_fishes_July_2010) recorded coral communities at surveyed sites without substantial new reef buildup.
 
-A [2010 nearshore survey between Noosa and Caloundra](https://www.researchgate.net/publication/278038720_Nearshore_Marine_Biodiversity_of_the_Sunshine_Coast_South-East_Queensland_Inventory_of_molluscs_corals_and_fishes_July_2010) documented coral communities on existing surfaces without significant buildup of new reef material at its surveyed sites. That is evidence from those sites and dates, not a claim that every Sunshine Coast pool contains coral or that regional reef growth can never occur.
+That distinction matters. Finding coral animals doesn't automatically mean finding a growing coral reef. The observation also belongs to those surveyed places and dates, not every Sunshine Coast rockpool.
 
-A coral colony is a group of connected animals. A reef is a landform built through the sustained accumulation of skeletons and other material. Finding the first does not automatically establish the second. Conditions on land also affect the coast: [forest and wallum comparisons](../forests/landscape-case-studies.md) help describe the surrounding **catchments**, the land draining into those waterways.
+## 🪸 Great Barrier Reef: when the animals build the landscape
 
-## 🪸 Great Barrier Reef: a comparison beyond the local coast
+Reef-building corals deposit calcium carbonate skeletons, made from the same main mineral as limestone. Many shallow-water corals house algae that use sunlight to make food, while the corals also capture food themselves.
 
-Reef-building corals are animals that deposit **calcium carbonate** skeletons, made of the same principal mineral as limestone. Many shallow-water species house algae that capture sunlight to make food through **photosynthesis**, gaining resources through that association while also capturing food.
+A reef grows when skeletal material and other contributions accumulate faster than erosion and dissolution remove them. Other organisms help build, bind or wear down the structure.
 
-A reef grows when carbonate production and retention exceed losses through erosion and dissolution. Corals contribute much of the framework, with other organisms adding material or helping bind it. The [Reef Authority's account of reef building](https://outlookreport.gbrmpa.gov.au/values/3-ecosystem-health/34-ecological-processes/348-reef-building) explains the balance.
+The [Reef Authority's explanation](https://outlookreport.gbrmpa.gov.au/values/3-ecosystem-health/34-ecological-processes/348-reef-building) describes that balance. A rocky kelp habitat has different main builders and conditions; it doesn't need tropical colours to be valuable.
 
-The useful comparison with a rocky reef in cooler, non-tropical water is how habitat is created and maintained. Light, flow, grazing and disturbance matter in both, but the main builders and their requirements differ.
-
-Colour alone cannot rank their ecological value. A brown kelp forest has no obligation to audition as a coral reef.
-
-## 📓 Compare observations, then explanations
-
-For any pair of sites, record substrate, exposure, tidal stage, recent weather, visible habitat-formers and animal activity. Note what was not visible as well as what was absent with reasonable confidence.
-
-Then choose a limited comparison: shade between pools, exposure around a headland, or how often different parts of a vegetation margin are covered by water. The more conditions change at once, the harder it becomes to identify a cause.
-
-[Predicting marine habitats](predicting-marine-habitats.md) develops that reasoning. [Landscape case studies](../forests/landscape-case-studies.md) applies it on land, where water availability also creates strong contrasts over short distances.
+For any comparison, record what you see before explaining it. [Predicting habitats](predicting-marine-habitats.md) helps turn those observations into questions you can check on the next visit.
 
 ## 📚 Sources and further reading
 

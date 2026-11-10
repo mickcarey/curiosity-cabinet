@@ -1,74 +1,62 @@
-# How Plants Make a Living 🌿
+# How to Be a Tree Without Going Anywhere 🌳
 
-A tree can grow taller than a building while spending its entire life rooted to one spot. It cannot go shopping, shelter indoors or leave when a caterpillar arrives. How does it get everything it needs?
+A tree can grow taller than a building while staying rooted to one spot. It can't walk to a drink, move into the shade or chase away a caterpillar.
 
-A **plant** is a living organism made of many cells, the tiny units from which living things are built. Most plants capture sunlight and use its energy to make sugars from water and carbon dioxide, a gas in the air. That process is **photosynthesis**. Roots usually supply water and minerals; leaves collect light and admit carbon dioxide. Keeping all of this working is a daily balancing act.
+Yet it collects energy, transports supplies, repairs damage and produces offspring. Staying still turns out to require a lot of activity.
 
-Remaining rooted in one place does not make that passive. Plants respond through changes in growth, chemistry and transport, often on timescales that make an impatient animal miss the action.
+## ☀️ Making food from air and water
 
-## ☀️ Photosynthesis has two linked parts
+Leaves take in carbon dioxide, a gas in the air. Roots usually bring in water. Inside the plant's **cells**, its tiny living units, compartments called **chloroplasts** capture light using a green substance called **chlorophyll**.
 
-Inside plant cells are **chloroplasts**, compartments containing the green light-absorbing pigment **chlorophyll**. Light energises **electrons**, tiny charged particles involved in chemical reactions. In the **light reactions**, water supplies replacement electrons and oxygen is released.
+The light supplies energy for **photosynthesis**: making sugars from carbon dioxide and water. Oxygen is released along the way.
 
-These reactions make two useful molecules: **ATP** (adenosine triphosphate), used to power chemical work, and **NADPH** (the electron-loaded form of nicotinamide adenine dinucleotide phosphate), which carries electrons to other reactions. Nobody needs to pronounce that last name to appreciate the job.
+The plant uses sugars as fuel and as ingredients for construction. Much of the carbon in a tree's wood therefore arrived through its leaves as gas. The soil supplies essential minerals and water, but the roots aren't drinking up tiny pieces of tree.
 
-The **Calvin–Benson cycle** then uses that energy and those electrons to build carbon-containing molecules from carbon dioxide, written **CO₂**. **Rubisco** is an **enzyme**, a molecule that speeds up a reaction. It attaches CO₂ to a molecule containing five carbon atoms. Further reactions produce material for making sugars and regenerate the starting molecule, ready for another turn. Rubisco's full name is ribulose-1,5-bisphosphate carboxylase/oxygenase; its two activities explain that mouthful below.
+Plants also break down fuel to release usable energy, in daylight and darkness. Capturing sunshine doesn't remove the need to power repair, transport and growth.
 
-The oxygen released by oxygenic photosynthesis comes from water. The carbon incorporated into a plant comes largely from CO₂. Much of a tree's dry mass therefore arrived through its leaves, while roots supplied essential water and mineral nutrients.
+## 🚪 A leaf has a difficult door problem
 
-Plants also **respire**, breaking down fuel to release usable energy. **Mitochondria**, specialised compartments inside their cells, do much of this work in daylight as well as darkness. Photosynthesis does not exempt a plant from the need to maintain its cells overnight.
+Tiny adjustable openings called **stomata** let carbon dioxide enter a leaf. Water vapour escapes through them too.
 
-**Net primary production** is the organic material remaining after producers' own respiration. It supports growth and supplies other organisms through feeding, substances released by plants, and the breakdown of dead material.
+Opening the doors helps food-making but costs water. Closing them saves water while restricting the carbon dioxide supply. On a hot, dry day, a leaf has competing needs.
 
-## 🍃 The carbon–water trade-off
+Different plants manage the problem differently. Some concentrate carbon dioxide near the machinery that uses it. Many plants adapted to dry conditions open their pores at night, storing carbon dioxide for use during the day.
 
-Leaves admit CO₂ through adjustable pores called **stomata**. Water vapour escapes through the same openings. A pair of **guard cells** around each pore controls its opening in response to light, carbon dioxide, water status and other signals.
+Those arrangements have costs too. A useful trick in a desert isn't automatically the best arrangement in a shady forest.
 
-Closing stomata can conserve water, but limits CO₂ uptake. During hot, dry conditions, that creates a difficult trade-off. Leaves also differ in thickness, angle, surface coatings and internal structure, reflecting different compromises among light capture, lifespan, water loss and defence.
+## 🚰 How does water climb a tall tree?
 
-Rubisco can react with oxygen instead of CO₂, initiating **photorespiration**, which consumes resources while recovering useful carbon from the products. Plants have evolved different ways to manage this:
+Trees have no heart pumping water to the top. Instead, evaporation from leaves helps pull water upwards through connected columns in tiny conducting tubes.
 
-- **C3 plants**—named for the three-carbon product of their first carbon-fixing step—use the Calvin cycle without a specialised C4-style concentrating system.
-- **C4 plants** first capture carbon in a four-carbon compound. They concentrate CO₂ around Rubisco, generally using spatial separation between initial fixation and the Calvin cycle.
-- **CAM plants** use **crassulacean acid metabolism**, named after the plant family in which it was studied. They commonly take up CO₂ at night and store it for daytime use, reducing water loss.
+Water molecules attract one another. As water leaves at the top, that attraction helps transmit the pull down the column. The conducting tissue is called **xylem**; many of its water-carrying cells are dead at maturity, leaving useful hollow structures.
 
-C4 and CAM involve costs and constraints. They are useful under particular conditions, not universal upgrades that other plants forgot to install.
+During drought, bubbles can interrupt the columns and block flow. A tree's survival depends partly on how its plumbing handles that strain.
 
-## 🚰 Moving water without a heart
+Sugars travel through different tissue, called **phloem**, from places supplying them to places using or storing them. Growing roots, fruit and new shoots all need deliveries.
 
-In the **xylem**, water moves through conducting cells whose functional mature forms are dead. Evaporation from leaves creates tension that draws water through connected columns. Cohesion between water molecules helps maintain those columns.
+## 🍄 Roots have trading partners
 
-Drying increases the tension required. Bubbles can enter or form in the water columns and block flow. These blockages are called **embolisms**. Some species move water efficiently but are more vulnerable to such failures; others tolerate drier conditions. Drought survival involves internal plumbing as well as tough-looking leaves.
+Many roots associate with fungi. The plant supplies carbon-rich food, while fungal threads can help it reach nutrients in the soil.
 
-**Phloem** transports sugars and other compounds from **sources**, places producing or releasing them, to **sinks**, places using or storing them. A mature leaf may be a source; a growing root, fruit or shoot may be a sink. Pressure differences drive transport in living conducting tissue. Different tubes can support different directions at the same time.
+Some plants host bacteria that convert nitrogen gas into usable compounds. Others release chemicals from specialised roots to help obtain phosphorus, an important nutrient trapped in some soils.
 
-Roots provide absorption surfaces and interact with organisms in the **rhizosphere**, the soil zone strongly influenced by roots. Belowground investment varies enormously: grasslands may store much of their living mass below ground, while forests often have most living mass above it. There is no universal “half the tree is underground” rule.
+Carnivorous plants have another solution: catch animals. Even these plants generally get their energy and carbon through photosynthesis; insects mainly supplement scarce nutrients. The fly is more like a nutrient delivery than a replacement for sunlight.
 
-## 🍄 Getting nutrients out of difficult ground
+[Soil ecology](soil-ecology.md) explains the underground side of these relationships.
 
-Many plants form **mycorrhizal** partnerships: close associations between roots and fungi. Fungal threads called **hyphae** explore soil beyond the immediate root surface and can improve access to nutrients. Plants supply carbon compounds in return.
+## 🌱 Growing new parts changes the rules
 
-Other strategies include partners in root swellings called **nodules** that turn nitrogen gas into usable compounds, dense clusters of roots that release chemicals to free phosphorus from soil, and insect-catching **carnivory** in some nutrient-poor habitats. Carnivorous plants still generally obtain their carbon and energy through photosynthesis; captured animals chiefly supplement scarce nutrients.
+Plants keep regions of actively dividing cells that can make new roots, leaves and shoots. Growth can shift towards light or respond to damage.
 
-These mechanisms make more sense when linked to [soil chemistry and nutrient cycling](soil-ecology.md). A lush canopy does not prove that the ground beneath it is rich in readily available nutrients.
+Some spread through runners or underground stems, producing what look like several plants from one original individual. Some recover after fire using protected buds and stored reserves. Others depend on seeds. Their abilities differ enormously.
 
-## 🌱 Modular growth changes the possibilities
+## 🌸 Flowers, seeds and chemical defences
 
-**Meristems** contain cells that sustain growth and generate new organs. Plants can add shoots, roots and leaves over time, with development responding to light, damage and resources.
+Plants make chemicals that discourage some animals from eating them. Flowers can use colour, scent and food rewards to attract visitors that carry pollen. Other plants rely on wind.
 
-This modular arrangement supports regrowth after some injuries and allows **clonal spread**, producing connected or separate copies through runners, underground stems called **rhizomes**, or other structures. One genetic individual can produce several apparently separate plants. Whether we count genetic individuals or independent shoots depends on the question.
+A seed packages a young plant with protection and supplies. Many seeds can pause development until conditions suit them.
 
-Stored reserves and protected buds can support recovery after fire, but these capacities differ among species. Some depend mainly on seeds. [Fire and succession](forests/fire-water-and-succession.md) explains why “plants recover from fire” needs a species, a fire regime and a timescale attached.
-
-## 🌸 Defence and reproduction are chemical work
-
-Plants produce compounds that discourage plant-eating animals, inhibit microscopic organisms, attract animals that transfer pollen or influence neighbours. Tannins, terpenes and alkaloids are examples of broad chemical families with many roles.
-
-Eucalypt leaves contain complex mixtures that affect herbivore choices; scent alone does not give a complete measure of toxicity or food quality. Flowers similarly use combinations of shape, colour, scent and rewards to influence visitors. Wind-pollinated plants use a different strategy.
-
-Seeds package an **embryo**, a young developing plant, with protection and resources, often allowing development to pause until conditions are suitable. Dispersal and dormancy influence where a species can establish, even when an adult plant could tolerate a site.
-
-To connect these mechanisms to something visible on a walk, explore [eucalypts](forests/eucalypts.md), [woodland and rainforest plants](forests/woodland-and-rainforest-plants.md), and [reading a landscape](reading-a-landscape.md). [Ocean ecology](ocean-ecology.md) describes photosynthetic production by organisms that never become trees.
+Next time a tree seems to be doing nothing, imagine its water moving up, sugar moving elsewhere, roots interacting with fungi and leaves balancing air against water loss. [Eucalypts](forests/eucalypts.md) offer some particularly visible clues to this stationary, very busy life.
 
 ## 📚 Sources and further reading
 

@@ -1,91 +1,64 @@
-# Reading Soil: Texture, Water and Chemistry 🥾
+# What Can a Handful of Dirt Tell You? 🥾
 
-Two handfuls of pale sand can look almost identical. One may sit over dry, freely draining ground; the other may be the top of a seasonally waterlogged patch. The surface is keeping secrets.
+Two patches of pale sand can look almost identical. One stays dry between showers. The other sits above a layer that traps water and spends part of the year soggy.
 
-**Soil** is a mixture of mineral particles, living organisms and their remains, with water and air in the gaps. Reading it means using its layers, feel and behaviour to understand what roots and other inhabitants experience.
+The surface is giving you a clue, not the whole answer.
 
-A useful field description starts with behaviour: gritty or sticky, deep or shallow, freely drained or seasonally wet. Formal soil names become easier to understand once those properties are visible.
+**Soil** contains mineral particles, living things and their remains, with air and water in the spaces. Reading it means investigating what those ingredients and spaces let roots do.
 
-A dark handful is not automatically fertile. A pale sandy profile is not automatically dry. Soil enjoys making shortcuts expensive.
+## ✋ Start with feel
 
-## ✋ Texture: what the mineral particles feel like
+Where sampling is allowed, a small moistened sample can help reveal its **texture**: the mixture of sand, silt and clay-sized particles.
 
-**Texture** describes the proportions of sand, silt and clay. It differs from **structure**, which describes how particles are arranged into clumps called **aggregates** and spaces called **pores**. Sand, silt and clay describe progressively smaller mineral particles.
+Sand feels gritty. Silt contributes a smooth, silky feel. Clay helps the sample stick together and hold a shape; clay-rich soil may squeeze into a ribbon between finger and thumb.
 
-Where sampling is permitted, moisten a small amount of soil and knead it. Sand feels gritty. Silt contributes a smooth, silky feel. Clay makes the sample stick together and hold a moulded shape; a clay-rich sample can often be pressed into a longer ribbon between finger and thumb.
+This is a rough field estimate. It doesn't measure every property, but it tells you more than calling the soil “brown”.
 
-This is an estimate, not a laboratory measurement. Organic matter, moisture and experience affect the result.
+**Structure** means how those particles gather into clumps and spaces. Well-structured clay can have useful air passages; compacted soil can lose them. The ingredients and their arrangement both matter.
 
-**Loam** is a texture containing a useful mixture of particle sizes. The word does not establish nutrient levels, acidity or drainage. Equally, two clay soils may behave very differently if one has stable, porous aggregates and the other breaks apart into particles that block its pores.
+## 🧱 The layer underneath may be running the show
 
-## 🧱 The surface is only one layer
+An existing bank or exposed edge can reveal a **soil profile**, the layers below the surface.
 
-A **soil profile** is the sequence of layers seen in a vertical slice. It may contain an organic surface layer, a darker mineral topsoil, a paler **leached** layer from which dissolved substances have been washed away and a subsoil with different texture or chemistry. Not every soil has every layer.
+Sandy topsoil over a slowly draining clay layer may become wet after rain. A deeper sandy profile may let water pass through readily. Cracking clay can admit water through open cracks, then change as it swells when wet.
 
-A sharp change from sandy or loamy topsoil to clay-rich subsoil is often called a **texture-contrast** or duplex profile. Water may accumulate above a slowly permeable subsoil, especially during wet periods. Later, the surface can dry markedly.
+Roots experience the whole depth they reach. Looking at only the top centimetre is like judging a house from its doormat.
 
-Deep sand usually drains readily, but water stored below ground, or a layer that slows drainage, can keep it wet. Cracking clays may admit water rapidly through open cracks, then swell and behave differently after wetting.
+## 🎨 Colours tell stories, sometimes several
 
-Read an existing exposure where possible. A creek bank or disturbed edge can reveal information unavailable from the top centimetre, without excavating an intact habitat.
+Dark soil often contains substantial material from living things, but charcoal and minerals can darken it too. Darkness alone doesn't prove fertility.
 
-## 🎨 Colour is evidence with several possible causes
+Red and yellow colours often come from iron compounds. Grey areas with rusty patches can indicate changing wet and dry conditions, because oxygen availability changes iron's chemistry.
 
-Darkness often indicates organic matter, although minerals and charcoal can contribute. Red and yellow colours commonly reflect different iron oxides; yellow does not by itself prove waterlogging.
+A pale layer may have lost substances washed out by water. Some coastal Queensland sands contain a darker, sometimes hardened layer known as **coffee rock**, where organic material and metals have accumulated below.
 
-Dull grey zones can indicate long periods of water saturation and little oxygen, especially alongside contrasting coloured patches, or **mottles**. Oxygen availability changes the chemical form of iron and therefore its colour. Orange or reddish patches within grey material can record alternating wetter and drier conditions. The original rock or sediment and past conditions can complicate that interpretation.
+Colour becomes more useful when combined with depth, texture, roots and water behaviour.
 
-A pale layer can reflect strong leaching. On some sandy profiles, dissolved organic compounds and metals accumulate deeper down, forming a dark layer that may become cemented. **Coffee rock** is a familiar example in parts of coastal Queensland.
+## 💧 Roots need to breathe as well as drink
 
-Colour is most useful alongside texture, depth, roots and the site's water regime. It cannot replace all four merely by being dramatic.
+Roots use oxygen to help power their work. Waterlogged soil fills spaces that would otherwise contain air, and oxygen moves much more slowly through water.
 
-## 💧 Plants need both water and oxygen
+That is why a plant can suffer in wet ground without needing another drink. Flood-tolerant plants have ways of coping that many other plants lack.
 
-Water in large pores drains relatively easily. Smaller pores retain it more strongly. Some water held by soil is too tightly bound for roots to extract readily.
+Clay holds plenty of water, but some may be too tightly held for easy uptake. Sand can drain well but store little between showers. Return in another season if possible: a dry afternoon won't reveal winter waterlogging.
 
-Clay can therefore hold much water without making all of it available. Sand may provide good aeration but limited storage between rain events. Compaction reduces larger pores and can restrict roots and slow the movement of oxygen through soil. A root needs to breathe as well as drink; squashing the air spaces is a poor hospitality strategy.
+## 🧪 The invisible chemistry
 
-Waterlogging fills pores that would otherwise contain air. Oxygen moves much more slowly through water than through air, affecting roots and changing microbial chemistry. A plant adapted to seasonal flooding may have structures or physiological responses that a well-drained-soil species lacks.
+**pH** measures acidity and alkalinity. A value of 7 is neutral; lower values are acidic and higher ones alkaline. It changes how available some nutrients are to roots.
 
-Return in another season if possible. One dry afternoon cannot reveal how long a hollow stays saturated in winter.
+Shell-rich sand may be alkaline. Old, heavily washed quartz sand may be acidic. They can look alike and suit different plants.
 
-## 🧪 Chemistry changes what roots can obtain
+**Salinity** means dissolved saltiness, which can make it harder for roots to take up water. **Sodicity** describes too much sodium attached to soil particles; it can make some clay clumps fall apart and clog passages. The words sound similar because the problems are related, but they describe different things.
 
-**pH** measures acidity or alkalinity: 7 is neutral, lower values acidic and higher values alkaline. It affects which nutrients dissolve and become available. **Calcareous** sand contains calcium carbonate, often from shells or limestone, and may be alkaline; old, strongly leached quartz sand may be acidic. Both can look pale and feel gritty.
+A plant's appearance can suggest something to investigate. It isn't a replacement for a soil test when chemistry matters to the decision.
 
-Clay minerals and organic matter can retain positively charged nutrient particles, or **cations**. Their ability to hold and exchange these contributes to **cation exchange capacity**, but the amount varies with mineral type and chemistry. It is not a complete fertility score.
+## 🏡 Gardens add another chapter
 
-Phosphorus is especially important in many Australian landscapes. It can be scarce in available forms even where total phosphorus is appreciable. Some plants, including many members of the **Proteaceae** family, such as banksias, have highly effective phosphorus-acquisition mechanisms and can be harmed by excessive phosphorus supply. [Woodland and rainforest plants](woodland-and-rainforest-plants.md) explains cluster roots and other strategies.
+A Keilor Downs garden sits within a broader volcanic-plain setting, but its particular soil may include imported fill, compaction and years of additions.
 
-Vegetation provides clues, but no plant is a universal pH test strip. Species tolerances overlap, and a planted specimen may be receiving irrigation or growing in imported material.
+Notice what rain does, where water gathers and how deeply roots can grow. Combine those observations with regional clues rather than assuming every local bed is identical.
 
-## 🗺️ Several Australian soil patterns
-
-| Setting | What to investigate |
-| --- | --- |
-| Basalt plains | Clay content, cracking, stony rises, seasonal wetness and land-use history |
-| Granite slopes | Shallow coarse material versus deeper pockets and accumulated sediment |
-| Wet forest gullies | Organic layers, rooting depth, drainage and oxygen availability |
-| Calcareous coastal dunes | Carbonate, alkalinity, rapid drainage and salt exposure |
-| Old sandy wallum landscapes | Acidic nutrient-poor profiles, groundwater and subsurface organic accumulations |
-| Ironstone or deeply weathered terrain | Restricted rooting, mineral chemistry and limited available nutrients |
-
-Formal soil names group these properties: **Vertosols** are shrink–swell clay soils; **Podosols** have characteristic deeper accumulations of organic material with aluminium and sometimes iron; **Sodosols** have a strong texture contrast and sodium-rich subsoil. [Queensland's soil overview](https://www.qld.gov.au/environment/land/management/soil/soil-explained/types) is a useful introduction. The categories are descriptions to investigate, not substitutes for looking at the site.
-
-## 🧂 Salinity and sodicity are different problems
-
-**Salinity** is the presence of substantial soluble salts. It can make water uptake difficult even when soil appears wet.
-
-**Sodicity** concerns the proportion of sodium on the particle surfaces that hold exchangeable charged nutrients. In susceptible soils, too much sodium helps clay clumps break apart, reducing the connected spaces through which water moves. A saline soil is not necessarily sodic, and vice versa.
-
-Some coastal sediments also contain iron sulfides that can generate acidity when exposed to oxygen. Identifying or managing these acid sulfate materials requires more than noticing an orange drain or an unusual smell. The visible signs are a reason to investigate, not a diagnosis.
-
-## 🏡 A garden has its own history
-
-Around Keilor Downs, the broader volcanic-plain setting is useful context. A particular garden may nevertheless contain imported fill, compacted subsoil, altered drainage and decades of additions.
-
-Compare the actual rooting conditions with nearby surviving patches of the original vegetation, then verify important assumptions with suitable measurements. [Choosing plants](choosing-plants.md) applies that reasoning to a garden without assuming that every local species suits every local bed.
-
-For the organisms behind nutrient release and soil structure, see [soil ecology](../soil-ecology.md). Texture tells you what the material is like; ecology helps explain what is happening inside it.
+[Choosing plants](choosing-plants.md) uses this information. [Soil ecology](../soil-ecology.md) introduces the living community inside the handful. Dirt becomes considerably more interesting once you start noticing what it does.
 
 ## 📚 Sources and further reading
 

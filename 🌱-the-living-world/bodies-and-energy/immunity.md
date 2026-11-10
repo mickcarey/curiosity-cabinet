@@ -1,87 +1,66 @@
-# Immunity: Recognition, Response and Restraint 🛡️
+# How Your Body Knows When to Make a Fuss 🛡️
 
-Your body needs to stop an invading microbe without declaring war on your lunch. Both contain material that came from outside you. How can it tell which encounters need a response?
+A splinter brings trouble through your skin. Lunch brings unfamiliar material into your gut. Your body needs to respond differently to those two events. Declaring an emergency over every sandwich would be exhausting.
 
-The **immune system** is the interacting collection of cells, tissues and molecules that helps defend the body and repair damage. **Cells** are the tiny living units making up your tissues. **Microbes** are microscopic organisms, some of which can cause an **infection** by establishing themselves and multiplying in the body. Viruses can cause infections too, by using cells to make more viruses.
+The **immune system** is a network of living parts and chemical tools that helps defend you and repair damage. Many of its workers are **cells**, the tiny living units that make up your body. Their jobs include recognising trouble, responding in the right place and stopping when the response has done enough.
 
-That last job is substantial. Food contains foreign **proteins**, molecules built from chains of amino acids. The gut contains microbial communities. Pregnancy involves genetically distinct tissues. A useful immune response therefore depends on context as well as recognition. “Foreign” and “dangerous” are not synonyms.
+## 🧱 The first defence is already there
 
-## 🧱 Defence starts at the surface
+Skin forms a barrier. Sticky mucus traps particles in your airways. Tiny moving hairs help carry trapped material away. Stomach acid makes life difficult for many things you swallow.
 
-Skin and **mucosal surfaces**, the moist linings of places such as the airways and gut, separate internal tissues from the outside world. Their cells form barriers, secrete antimicrobial substances and respond to damage. Mucus traps particles; tiny hair-like structures called **cilia** move trapped material towards removal. Stomach acid makes survival difficult for many swallowed organisms.
+These barriers still have to let useful exchanges happen. You need to breathe and eat, after all.
 
-Resident microbes also occupy space and consume resources that potential invaders might otherwise use. They interact with immune development and activity, although the effects depend on the organisms and circumstances. [The body as an ecosystem](the-body-as-an-ecosystem.md) explores these relationships.
+Your surfaces also support **microbes**, microscopic living things. Many don't cause disease. Some resident microbes occupy space and use supplies that an invader might otherwise take.
 
-These defences are active tissues, not shrink-wrap. They must allow breathing, feeding and exchange while limiting unwanted entry.
+The body is a busy place, so “something unfamiliar” is not enough information to justify an attack.
 
-## ⚡ Innate immunity recognises recurring clues
+## 🚒 Fast responders notice familiar kinds of trouble
 
-**Innate immunity** is the set of defences ready to respond without first learning a particular invader. Its **receptors**, molecules that bind or detect particular chemical clues, recognise recurring signs of microbes and tissue damage. Some recognise bacterial components; others respond to viral genetic material or substances released from injured cells.
+Some defences recognise recurring clues, such as parts of bacteria or signals released by damaged cells. These ready-to-go responses are called **innate immunity**.
 
-Different cells contribute different functions:
+Certain immune cells swallow microbes and debris. Others release signals that call for help. Blood flow changes, and more fluid and immune cells can enter the affected tissue.
 
-- **Neutrophils** rapidly enter many inflamed tissues and attack microbes.
-- **Macrophages** engulf material, release signals and help coordinate clearance and repair.
-- **Dendritic cells** carry information from tissues to places where a more specifically targeted response can develop.
-- **Natural killer cells** integrate activating and inhibitory signals to detect some infected or abnormal cells.
+This response is **inflammation**. Redness, warmth and swelling are some of its visible signs.
 
-**Complement**, a network of circulating proteins, can mark targets for removal, promote inflammation and damage susceptible microbes. **Interferons**, signalling proteins released by cells, alter cellular behaviour in ways that help resist viral spread.
+It can be helpful, but it has costs. Chemicals that damage microbes can hurt nearby tissue too. Keeping an emergency response running forever doesn't make the body safer, any more than leaving a fire hose on forever improves the house.
 
-Innate recognition is often rapid because its receptors are already available. It is not merely a crude first attempt: its signals help determine the kind, location and intensity of the broader response.
+## 🔍 The body also prepares millions of possibilities
 
-## 🧬 Adaptive immunity generates a huge repertoire
+Another part, **adaptive immunity**, can respond to particular targets and remember encounters.
 
-**Adaptive immunity** can respond to particular targets and remember encounters. Two important cell types are **B cells** and **T cells**, both kinds of white blood cell called **lymphocytes**.
+Two important kinds of white blood cell are **B cells** and **T cells**. During their development, the body makes a huge variety of recognition tools. Different cells recognise different molecular shapes.
 
-As these cells develop, they rearrange sections of **DNA**, deoxyribonucleic acid, the molecule carrying inherited information. This creates instructions for a huge variety of receptors. Each cell carries receptors with its own recognition pattern. The body produces many possibilities before knowing which will prove useful—a remarkably extravagant way to be prepared.
+When a cell finds a matching target and receives the necessary supporting signals, it can multiply. The body makes more copies of a useful responder.
 
-When a receptor encounters a matching molecular target, called an **antigen**, and the necessary supporting signals are present, that cell can multiply. This is **clonal selection**. The body expands a useful existing clone rather than designing a receptor from scratch after inspecting an invader.
+Some B cells produce **antibodies**, proteins that attach to particular targets. Antibodies can block a virus from entering a cell or help mark something for removal. Other immune components do much of the clearing.
 
-B cells can become **plasma cells** that release **antibodies**, proteins that bind particular molecular targets. By binding, they may neutralise toxins or viruses, assist engulfment, or activate complement. Different antibody classes have different locations and functions; changing class does not necessarily change the target recognised.
+T cells have several jobs, including coordinating responses and killing some infected cells.
 
-T cells generally recognise molecular fragments displayed by other cells. Helper T cells coordinate responses, while **cytotoxic** (“cell-killing”) T cells can kill infected or abnormal cells. These activities depend on communication with innate cells, not a separate immune department operating in isolation.
+## 🪪 Cells can show a sample of what's inside
 
-## 🪪 How cells show what is happening inside
+Many body cells display tiny protein fragments on their surfaces. T cells can inspect these displays. Fragments from an infection may help reveal that something is wrong inside.
 
-**Major histocompatibility complex**, or MHC, proteins display **peptides**, short protein fragments, at cell surfaces. In humans these proteins are called **HLA**, short for **human leukocyte antigen**.
+Recognition still needs context. Other signals help determine whether to respond, how strongly and where. A matching fragment isn't a universal button marked “attack now”.
 
-MHC class I is present on nearly all cells with a nucleus, the main compartment holding DNA, and generally presents fragments from proteins inside the cell to CD8 T cells, a group that includes the main cell-killing T cells. MHC class II is mainly associated with specialised antigen-presenting cells and presents fragments to CD4 T cells, which include helper T cells. CD4 and CD8 name surface proteins that assist recognition and distinguish these broad groups.
+Controls also remove or restrain many immune cells that might target the body itself. When such controls fail, immune responses can damage the body's own tissues. Allergies involve harmful responses to ordinarily harmless substances.
 
-A displayed protein fragment alone does not settle the response. Additional signals, the condition of the presenting cell and the lymphocyte's history matter. This helps prevent every routine encounter from becoming an emergency.
+Both show why immune function is about accurate targeting and regulation, rather than simply having “more immunity”.
 
-Some infected and tumour cells reduce MHC class I display, making them harder for certain T cells to detect. That loss can also reduce inhibitory signalling to natural killer cells. The two systems notice different aspects of a suspicious cell.
+## 🧠 Remembering without thinking
 
-## 🚒 Inflammation helps, and has costs
+After some encounters, long-lasting cells remain. A later encounter with the same target can produce a faster or more effective response.
 
-**Inflammation** is a coordinated response to injury or infection. Blood flow changes, small vessels become more permeable, and immune cells arrive. Heat, redness and swelling are familiar signs. Local signals coordinate the response and can also affect whole-body temperature and behaviour.
+Vaccines use this ability to prepare protective responses without requiring the corresponding disease. How long protection lasts varies with the infection and the response.
 
-The same processes can damage tissue. Swelling interferes with function; toxic molecules useful against microbes can injure nearby cells. A response that persists after its useful work is done can become part of the problem.
+This is cellular memory, not conscious memory. No immune cell is sitting there recalling its dramatic encounter with a virus last winter.
 
-Resolution is an active process involving changes in signalling, removal of dying cells and tissue repair. Good immune function includes stopping appropriately. An alarm that is permanently ringing is not an improved alarm.
+## 🤝 Knowing when to stop
 
-## 🤝 Tolerance is part of the mechanism
+After trouble is controlled, signals change. Dead cells are cleared and repair continues. Restraint is part of the work.
 
-A randomly generated collection of receptors inevitably includes cells capable of recognising the body's own molecules. Developing lymphocytes undergo selection that removes or modifies many dangerous possibilities. Additional controls operate throughout the body, including regulatory T cells and signals that restrain activation.
+[The body as an ecosystem](the-body-as-an-ecosystem.md) explores why peaceful coexistence with microbes matters. [Cell growth](../cells-and-chemistry/cells-and-organelles.md) adds another challenge: cancers begin from the body's own cells, which can make them difficult to recognise and control.
 
-Tolerance is imperfect and context-dependent. Autoimmune disease involves immune responses against the body's own components; allergy involves harmful responses to ordinarily harmless environmental substances. Neither is explained adequately by saying immunity is simply “too strong.” Targeting, regulation and tissue context all matter.
-
-Pregnancy provides another example of specialised regulation. Where maternal tissues meet the developing baby's supporting tissues, cells display molecular fragments and interact with immune cells in distinctive ways. Maternal immunity is not globally switched off. The **placenta**, the organ supporting exchange between mother and developing baby, helps support coexistence while other defences continue; [embryonic development](embryonic-development.md) describes the organ's wider role.
-
-## 🧠 Memory changes future responses
-
-Some activated B and T cells become memory cells. Long-lived plasma cells can continue producing antibodies. Later encounters may therefore trigger a faster or more effective response, although duration and protection vary by antigen and organism.
-
-Vaccination uses antigen exposure to establish protective immune responses without requiring the corresponding disease. The underlying mechanisms include antigen presentation, clonal expansion and memory formation.
-
-The innate–adaptive distinction also has an interesting qualification. **Trained immunity** describes persistent changes in innate responsiveness associated with lasting changes in cellular chemistry and in how cells control their **genes**, sections of DNA used to make working molecules. Changes to gene activity without rewriting the DNA sequence are called **epigenetic** changes. It differs from the antigen-specific receptor memory of B and T cells, and can have beneficial or harmful consequences. [Netea and colleagues' review](https://www.nature.com/articles/s41577-020-0285-6) explains the distinction.
-
-## 🔬 Cancer makes recognition especially difficult
-
-Tumours arise from the body's own cells. Immune responses can eliminate some abnormal cells or constrain their growth, while other tumour populations escape recognition or suppress local responses. This interaction can select for variants better able to survive immune pressure: **immunoediting**.
-
-It connects immunity with [cell growth and regulation](../cells-and-chemistry/cells-and-organelles.md) and [evolution](../genetics-and-evolution/evolution.md). A response changes the environment in which cells compete. The surviving population may then be different from the one that first appeared.
-
-The impressive part is the judgement built into the system: respond here, hold back there, remember this encounter, stop when the repair is done. More activity is not automatically better. An immune system has to keep you alive while leaving enough of you intact to enjoy it.
+The impressive thing is the coordination: protect the body while keeping breathing, eating, growing and healing possible.
 
 ## 📚 Sources and further reading
 

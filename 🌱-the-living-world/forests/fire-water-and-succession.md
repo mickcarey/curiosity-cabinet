@@ -1,89 +1,66 @@
-# Fire, Water and Succession 🔥💧
+# How Can a Blackened Tree Grow Green Again? 🔥🌱
 
-Green shoots bursting from a blackened tree can look like a botanical magic trick. The explanation is more interesting: living buds survived beneath protective tissue, and stored resources are helping them grow. Beside that tree, another species may return entirely through seedlings.
+After a fire, fresh shoots may burst from a blackened trunk. Nearby, another kind of tree may be dead, with its next generation beginning as seedlings.
 
-A landscape reflects both its growing conditions and what has happened to it. Fire, flood, drought, grazing and clearing are **disturbances**: events that remove organisms or change the resources and space available to them. What happens afterwards depends on who survived and what can arrive.
+Both scenes can happen in the same landscape. The difference lies in what survived, what resources remain and what happens next.
 
-**Succession** describes changes in a community through time. It is not a compulsory march from grass to shrubs to a finished forest. A heathland can be a lasting community of organisms interacting with their surroundings, and a grassy woodland is not necessarily waiting for more trees.
+## 🌱 Two ways back
 
-## 🔥 What allows a fire to occur?
+Some plants keep protected buds beneath bark, near the base or underground. If those buds survive, stored resources can help them produce new growth. These plants are called **resprouters**.
 
-A useful framework distinguishes four requirements: sufficient plant material, fuel dry enough to burn, suitable fire weather and an ignition. [Bradstock's biogeographic model](https://doi.org/10.1111/j.1466-8238.2009.00512.x) uses these interacting constraints to explain differences across Australia.
+Other plants depend mainly on seed when fire kills the adults. The seed might survive in soil, remain in woody structures or arrive from elsewhere.
 
-In some dry environments, slow or sparse plant growth limits how much fuel exists and whether it forms a connected cover. Rain can increase later fire potential by producing vegetation that subsequently dries. In wetter forests, substantial fuel may already be present, while moisture usually limits its availability.
+Some species use both approaches. Age and the severity of the fire can change the outcome.
 
-Drought can therefore have different effects in different places. It may reduce future fuel growth in one system while making existing fuel available in another. Neither “dry means more fire” nor “wet forests do not burn” is a reliable universal rule.
+A green shoot shows that part of the plant survived. It doesn't show that the plant has fully recovered or that another fire would be harmless. Rebuilding a body takes resources.
 
-## 📅 “There was a fire” leaves a lot unanswered
+## ⏳ Timing can decide whether a forest returns
 
-A **fire regime** is the pattern of fires in a place over time. How often they occur matters, but so do season, strength, effects, area burned and the kinds of fuel involved.
+Imagine a young stand of seed-dependent trees. A severe fire kills them before they have produced enough seed. The usual route to the next generation may be missing.
 
-**Intensity** concerns energy release. **Severity** concerns ecological effects, such as vegetation loss or changes to soil. They are related, but not interchangeable. A long period of heating near roots can have serious consequences even without spectacular flames.
+Mountain ash forests provide an important example of this risk. Recovery requires a seed supply and conditions in which seedlings can establish.
 
-The same fire can produce a patchwork of effects. Fuel, the shape of the land and weather vary, leaving some areas lightly affected and others with many deaths among trees in the overhead leafy layer, or **canopy**. A map showing a fire perimeter does not tell you that every tree within it experienced the same event.
+Resprouters need time too. Repeated damage can use up reserves, especially if drought slows regrowth.
 
-## 🌱 Two broad ways plants recover
+So the useful question isn't simply whether a plant “likes fire”. We need to know how often fires happen, when they occur, what burns and how strongly organisms are affected. This pattern is called a **fire regime**.
 
-**Resprouters** retain living tissues and protected buds that can produce new growth. Buds may occur beneath bark, at the base, or in underground structures. Stored resources support the first flush of growth.
+## 🔥 Why some wet places can burn
 
-**Obligate seeders**, in the relevant fire context, depend on seed after the adult plants are killed. Seeds may survive in the soil, remain in woody structures above ground, or arrive from outside the burnt patch.
+Fire needs enough connected fuel, fuel dry enough to burn, suitable weather and an ignition.
 
-Some species combine both strategies. Others change their response with age or fire severity. A species label is less informative than understanding which tissues and seed sources survived.
+In a sparsely vegetated dry place, there may be little fuel. Rain can grow more vegetation that later dries. In a wet forest, plenty of plant material may already exist, but moisture usually limits burning. Drought can change that.
 
-A green shoot on a black trunk demonstrates survival and regrowth. It does not demonstrate that the tree has fully recovered, or that another fire would be harmless. Resprouting is an impressive backup system, not an unlimited subscription.
+Flame size also doesn't tell you everything about damage. Long-lasting heating around roots can have serious effects. A single fire can leave a patchwork of lightly affected areas and heavily burned ones.
 
-## ⏳ Recovery takes time
+## 💧 Water helps decide who gets through
 
-A seed-dependent population needs time for seedlings to mature and replenish its seed supply. Repeated severe fire before that happens can remove the population locally. Mountain ash provides a well-studied example, although reproductive timing varies with conditions.
+A sheltered, moist gully may escape some damage suffered on exposed slopes. Surviving patches can provide animals, plants and seeds for surrounding areas.
 
-Resprouters also need time to restore reserves and functional tissues. Drought or heavy feeding by leaf-eating animals can compound the cost of repeated disturbance.
+But refuges have limits. Extended drought and extreme conditions can make places burn that usually remain damp.
 
-**Interval squeeze** describes a particular risk: the suitable interval between fires narrows if fires become more frequent while growth, maturation or seed production becomes slower or less reliable. [Enright and colleagues](https://doi.org/10.1890/140231) connect this mechanism with changing climate and plant persistence.
+Water also changes landscapes without fire. Floods can drown roots, scour away plants or deposit fresh sediment. Changes in underground water levels can transform a wetland even when nothing dramatic happens above ground.
 
-Long intervals can alter communities too. Some plants decline when opportunities for seedlings to establish disappear, while shade-tolerant species may increase. This does not establish one ideal interval for every species or every patch.
+## 🌿 What happens next isn't a fixed staircase
 
-## 💧 Water shapes the patchwork
+Changes in a community over time are called **succession**.
 
-Sheltered gullies can retain moisture and sometimes escape damage experienced on exposed slopes. Such patches may preserve plants, animals and seed sources that contribute to recovery nearby.
+Early plants may help later arrivals by shading bare ground or holding soil in place. They may also make arrival harder by taking light, water and space. Which seeds arrive matters, as does later weather and disturbance.
 
-Refuges are conditional. Extended drought and extreme fire weather can expose places that rarely burn. A currently damp gully is not evidence that it has always been protected.
+There is no compulsory sequence ending in one “finished” forest. Heathland and grassland can be lasting communities with their own rich life.
 
-Water also acts independently of fire. Flood duration determines which roots remain oxygenated. Scouring removes plants and sediment; deposition creates new surfaces. A fall in the **water table**, the level below which ground is saturated, can change a wetland even without any obvious disturbance above ground.
+A dry ridge beside a moist gully isn't necessarily showing two ages of the same forest. The places may simply offer different conditions.
 
-The [soil profile](reading-soil.md) and the broader [climate and geology](climate-and-geology.md) help explain why neighbouring patches respond differently.
+## 📓 Reading the aftermath
 
-## 🌳 Succession has more than one possible outcome
+Shoots on old trunks show regrowth. Seedlings show new arrivals. Charcoal shows that fire occurred, but usually doesn't supply an exact date.
 
-After disturbance, a site's future depends on surviving organisms, available seeds, environmental conditions and subsequent events.
+Repeated photographs and local fire records help connect those clues. A single visit is one frame in a long film.
 
-Early arrivals may **facilitate** later species by stabilising soil or providing shade. They may **inhibit** them through competition. Some later species establish because they tolerate conditions that the early community cannot maintain indefinitely.
+Rain after fire can carry ash and sediment into streams, linking the hillside to [estuaries](../coasts/kelp-seagrass-mangroves-and-estuaries.md). Drought, grazing and later storms can alter recovery again.
 
-A canopy gap can favour light-demanding seedlings. A wet eucalypt forest may develop a denser **understorey**, a layer of smaller plants, composed of rainforest species during a long period without severe disturbance. But soil, rainfall, the arrival of seeds and feeding by animals can alter that trajectory.
+Indigenous fire practices are diverse, place-specific knowledge systems with continuing practitioners and cultural purposes. They cannot be reduced to one universal burning timetable.
 
-Comparing a ridge with a gully does not necessarily reveal two ages of the same community. They may be different communities maintained by different conditions. Space is not automatically a substitute for time.
-
-## 🥾 What a recovering landscape can show
-
-Useful observations include shoots emerging from old stems, new seedlings, surviving canopy patches, changes in ground cover and exposed or eroding soil.
-
-Treat each as evidence for a limited claim:
-
-- Charcoal shows that fire occurred, but usually not its date or full severity.
-- Seedlings indicate **recruitment**, the addition of new plants to a population, but species identification is needed to establish what is replacing what.
-- A group of plants of similar age suggests a common establishment opportunity, which could follow fire, clearing or another event.
-- Unburnt patches may provide refuges, but their ecological role depends on size, connectivity and surviving organisms.
-
-Fire-history maps, repeat photographs and surveys can test these interpretations. A single visit is valuable, but it is one frame of a long process.
-
-## 🌧️ Disturbances interact
-
-Rain after vegetation loss can move ash and sediment into streams. Changed soil surfaces and reduced cover can alter how water soaks in and how soil is washed away. Drought can weaken recovering plants; herbivores may concentrate on fresh growth.
-
-Those effects connect forest change with [estuaries and coastal habitats](../coasts/kelp-seagrass-mangroves-and-estuaries.md). **Catchments**, the areas draining into a waterway, do not stop affecting the water when the visible flames disappear.
-
-Indigenous fire practices also belong within this history. They are diverse, place-specific knowledge systems with cultural purposes and continuing practitioners. They cannot be reduced to a universal historical burn interval or reproduced from an ecological summary.
-
-Understanding disturbance means asking what happened, to which organisms, under which conditions, and what happened afterwards. The interesting answer is usually a sequence, not the word “fire” on its own.
+The green returning to a blackened landscape is worth noticing carefully. It tells a story about survival and rebuilding, one that is still unfolding.
 
 ## 📚 Sources and further reading
 

@@ -1,78 +1,52 @@
-# Cells and Their Compartments 🔬
+# A Whole Busy World Inside a Cell 🔬
 
-Your skin, a mushroom and a blade of grass are all built from **cells**: tiny living units enclosed by a membrane. Some organisms are just one cell. You are a vast collection of them, cooperating well enough to read about themselves. That is a fairly impressive group project.
+Your skin and a mushroom are made of the same basic kind of thing: **cells**, tiny living units. So is a blade of grass. Somehow, a collection of these little units has become you, sitting here reading about them.
 
-Most cells are too small to see without a microscope. Inside, water surrounds a busy mixture of molecules, the tiny chemical structures from which living things are made. Reactions build new materials, release usable energy and deal with waste. The membrane keeps this activity together while allowing selected substances in and out.
+Most cells are too small to see without a microscope. Zoom in, though, and there's plenty happening: materials arriving, parts being built, deliveries moving and worn-out pieces being recycled.
 
-Cells are not all identical. Bacteria and archaea, two major groups of single-celled life, have no **nucleus**, the compartment that houses most genetic information in animal, plant and fungal cells. Cells with nuclei are called **eukaryotic**. Their internal compartments, or **organelles**, allow different jobs to happen in different conditions.
+A cell is busy enough to make a quiet-looking leaf seem suspicious.
 
-## 🫧 How do you have a boundary without starving inside it?
+## 🚪 A boundary with doors
 
-A cell needs separation from the outside world, but it also needs supplies. A completely sealed cell would have a very short career.
+Every cell has a thin outer boundary called a **membrane**. It keeps the inside together while controlling what enters and leaves.
 
-Its **plasma membrane** is mainly a double layer of oily molecules called lipids, with proteins embedded in it. These lipids have heads that interact with water and tails that avoid it. In water, the tails gather inside the layer while the heads face outwards.
+Much of the membrane is a double layer of oily molecules. Oxygen can slip through fairly easily. Other substances need passages made from **proteins**, molecules that do many of the cell's jobs.
 
-Oxygen and carbon dioxide can pass through this layer fairly easily. Charged particles, called **ions**, and many other substances need help. Membrane proteins provide selective routes:
+Some passages act like doors. Other proteins act like pumps, using energy to move material where it would not easily go by itself. A cell can also wrap its membrane around a larger delivery and pull it inside in a tiny bubble.
 
-- **Channels** create passages for particular particles.
-- **Carriers** bind a substance and change shape to move it across.
-- **Pumps** use energy to move substances against the direction they would otherwise tend to travel.
+So the boundary does much more than hold the contents in. A sealed bag would soon run out of supplies.
 
-Pumps can build up more of a substance on one side than the other. Differences in concentration and electrical charge store usable energy, rather as water held behind a dam can do work when released. Nerve signals and nutrient uptake depend on such differences.
+## 🏠 Why have rooms inside?
 
-Other membrane proteins detect outside signals or attach the cell to its neighbours. For larger deliveries, the membrane can fold around material and pinch off an internal bubble, a **vesicle**. The reverse process releases material outside. Even the wrapping takes part in the work.
+Animal, plant and fungal cells contain compartments called **organelles**. Keeping jobs in separate places means, for example, that recycling chemicals don't have to slosh around everything being built.
 
-## 🧬 Why have rooms inside a cell?
+The **nucleus** holds most of the cell's DNA—**deoxyribonucleic acid**, the molecule that stores inherited information. Useful sections of that information can be copied and sent to **ribosomes**, tiny structures that assemble proteins.
 
-Imagine trying to store food and digest it in exactly the same place. Keeping some reactions apart makes a great deal of sense.
+Some new proteins enter a folded membrane network called the **endoplasmic reticulum**. The name is a mouthful; the important part is that this network helps make and prepare materials. Another set of compartments, the **Golgi apparatus**, sorts many deliveries for their next destination.
 
-The **nucleus** contains most of the cell's DNA, short for **deoxyribonucleic acid**: the molecule carrying inherited information. Selected parts of that information are copied into a related molecule, RNA, or **ribonucleic acid**. Some RNA copies carry instructions to **ribosomes**, molecular structures that assemble proteins from smaller units called amino acids.
+Recycling compartments break old material into reusable pieces. Protein fibres help hold the cell's shape, and tiny motor proteins haul cargo along some of them. The inside has scaffolding and moving deliveries, all being rearranged while work continues.
 
-Proteins do much of a cell's work, from speeding up reactions to carrying cargo. Some are made on ribosomes attached to the **endoplasmic reticulum**, a folded membrane network. Here, newly made proteins can enter compartments where they are folded and prepared for delivery. Other parts of the network make lipids and store calcium ions.
+Bacteria are cells too, but they have no nucleus. They still build proteins, use energy and reproduce. You can run a busy workshop without dividing it into lots of rooms.
 
-The **Golgi apparatus**, another collection of membrane compartments, modifies and sorts many of these products. Vesicles carry them onwards. Recognition molecules help deliveries reach the correct destination; digestive chemicals are particularly poor candidates for “leave anywhere convenient”.
+## 🔋 The surprising history of the energy department
 
-In animal cells, **lysosomes** contain acidic conditions and enzymes that break down material for recycling. **Peroxisomes** handle other reactions, including those involving hydrogen peroxide, a useful but potentially damaging chemical.
+**Mitochondria** help cells capture usable energy from food. They make much of a cell's **ATP**, short for **adenosine triphosphate**: a molecule whose reactions power jobs such as movement and construction.
 
-Not every organised region needs a membrane. The **nucleolus**, inside the nucleus, assembles components of ribosomes. Cells can organise chemistry through molecules gathering together as well as by putting walls around them.
+Plant cells also have **chloroplasts**, which capture sunlight to help make sugars.
 
-## 🕸️ The scaffolding can walk things around
+Here is the wonderfully odd part: both types of compartment descended from bacteria. Long ago, separate living things formed partnerships so close that the partners became parts of a larger cell.
 
-A cell's interior contains a network of protein fibres called the **cytoskeleton**. It supports shape, helps cells move and provides routes for transporting material.
+They still contain some of their own DNA. Most can no longer live independently, because they depend on supplies and instructions from the rest of the cell. A very long stay turned into a permanent address.
 
-In animal cells, **actin filaments** help change shape and contribute to muscle contraction. **Microtubules** act as tracks for motor proteins and help separate genetic material during division. **Intermediate filaments** help tissues withstand mechanical stress.
+## ✂️ How does one cell become two?
 
-Motor proteins use chemical energy to move along these tracks carrying cargo. This matters especially in long nerve cells: waiting for everything to wander randomly from one end to the other would be hopelessly slow.
+Before most cells divide, they copy their DNA. Then they separate the copies and split, giving each new cell the information it needs.
 
-The fibres themselves grow, shrink and rearrange. “Skeleton” suggests something fixed; this one is constantly being remodelled while the building is occupied.
+This takes coordination. Checks can pause the process when something has gone wrong. Signals from neighbouring cells help control when division happens. Some damaged or unwanted cells carefully dismantle themselves so their remains can be cleared away.
 
-## ⚡ Some compartments used to be separate organisms
+That cooperation matters when you are made of many cells. Cancer can develop when altered cells escape the usual controls and their descendants keep growing at the body's expense.
 
-**Mitochondria** help cells convert energy from food into forms they can use. One important product is **ATP**, short for **adenosine triphosphate**, a molecule whose reactions help power activities such as transport and movement.
-
-The inner mitochondrial membrane holds a difference in the concentration and charge of hydrogen ions, also called protons. Their return through specialised machinery helps make ATP. The detail is in [cellular energy](../bodies-and-energy/digestion-and-cellular-energy.md), but the central idea is a controlled flow driving work.
-
-Plant and algal cells also have **chloroplasts**, which capture light energy for photosynthesis: making sugars from carbon dioxide and water.
-
-Both organelles have bacterial ancestry. An ancestral cell acquired partners that eventually became permanent parts of it, a process called **endosymbiosis**. Evidence includes their own DNA, their relationships to bacteria revealed by genetic comparisons, and aspects of their membranes and division.
-
-Over time, many genes moved to the host's nucleus or were lost. Modern mitochondria and chloroplasts depend on the rest of the cell. This was a very successful living arrangement, with a fairly decisive end to moving out.
-
-Lynn Margulis helped establish the modern account. The bacterial ancestry of these organelles is well supported; exactly how the first eukaryotic cells took shape remains a lively research problem.
-
-## 🔄 Making another cell—and knowing when to stop
-
-Before a cell divides, it generally needs to grow and copy its DNA. The DNA is organised into packages called **chromosomes**. In **mitosis**, copied chromosomes are separated into two sets; **cytokinesis** then divides the cell itself.
-
-The usual cycle is labelled G1, S, G2 and M: growth, DNA synthesis, further preparation, then division. The labels are less interesting than the coordination. Copying unfinished instructions into two new cells would spread the problem.
-
-Checkpoints help pause division when DNA is damaged or chromosomes are not correctly attached to the machinery that pulls them apart. Many cells also stop dividing when surrounding signals tell them to.
-
-Cells sometimes carry out a controlled self-dismantling process called **apoptosis**. Their contents are packaged for removal. This helps shape a developing body and remove cells that are no longer needed or are damaged.
-
-A whole organism depends on this cooperation. Cancer can develop when a cell's descendants acquire changes that let them grow, survive and invade despite the body's usual controls. Success for those cells can be disastrous for the body they belong to.
-
-That balance between individual cells and the whole body runs through [development](../bodies-and-energy/embryonic-development.md), [immunity](../bodies-and-energy/immunity.md) and [death](../death-and-decomposition.md). For the material being copied and divided, explore [DNA and chromosomes](../genetics-and-evolution/dna-and-chromosomes.md).
+A body is more than a heap of cells. Its cells share resources, exchange signals and follow limits that keep the whole alive. [Building an embryo](../bodies-and-energy/embryonic-development.md) shows just how much that teamwork can achieve.
 
 ## 📚 Sources and further reading
 

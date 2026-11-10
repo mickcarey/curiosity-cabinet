@@ -1,81 +1,58 @@
-# Microbes: Small Cells, Planetary Effects 🦠
+# The Invisible Lives Running Under Your Feet 🦠
 
-A spoonful of soil contains living things you cannot see, busy turning dead material into resources other organisms can use. The planet would work very differently without them. It would also have a serious problem with leftovers.
+A spoonful of soil looks fairly quiet. Under enough magnification, that impression falls apart. Tiny living things are growing, feeding and changing the chemistry around them.
 
-**Microbes** are organisms too small to see clearly without magnification. Most consist of one **cell**, a tiny living unit enclosed by a membrane. They help supply nutrients, break down remains and produce or consume gases that affect Earth's climate.
+These are **microbes**: organisms too small to see clearly without magnification. Most consist of one **cell**, a tiny living unit. Some cause disease, but most don't. Thinking of microbes only as germs is like describing all animals as mosquitoes.
 
-“Microbe” describes scale, not a single branch of life. It includes bacteria, archaea and microscopic **eukaryotes**, organisms whose cells have a nucleus, including many algae and fungi. A nucleus is the compartment holding most of a cell's inherited information. Viruses are usually studied alongside them, although viruses are not cells.
+## 🌳 Small doesn't mean closely related
 
-Most microbes are not **pathogens**, organisms that cause disease. An infection-focused picture misses most of their lives: growing, exchanging resources and interacting with organisms that may never include a human.
+Bacteria are one enormous group. Another is **archaea**, which can look similar under a microscope but differ deeply in their chemistry and history.
 
-## 🌳 Small cells are not all close relatives
+Both lack a **nucleus**, the compartment that holds most inherited information in our cells. Other microbes do have nuclei, including many microscopic algae and fungi.
 
-Bacteria and archaea lack a nucleus, so both are called **prokaryotes**. That shared organisation conceals major evolutionary differences.
+Comparing their inherited information revealed relationships that appearances couldn't show. A microscopic dot gives away rather little about its family tree.
 
-Comparisons of **RNA**, ribonucleic acid, in **ribosomes**, the machinery cells use to make proteins, helped establish Archaea as a distinct branch of life. Archaea differ from bacteria in membrane chemistry and in the machinery that handles genetic information. Even the oily molecules in their enclosing membranes connect differently: archaea typically use **ether** links, while bacteria generally use **ester** links. Their genetic machinery differs too. Archaea's way of copying genetic information into RNA has important similarities to ours. Small and similar-looking does not mean closely related.
+Archaea are famous for living in hot springs and salty places, but many live in ordinary soil, seawater and animal-associated communities too. You don't need an extreme address to belong to the group.
 
-The familiar three-domain classification names Bacteria, Archaea and Eukarya. Many modern evolutionary analyses place eukaryotes within the archaeal branch, with **mitochondria**, energy-converting compartments inside eukaryotic cells, contributed by a bacterial partner. That two-domain interpretation changes the deepest branching pattern, not the discovery that archaea and bacteria are fundamentally distinct.
+## ⚡ What's for dinner when you're microscopic?
 
-Archaea also live in ordinary seawater, soil and animal-associated communities. Hot springs and salt lakes are famous examples, not their entire address book.
+Microbes obtain energy in an astonishing variety of ways.
 
-## ⚡ What can a microbe live on?
+Some capture sunlight. **Cyanobacteria** are bacteria that use light to build food from carbon dioxide and water, releasing oxygen. This process, **photosynthesis**, is also what green plants do.
 
-**Metabolism** is the collection of chemical reactions keeping an organism alive. It needs energy to drive work, carbon to build many molecules, and **electrons**, tiny charged particles transferred in important energy-releasing reactions. Different microbes obtain these in startlingly different ways.
+Other microbes gain energy from reactions involving substances such as hydrogen, iron or sulfur compounds. Their chemistry can support communities in places where sunlight never reaches.
 
-A photosynthetic organism captures light energy. An organism that **fixes carbon** takes carbon dioxide and uses its carbon to build the kinds of molecules living things are made from, called **organic molecules**. Some organisms do both; others use light while obtaining organic carbon from their surroundings.
+“Eating rock” is a vivid description, but they aren't chewing pebbles. Useful chemicals from rocks can take part in energy-releasing reactions.
 
-Microbial combinations are extraordinarily diverse:
+Some microbes make methane in oxygen-free conditions. Others consume it. Some use oxygen; others are harmed by it. There is no single microbial menu.
 
-- **Cyanobacteria** are bacteria that capture light energy, taking electrons from water and releasing oxygen. This is **oxygenic photosynthesis**.
-- Other photosynthetic microbes use different electron donors and do not release oxygen.
-- Some bacteria and archaea gain energy by taking electrons from hydrogen, ammonia, iron or sulfur compounds—a process called **oxidation**.
-- Some organisms release energy through chains of electron transfers ending with substances other than oxygen, such as nitrate or sulfate. This is a form of **respiration**.
-- **Methanogenic** (“methane-making”) archaea produce methane under suitable oxygen-free conditions; other microbes consume methane.
-- Fermenters obtain energy by rearranging organic molecules without needing oxygen or another outside substance as the final electron recipient.
+## 🌍 Tiny workers changed the planet
 
-“Eating rock” is a memorable description, but chemically imprecise. Often the useful resource is an inorganic substance dissolved from rock, coupled to another substance that can accept electrons. The energy comes from the reaction, not from mineral crunchiness.
+Over Earth's history, photosynthetic microbes helped oxygen accumulate in the atmosphere. That opened possibilities for oxygen-using life and made conditions harder for organisms unable to tolerate it.
 
-These processes connect [soil ecology](soil-ecology.md), [ocean food webs](ocean-ecology.md) and the search for [habitable environments beyond Earth](astrobiology/astrobiology.md).
+Certain microbes also turn nitrogen gas from the air into substances living things can use. Plants and animals can't perform that conversion themselves.
 
-## 🌍 Life changed the conditions for other life
+Others break down remains, releasing materials that feed new growth. [Soil](soil-ecology.md) and [ocean food webs](ocean-ecology.md) depend on this continual chemical work.
 
-Cyanobacterial photosynthesis helped transform Earth's oxygen chemistry. Oxygen initially reacted with substances able to donate electrons, including dissolved iron, before accumulating more substantially in the atmosphere. That transformation opened opportunities for organisms that use oxygen and restricted habitats for oxygen-sensitive ones.
+Much of what keeps a forest growing is happening below the size at which you can admire it.
 
-Nitrogen fixation is another enormous contribution. Certain bacteria and archaea convert atmospheric nitrogen into biologically usable forms. Plants and animals cannot perform this reaction themselves. Some plants host nitrogen-fixing partners; others depend on nitrogen already incorporated into soils and food webs.
+## 🏘️ Microbes make neighbourhoods
 
-Other microbes return nitrogen to the atmosphere, release nutrients from dead matter, and transform carbon between organic compounds, carbon dioxide and methane. Earth's habitability is partly a consequence of life continually changing its surroundings.
+Many microbes attach to surfaces and live within material they produce. Such a community is called a **biofilm**. Dental plaque is one familiar example; similar arrangements occur on streambeds and in soil.
 
-## 🧫 Why a petri dish misses so much
+Conditions can change across surprisingly tiny distances. The outside of a community may have plenty of oxygen while the inside has very little. One organism's waste can feed another.
 
-Many environmental microbes do not grow under standard laboratory conditions. Some require substances made by a partner, very low nutrient concentrations, particular surfaces or long incubation times.
+These relationships help explain why a microbe may fail to grow alone in a laboratory dish. It might need a partner's products, a particular surface or very scarce food. A rich laboratory meal isn't automatically hospitality.
 
-Failure to culture an organism therefore does not mean it cannot grow. It means the offered conditions did not work. A rich growth medium can be as unsuitable for a specialist as a banquet is for a person who needs oxygen first.
+## 🔎 How do we study things we can't grow?
 
-Researchers can instead collect **DNA**, deoxyribonucleic acid, the molecule carrying inherited information, directly from an environment and read its sequence. Particular **genes**, sections of DNA, help identify relatives. **Metagenomics** examines genetic material from a whole community, recovering pieces of many organisms' complete sets of information, or **genomes**. Researchers can sometimes assemble draft genomes for organisms never isolated in culture.
+Scientists can collect **DNA**, or **deoxyribonucleic acid**, the molecule carrying inherited information, directly from an environment. Reading it gives clues about which organisms are present and what their machinery might do.
 
-A gene indicates a possible capability, not proof that the organism is using it at a particular place and time. Measurements of RNA, proteins, rates of chemical change and growth are needed to connect genomic potential with actual ecology.
+But finding instructions for a job doesn't prove that job is happening. A recipe in your kitchen doesn't prove you've baked the cake. Researchers also measure activity and chemical changes.
 
-## 🪨 Communities create their own environments
+Viruses add another layer. Some infect bacteria, sometimes killing them and releasing their contents, and sometimes moving genetic information between cells. Microbial history includes exchanges as well as family branches.
 
-Microbes often live in **biofilms**: surface-associated communities embedded in material the organisms produce. A biofilm can contain large differences in chemical conditions over tiny distances. Oxygen may be abundant at the surface and scarce deeper inside; one organism's waste becomes another's resource.
-
-These interactions occur in dental plaque, streambeds, sediments and soil aggregates. They can provide protection, concentrate resources and create opportunities for ways of life that isolated cells could not sustain.
-
-In the deep subsurface, some communities persist on extremely small energy supplies. Their activity and turnover can be very slow. “Extreme” describes the mismatch with our preferred conditions; it does not imply that each organism tolerates every possible stress. A heat specialist can still be exquisitely vulnerable to a change in chemistry.
-
-## 🧬 Viruses and moving genes
-
-Viruses infect all major cellular groups. Those infecting bacteria are called bacteriophages, or phages. Infection can kill cells and release their contents, redirecting material through food webs. Some viral genomes instead remain within hosts for extended periods.
-
-Viruses can also move genes between cells. Other routes include direct DNA transfer and uptake of environmental DNA. Consequently, two bacteria classified as the same species can share a core genome while differing substantially in additional genes and capabilities.
-
-The **pangenome** describes the combined gene repertoire found across a group of related organisms. It helps explain why a species name alone cannot tell us everything about its chemistry or its ability to cause disease.
-
-## 🧍 Humans are one habitat among many
-
-Our gut, skin and mouth support distinct microbial communities. Some microbes help process food; their products interact with tissues and the [immune system](bodies-and-energy/immunity.md). Those relationships are real, but a correlation between a microbe and a health outcome is not automatically a causal mechanism.
-
-The broader lesson is ecological. A host provides resources and conditions, microbes alter those conditions, and both change over time. The [body as an ecosystem](bodies-and-energy/the-body-as-an-ecosystem.md) is a useful application of that idea, provided it does not become an excuse to attribute everything about a person to their lunch companions.
+Your own [body](bodies-and-energy/the-body-as-an-ecosystem.md) is one of their habitats. To microbes, a mouth, a muddy creek and a tree root offer different conditions to negotiate. Humans occupy a small corner of a much larger invisible world.
 
 ## 📚 Sources and further reading
 

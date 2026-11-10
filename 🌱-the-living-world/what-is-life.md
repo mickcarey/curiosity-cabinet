@@ -1,64 +1,58 @@
-# What Is Life? 🫧
+# Is It Alive? The Surprisingly Tricky Question 🫧
 
-A bacterium—a microscopic, single-celled organism—is alive. A flame is not. Both consume fuel, grow and respond to their surroundings, so the difference takes a little explaining. Movement is no help either: a sunflower is alive, and your washing machine has yet to qualify.
+A sunflower is alive. A flame isn't. Yet both grow, use fuel and respond to their surroundings. A washing machine moves about quite enthusiastically during a bad spin cycle, but that doesn't make it an animal.
 
-Biology has no universally accepted definition of life. That is not because biologists cannot recognise a squirrel. Definitions become difficult at the edges: dormant spores, viruses, sterile organisms and the first chemical systems that could evolve. Those edges reveal what ordinary life is actually doing.
+So what makes something alive?
 
-## 🔋 Staying organised takes energy
+Biologists—the scientists who study life—can usually recognise a living thing. Making a definition that handles every awkward case is harder. The awkward cases are where the fun starts.
 
-A **cell** is a tiny living unit enclosed by a membrane, a selective boundary that lets some things pass while keeping others in or out. Cells continually replace damaged **molecules**, structures made from connected atoms, and regulate their internal chemistry. Their apparent stability comes from activity. Stop that activity for long enough and the organisation falls apart, even though the atoms remain.
+## 🔬 Life keeps itself going
 
-Keeping this organisation takes energy. A cell takes in energy and materials and releases heat and waste. It can maintain order inside while increasing **entropy**, a measure related to how energy and matter can be spread among possible arrangements, overall. That fits the **second law of thermodynamics**, the rule that total entropy does not decrease in an isolated system. The cell is not isolated: it has an energy bill and surroundings that pay part of it.
+A **cell** is a tiny living unit surrounded by a thin boundary called a **membrane**. Some living things consist of one cell. You are made of a vast collection of them.
 
-Erwin Schrödinger made this relationship central to his 1944 book *What Is Life?* His language of “negative entropy” was influential, but **usable free energy** is the clearer biological idea. Sunlight or chemical reactions can drive processes that would not proceed on their own. The details appear in [cellular energy](bodies-and-energy/digestion-and-cellular-energy.md).
+Inside a cell, chemical reactions build useful parts, repair damage and deal with waste. Together, these reactions are called **metabolism**.
 
-Energy use alone is insufficient. Hurricanes also persist by dissipating energy. They do not pass an inherited system of biochemical instructions to hurricane offspring.
+The membrane helps keep the right materials together while allowing supplies in and waste out. A cell is constantly maintaining the conditions that allow it to keep being a cell.
 
-## 🧬 Maintenance, heredity and evolution
+This takes energy. Some organisms capture sunlight. Others get usable energy from food or other chemical reactions. Living things exchange energy and material with their surroundings; they don't keep running in a completely sealed, supply-free box.
 
-Three features work together in familiar cellular life:
+## 🧬 Life also has a history
 
-- **Metabolism:** linked chemical reactions obtain materials and energy, build components and remove waste.
-- **Compartmentalisation:** a membrane helps maintain conditions different from the surroundings.
-- **Heredity:** information is copied, with variation that can affect survival and reproduction.
+Cells carry inherited information in **DNA**, short for **deoxyribonucleic acid**. This molecule helps them make the working parts they need. When cells reproduce, they copy that information.
 
-These features support one another. Membranes keep useful molecules together; **enzymes**, molecules that speed up chemical reactions, help build and maintain membranes; inherited information helps specify the enzymes. None operates as an independent starter kit.
+Copies can differ. If inherited differences affect which organisms leave descendants, populations can change over generations. That process is part of **evolution**.
 
-**Autopoiesis**, developed by Humberto Maturana and Francisco Varela, emphasises the self-maintaining network. A living cell helps produce the components and boundary that make its continued existence possible. This is a useful distinction between a cell and a machine assembled and maintained entirely from outside. It does not, by itself, settle how evolution belongs in a definition.
+The combination matters: maintaining a living system, keeping useful material together and passing on information that can change. Fire consumes fuel, but it doesn't hand down a comparable set of instructions that gradually builds new biological abilities.
 
-A widely used astrobiology working definition describes life as a chemical system able to sustain itself and undergo **Darwinian evolution**: inherited differences can affect which organisms leave descendants, changing a population over generations. “Self-sustaining” does not mean independent of an environment: every organism needs resources, and many depend on other organisms. “Capable of evolution” concerns populations across generations. An individual mule does not have to reproduce to qualify as alive. Biology can spare the mule an identity crisis.
+An individual doesn't have to reproduce to count as alive. A mule is alive even though most mules cannot have offspring. Definitions must consider how the organism belongs to a wider living history.
 
-The definition is a research tool, not a universally binding verdict. Different definitions foreground different parts of the same system.
+## 🌰 What about a seed that does nothing?
 
-## 🦠 Why the awkward cases matter
+A dormant seed may seem as inactive as a pebble. Yet it can retain living cells and organised machinery capable of resuming growth when conditions suit it.
 
-| Case | What makes it life-like? | What is missing or disputed? |
-| --- | --- | --- |
-| Fire | Growth, fuel consumption, persistence through energy flow | An inherited information system supporting cumulative evolution |
-| Crystal | Ordered growth; some defects can propagate | Integrated metabolism, self-maintenance and open-ended biological evolution |
-| Dormant seed or spore | Retains an organised cellular system that can resume activity | Detectable metabolism may be extremely low during dormancy |
-| Virus | Inherited information (a genome), copying inside host cells and evolution | Independent cellular machinery and metabolism |
-| Prion | A protein shape that can cause other copies to adopt it | A cell, a genome and a self-maintaining metabolism |
+“Very little happening now” and “dead” are different possibilities. We need to look at what remains and whether activity can resume.
 
-Viruses are especially informative because their dependence is so complete. A viral particle cannot make its own **proteins**, chains of smaller units called amino acids that perform many cellular jobs. Nor can it make its own **ATP**, adenosine triphosphate, a molecule cells use to power work. Inside a suitable host, its genome redirects cellular machinery into producing more virus. Whether the word *alive* applies depends partly on whether we classify the particle, its entire reproductive cycle or the infected system.
+Crystals grow too, but they don't maintain themselves through the linked chemistry of cells. Growth alone doesn't settle the question.
 
-Prions demonstrate something subtler: biological information can spread without a change to **DNA**, deoxyribonucleic acid, the molecule carrying inherited information in cells. A protein's shape can influence the shape of other copies. That does not make a prion a miniature organism; it makes [protein folding](cells-and-chemistry/proteins-and-folding.md) much more consequential than “getting the right shape” sounds.
+## 🦠 Viruses make the boundary wobble
 
-## 🌳 Common ancestry is not the origin of life
+A virus contains inherited information and can evolve. But it cannot make more viruses on its own. It has to enter a suitable living cell and use that cell's machinery.
 
-All known cellular life shares deep biochemical similarities, including **ribosomes**, the machinery that builds proteins, and a nearly universal **genetic code**, the rules for translating inherited information into amino-acid sequences. These support common ancestry. **LUCA**, the last universal common ancestor, names the ancestral lineage or population from which surviving cellular lineages descend.
+Is it alive? Scientists use the word in different ways here. Some emphasise the virus particle's lack of independent cellular activity; others consider its whole copying cycle inside a host.
 
-LUCA was not necessarily the first organism, the only organism alive at the time or one uniquely identifiable cell. Earlier lineages could have existed and disappeared without leaving descendants we can recognise.
+There isn't one universally accepted answer. The disagreement doesn't stop researchers studying exactly how viruses work.
 
-A [2024 reconstruction by Moody and colleagues](https://www.nature.com/articles/s41559-024-02461-1) inferred a surprisingly complex LUCA around 4.2 billion years ago. That estimate depends on estimates of how quickly genetic sequences change, dates anchored by fossils and assumptions about the histories of **genes**, sections of inherited information. It is a model-based reconstruction, not a dated fossil of the ancestor. The stronger general lesson is that common ancestry and life's first emergence are different questions.
+Another odd case is a **prion**, a protein shape that encourages other copies to take the same shape. Proteins are working molecules in cells. A spreading shape can carry a kind of information, but a prion isn't a complete living cell. [Protein folding](cells-and-chemistry/proteins-and-folding.md) explains why shapes matter so much.
 
-## 🔭 What the uncertainty lets us ask
+## 🌳 The first ancestor isn't necessarily the first life
 
-If we search only for DNA, we are searching for life with familiar machinery. If we search only for chemical complexity, we risk mistaking nonliving chemistry for biology. A useful search therefore combines evidence: energy use, organised chemistry, environmental context and signs of reproduction or chemical imbalances that keep being replenished rather than settling away.
+Known cellular life shares deep similarities, including the machinery for making proteins. These point to common ancestry.
 
-We do not yet know which features of Earth life are universal necessities and which are historical choices. That is the connection between the everyday question “what is alive?” and [astrobiology](astrobiology/astrobiology.md). The uncertainty is productive when it helps us design better observations.
+Scientists use **LUCA**, the **last universal common ancestor**, for the ancestral population from which today's cellular life descends. Earlier life could have existed and disappeared without leaving surviving descendants.
 
-For the related mechanisms, explore [cells and their compartments](cells-and-chemistry/cells-and-organelles.md), [evolution](genetics-and-evolution/evolution.md) and [open questions about life's origins](open-questions-in-biology.md).
+Your oldest surviving family photograph doesn't show the first human. Likewise, reconstructing a shared ancestor doesn't automatically reveal how life began.
+
+That distinction leads to [biology's unsolved puzzles](open-questions-in-biology.md). It also matters when we [look for life elsewhere](astrobiology/astrobiology.md): we need to recognise evidence of living activity without assuming every alien cell would look exactly like ours.
 
 ## 📚 Sources and further reading
 

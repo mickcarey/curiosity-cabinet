@@ -1,92 +1,66 @@
-# Coastal Animals: What Their Lives Reveal 🐚
+# Who's Eating What at the Beach? 🐚
 
-A barnacle spends its adult life stuck to one place, reaching into the water for food. A shorebird walks over mud probing for animals you cannot see. Both have chosen useful addresses—or, more precisely, survived where the conditions suit them.
+A barnacle stays stuck to a rock and reaches out for lunch. A limpet scrapes the surface beneath it. A shorebird pushes its bill into mud and pulls out something you never saw.
 
-An animal's **habitat** is the place that provides its food, shelter and other living conditions. Watching how an animal feeds, moves and hides helps explain why it lives here rather than on the next stretch of coast.
+The animals are showing you how the beach works.
 
-Watching those activities can be more informative than collecting names alone. Identification still matters: related-looking animals can have very different diets and tolerances. A snail-shaped shell is not a reliable menu label.
+A **habitat** is a place that provides living conditions and resources. Watching an animal feed, move or hide can help explain why this particular patch is a useful home.
 
-The goal is to connect the animal with its habitat, while remembering that one sighting is a sample rather than a complete ecological verdict.
+## 🥣 Dinner delivered by water
 
-## 🌊 Suspension feeders depend on delivery
+Barnacles, mussels, oysters and many other attached animals catch particles carried in the water. Many filter those particles out, earning the name **filter feeders**.
 
-Barnacles, mussels, oysters, many worms, sponges and sea squirts capture food particles carried by water. This is **suspension feeding**; many of these animals draw water through a filter, giving us the name **filter feeder**. Their feeding structures differ, but all depend on appropriate food reaching them.
+Barnacles use feathery modified limbs. Mussels draw water through feeding structures and attach themselves with tough threads they make.
 
-Flow can increase delivery. Too much force can damage the organism or its attachment, while heavy sediment loads can interfere with feeding. **Intertidal** species, living between the high- and low-tide levels, also lose feeding time while exposed.
+Flow can deliver more food, but excessive force can tear animals loose. Too much sediment can interfere with feeding. When the tide exposes them to air, many have to shut up and wait.
 
-Mussels attach using **byssal threads**, tough fibres they produce themselves. Barnacles cement themselves to surfaces and extend feathery modified limbs to feed. Sea squirts draw water through a filtering system; despite their sedentary adult appearance, they belong to the **chordates**, the large animal group that also includes us. Their young, called **larvae**, possess a supporting rod related to a feature present early in our own development. Biology occasionally files something that looks like a rubber lump surprisingly close to us.
+A dense mussel patch shows that mussels have established and survived there. It doesn't prove the water is free from pollution or the shellfish are safe to eat.
 
-Dense filter-feeding communities can indicate successful settlement and survival under local conditions. They do not establish that the water is pollutant-free, or that food is produced immediately beside them. Currents may have transported it from elsewhere.
+## 🐌 The rock is being grazed
 
-## 🐌 Grazers make patterns on rock
+Many limpets and small snails use a toothed feeding ribbon called a **radula** to scrape thin films from surfaces.
 
-Many limpets and small snails use a **radula**, a toothed feeding structure, to scrape rock surfaces. They eat thin films of **microbes**, microscopic organisms, and **algae**, including seaweeds and smaller organisms that capture sunlight. Grazing can prevent larger algae from establishing, leaving surfaces that appear much emptier than they are.
+These films contain microbes—microscopic organisms—and small algae that use sunlight to make food. Grazing can stop larger seaweeds from getting established. Bare-looking rock may be a thoroughly visited dining table.
 
-Some limpets repeatedly return to a home position where the shell fits the rock closely, helping reduce water loss during exposure. Their movements connect feeding opportunities with the need to remain attached and hydrated.
+Some limpets return to a particular home spot where their shell fits the rock closely, helping reduce water loss.
 
-Urchins also graze. Under some conditions, their consumption helps maintain areas with little cover of large seaweeds. To interpret an apparent barren, examine their numbers, the material forming the bottom, surrounding vegetation and change over time. [Kelp habitats](kelp-seagrass-mangroves-and-estuaries.md) explains the feedbacks involved.
+But a snail shell isn't a vegetarian badge. Some snails hunt other animals, even drilling through shells. A neat round hole in an empty shell can be evidence of somebody's successful meal.
 
-Not all marine snails are grazers. Some hunt other animals without backbones, including by drilling shells or accessing soft tissue through openings. A round hole in a shell is a useful clue to a feeding interaction, although identifying the attacker may require more evidence.
+## ⭐ Predators use the gaps
 
-## ⭐ Predators use different access routes
+Some sea stars feed on shellfish. Anemones catch prey with stinging tentacles. Crabs may hunt, scavenge, graze or combine several methods.
 
-Sea stars can feed on **molluscs**, soft-bodied animals such as snails and mussels, and other organisms, but diets vary by species. Crabs may prey, scavenge, graze or combine those activities. Anemones capture prey using tentacles equipped with stinging cells.
+Cracks, seaweed cover and shell beds give prey places to hide. They also shape where hunters can reach them.
 
-Fish enter parts of the intertidal as the water rises. Birds gain access as it falls. The same patch can therefore experience different predators at different stages of the tide.
+Fish may enter a patch when the tide rises. Birds use it when the water retreats. The same square metre can change its visitors repeatedly in a day.
 
-Predation interacts with habitat structure. Crevices, algal cover and shell beds provide refuges for some prey while creating hunting opportunities for others. Removing the structure can change those interactions even if the water chemistry stays the same.
+[Rockpool ecology](rockpool-ecology.md) shows these shifting relationships on a small scale.
 
-For the broader relationship between anatomy and feeding, see [animal body plans](../bodies-and-energy/animal-body-plans.md).
+## 🏠 Some animals build homes for others
 
-## 🏠 Animals can build habitat
+Mussel and oyster clusters create hard surfaces and gaps. Tube-building worms add structure. Burrowing creatures move sediment and bring oxygen-rich water into places it might not otherwise reach.
 
-A dense shellfish bed adds hard surfaces, crevices and vertical structure to a seabed. Tube-building worms can create complex surfaces. Burrowing animals mix sediment and alter the movement of oxygen and dissolved substances.
+This is **ecosystem engineering**: living things changing the physical conditions around them.
 
-These are forms of **ecosystem engineering**: organisms change the physical conditions experienced by other organisms.
+The changes help some neighbours and hinder others. An animal doesn't need to be helpful to everyone to have a large effect.
 
-The effect is not automatically beneficial to every species. A structure may favour some settlers and exclude others. Ecological importance comes from the change it causes, not from awarding the animal an environmental merit badge.
+An octopus can use a rocky cavity as shelter and forage nearby. Finding one is exciting, but moving it into a bucket won't help you understand its normal behaviour. The [octopus note](../../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md) explores its remarkable sensing and movement.
 
-## 🐙 An octopus is using a habitat
+## 🐦 A mudflat is a hidden pantry
 
-Octopuses combine flexible bodies, sensitive arms, vision and rapid changes in skin appearance. A cavity can provide shelter, while nearby rock and sediment supply prey.
+Worms, small crustaceans and shellfish may live beneath a muddy surface. Burrows, feeding traces and little piles of processed sediment reveal some of their activity.
 
-Finding one in a pool or under a ledge is consistent with those opportunities. It does not imply that the animal is stranded, or that the pool has some universal quality score. The species, tide and behaviour matter.
+Different shorebird bills reach different kinds of food and depths. Birds also need places to rest when high water covers their feeding grounds.
 
-Their nervous systems also distribute considerable processing into the arms, though “nine brains” is a shorthand rather than a literal count of nine equivalent brains. The cabinet's [octopus intelligence note](../../✈️-airplane-reading/the-mystery-of-octopus-intelligence.md) explores that unusual organisation.
+A quiet flat on one visit may be busy at another tide or season. The animals can be hidden, away or inactive. “I didn't see any” and “there aren't any” are different statements.
 
-Observation is most useful when the animal can continue its normal behaviour. Moving it into a container changes the situation you were trying to understand.
+## 🍂 Washed-up seaweed feeds the shore
 
-## 🐦 Shorebirds connect feeding flats and resting sites
+Seaweed stranded on a beach is called **wrack**. Small animals feed on it and the microbes breaking it down. Birds and other predators can then feed on those animals.
 
-Birds feeding on mudflats reveal resources that may otherwise remain buried: worms, **crustaceans** such as small crabs and shrimp, and molluscs. Different bill shapes and feeding behaviours give access to different prey and depths.
+Material grown underwater becomes a meal on land. [Decomposition](../death-and-decomposition.md) connects these dinners.
 
-At high tide, suitable **roosting sites**, where birds can rest, become part of the same habitat requirement. A productive flat can be less useful if repeated disturbance prevents birds from feeding or resting adequately.
-
-Season, migration and tidal stage affect which birds are present. One quiet visit does not establish that a flat lacks food. Repeated counts made under comparable conditions provide much stronger evidence.
-
-Penguins and seals likewise use areas larger than the place where people see them. A conspicuous animal at one point confirms its presence there, not the condition of every habitat across the bay.
-
-## 🪱 Sand and mud hide much of the community
-
-Burrows, feeding traces, worm casts—deposited material that has passed through the gut—and the openings of water-drawing tubes called **siphons** can reveal animals beneath the surface. Their abundance is hard to estimate from appearance alone, and apparently bare sediment can contain a diverse community.
-
-**Beach wrack**, seaweed and other material washed ashore, feeds small crustaceans and other consumers of **detritus**, dead biological material. Those organisms connect stranded marine production with birds and other coastal predators. [Death and decomposition](../death-and-decomposition.md) follows the same resource pathway across land and sea.
-
-This hidden life is one reason photographic attractiveness is a poor measure of ecological value. A brown mudflat has never been helped much by its publicity photographs.
-
-## 🔎 Presence, absence and ecological condition
-
-A useful interpretation combines observations rather than relying on a mascot:
-
-| Observation | Worth investigating | Not established by the sighting alone |
-| --- | --- | --- |
-| Many attached filter feeders | Food delivery, immersion, settlement and survival | Clean water or safe shellfish |
-| Dense grazers with little canopy | Grazing pressure and algal recovery | The original cause of canopy loss |
-| Birds repeatedly feeding on a flat | Accessible prey and tidal use | Condition of the entire estuary |
-| Few visible animals | Concealment, season, recent disturbance and sampling effort | An empty ecosystem |
-| An unfamiliar species | Identification, distribution and introduction history | Whether it is invasive |
-
-[Predicting marine habitats](predicting-marine-habitats.md) develops this approach, and [coastal case studies](coastal-case-studies.md) applies it to named places.
+The most colourful creature isn't always the best guide to a coast's richness. A brown flat or scruffy seaweed pile may be doing a great deal of ecological work without posing nicely for a photograph.
 
 ## 📚 Sources and further reading
 

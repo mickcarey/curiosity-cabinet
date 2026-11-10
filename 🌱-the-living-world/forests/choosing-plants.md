@@ -1,93 +1,66 @@
-# Choosing Plants by Understanding the Site 🪴
+# Why Did the Happy Nursery Plant Hate the Garden? 🪴
 
-The plant looked happy at the nursery. Six months later, it is expressing a strongly negative opinion of your garden. What changed?
+At the nursery, the plant looked splendid. In the garden, it went yellow and stopped growing. You gave it a home. It appears to have filed a complaint.
 
-A plant's **habitat** is the place and conditions in which it lives. Knowing its natural habitat helps explain what it can tolerate: summer dryness, winter wetness, shade, wind or particular soils. Choosing well means comparing those needs with the actual planting spot.
+A nursery and a garden can offer very different water, light, shelter and soil. Choosing a plant starts with working out what its new home is actually like.
 
-That comparison needs more than a label saying “Australian native.” A rainforest tree, a dune shrub and a desert grass all qualify. The continent is rather large for one set of watering instructions.
+## 🏡 Describe the address before choosing the resident
 
-The same reasoning supports two distinct activities: making a garden and restoring a community of plants, animals and other organisms that belong together in a place. A garden can deliberately create new conditions. Restoration needs evidence about the community and processes being restored.
+Is the spot sunny all day or shaded by lunchtime? Does wind dry it out? Does rain soak in or gather in a puddle?
 
-## 🏡 Describe the actual planting place
+Look below the surface too. Roots need space, water and oxygen. Soft topsoil over compacted ground can behave differently from deep, open soil.
 
-Start with sun, wind, seasonal temperatures and the root zone. How deep is the soil, and how well does it drain? Its **texture**, the proportions of sand, silt and clay, influences water movement. Its **pH**, a measure of acidity or alkalinity, affects nutrient availability. These matter more than how pleasant the garden looks after a shower.
+A garden may contain imported fill or altered drainage. Around Keilor Downs, the wider volcanic-plain setting is useful background, but builders and previous gardeners have added their own chapters.
 
-A suburban site may contain imported fill, compacted subsoil or drainage changes. A raised bed and the ground beneath it can behave differently. Nearby **remnant vegetation**, surviving patches of the original plant community, provides regional context, but does not prove that the garden has the same sequence of soil layers.
+[Reading soil](reading-soil.md) explains how to investigate the actual rooting conditions.
 
-Around Keilor Downs, the western volcanic-plain setting is informative. It does not make every garden a patch of intact basalt-derived grassland soil. The builder, previous owners and the stormwater system have also contributed.
+## 🌦️ Plan for the difficult season
 
-[Reading soil](reading-soil.md) explains what can be observed directly and what needs measurement.
+A plant may love mild spring weather and struggle in hot summer wind. Another may survive dry summers but suffer in waterlogged winter ground.
 
-## 🌦️ Match the difficult season
+Think about the toughest conditions it will meet, not only the pleasant afternoon when you buy it.
 
-A plant must tolerate the site's limiting conditions, not just its comfortable months.
+The label “Australian native” covers rainforest trees, dune shrubs and desert grasses. That is a very large continent to squeeze onto one set of watering instructions.
 
-A moist-forest species may grow vigorously through a mild spring yet struggle during hot, dry wind. A dry-site species may tolerate summer well but suffer in saturated winter soil. A sheltered courtyard can have a very different frost, heat and airflow pattern from an open reserve nearby.
+Natural habitat—the place and conditions where a species lives—provides clues to its needs. But check the actual species. Close relatives can need different conditions.
 
-Rainfall seasonality matters too. Moving a plant between southern Victoria and the Sunshine Coast changes the relationship between warmth, humidity and water supply. [Climate and geology](climate-and-geology.md) explains why annual rainfall totals alone are insufficient.
+## 🌿 What are you trying to grow?
 
-Irrigation and shade can expand the choices, but those additions become continuing requirements. A useful question is what happens when the gardener goes away for two weeks.
+A shade tree, a pot of flowers and a restored patch of local vegetation are different projects.
 
-## 🌿 Use habitat to build a shortlist
+For a garden, mature size matters. A seedling may fit comfortably today and become a large tree with a wide crown and substantial roots.
 
-These are comparisons to investigate, not species prescriptions:
+For restoration, the aim is to help a local community of living things and its processes. A grassy woodland may need grasses and small herbs, rather than extra trees everywhere. Existing soil can hold seeds and tiny organisms that digging would disturb.
 
-| Observed setting | Traits worth seeking | Assumption to check |
-| --- | --- | --- |
-| Dry, exposed woodland on shallow soil | Drought tolerance, suitable mature size, tolerance of exposure | A creek-side species nearby may depend on extra water |
-| Sheltered, reliably moist garden | Shade tolerance and compatibility with actual drainage | Moist does not necessarily mean waterlogged |
-| Calcareous coastal sand—containing shell or limestone material | Tolerance of the often alkaline conditions created by that material, wind and limited water storage | A plant from acidic coastal sand may need different conditions |
-| Seasonally wet sandy ground | Tolerance of both saturation and drying, appropriate rooting behaviour | Free-draining surface sand may conceal shallow groundwater |
-| Grassy woodland restoration site | Local grasses, herbs and other appropriate community members | More shrubs and trees do not automatically mean better habitat |
+Nearby surviving vegetation is useful evidence. Bring home photographs and observations, rather than collecting plants from it.
 
-Confirm species and mature dimensions using a regional **flora**, a reference describing local plants, and suitable nursery information. For restoration, vegetation benchmarks and local project expertise add evidence beyond a nursery tag.
+## 🧪 Yellow leaves don't automatically ask for fertiliser
 
-## 🧪 Fertiliser is a specific intervention
+Pale leaves can have several causes: unsuitable watering, damaged roots, poor drainage, nutrient shortage or soil chemistry that makes nutrients hard to obtain.
 
-Nutrient deficiency, waterlogging, root damage and unsuitable pH can produce overlapping symptoms. Yellow foliage does not diagnose a shortage of fertiliser.
+Adding more nutrients only addresses some of those problems.
 
-Many members of the **Proteaceae** plant family, including banksias and some grevilleas and hakeas, are adapted to obtaining phosphorus efficiently from low-phosphorus soils. Excess supply can harm sensitive species. Sensitivity varies, so neither “feed every native” nor “never feed a native” is a sound general rule.
+Many banksias and related plants are adapted to obtaining phosphorus efficiently from soils where it is scarce. Too much can harm sensitive species. The right approach depends on the plant and conditions.
 
-Organic products also contain nutrients. Manure is not exempt from chemistry because it arrived via an animal.
+“Organic” additions contain nutrients too. Manure doesn't escape chemistry by taking a scenic route through an animal.
 
-A useful approach is to identify the plant's requirements and investigate the suspected limitation before adding material. [Plant biology](../plant-biology.md) and [soil ecology](../soil-ecology.md) explain nutrient acquisition and microbial transformations.
+## 🍄 What about helpful fungi?
 
-## 🍄 Roots have relationships, but fungi are not a universal diagnosis
+Many plants form partnerships with fungi around their roots. Fungal threads can help them reach nutrients, while the plant supplies food.
 
-Many plants form close partnerships between their roots and **mycorrhizal fungi**. The fungi can help obtain resources under suitable conditions. Other plants use different strategies, including **cluster roots**, dense bunches that release chemicals to help obtain nutrients.
+That doesn't make missing fungi the explanation for every unhappy plant. Compaction, poor drainage or unsuitable exposure may be the main issue. A microbial product can't reliably fix roots sitting without enough oxygen.
 
-These relationships matter in restoration, but a struggling garden plant does not by itself prove that a fungal partner is missing. Nor does it establish that a commercial product supplying microbes, called an **inoculant**, will help. Product identity, compatibility, existing soil communities and the underlying growing conditions all affect the outcome.
+[Plant biology](../plant-biology.md) explains these relationships; [soil ecology](../soil-ecology.md) shows how many processes happen underground.
 
-Check ordinary physical causes first: restricted roots, compaction, inappropriate watering, poor drainage and unsuitable exposure. Adding microbes cannot reliably compensate for a root zone without enough oxygen.
+## 📍 “Local” has more than one meaning
 
-## 🌳 Think beyond establishment
+A plant's **provenance** is where it or its seed originally came from. Local sources can help preserve regional genetic diversity and suit local conditions.
 
-A tree that survives its first summer may still be unsuitable for the space at maturity. Consider the eventual height and width of the leafy crown, or **canopy**, as well as roots, shade and nearby buildings or pipes.
+Restoration choices also need to consider small or isolated source populations and changing conditions. There is no magic distance within which every seed is automatically best.
 
-Ecological persistence is a separate question. Some species can live for years in a garden without reproducing there. A planting can therefore remain attractive without representing a self-maintaining community.
+Regional plant references, suitable nursery information and local restoration expertise help turn an attractive idea into a sensible shortlist.
 
-Plants associated with fire do not necessarily require backyard burning to stay alive. Fire may mainly affect the establishment of new plants, competition or flowering, and responses differ among species. [Fire and succession](fire-water-and-succession.md) separates those mechanisms.
-
-## 📍 Local provenance is useful, with qualifications
-
-**Provenance** means where a plant or its seed originally came from. Locally sourced plants can help retain regional genetic diversity and match local conditions. For restoration, provenance is an ecological decision rather than a decorative preference.
-
-However, source populations can be small or isolated, and future conditions may differ from past conditions. Appropriate sourcing may involve balancing local adaptation, genetic diversity and climate resilience. There is no universal distance within which seed is automatically best.
-
-A garden experiment and an intervention in a remnant require different evidence. An existing patch may contain inconspicuous herbs, seeds stored in the soil and soil communities that planting, mulching or digging would disturb. “Adding natives” is not automatically restoration.
-
-## 📝 A compact decision process
-
-1. Describe the site through its wettest, driest, hottest and coldest conditions.
-2. Check soil depth, texture and drainage; measure chemistry where it affects the choice.
-3. Define the purpose: shade, habitat, food production, an ornamental garden or ecological restoration.
-4. Build a shortlist whose tolerances and mature dimensions fit that purpose.
-5. Check local occurrence, provenance and weed potential where relevant.
-6. Observe establishment and revise the explanation if the plant struggles.
-
-Nearby vegetation is a source of evidence, not a collection site. The useful thing to bring home is a better understanding of the conditions, plus photographs and notes.
-
-For comparisons across wet forest, dry woodland, dunes and wallum, the sandy heath and woodland landscapes of coastal Queensland, see [landscape case studies](landscape-case-studies.md).
+A useful small project is to observe one planting spot after rain and again during a dry spell. Record light, water behaviour and available space. Once you understand the address, choosing a resident becomes a much better-informed conversation.
 
 ## 📚 Sources and further reading
 

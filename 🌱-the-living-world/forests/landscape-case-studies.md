@@ -1,90 +1,66 @@
-# Landscape Case Studies: Forest, Woodland, Dune and Wallum 🥾
+# Six Landscapes, Six Detective Stories 🥾
 
-A fern-filled Otway gully, a granite slope in the You Yangs and a sandy Queensland heath can all teach the same lesson: plants respond to what a place actually provides. The interesting part is working out what that is.
+A ferny gully, a granite hill and a sandy heath can look like unrelated scenery. Each offers the same invitation: notice what grows here, then investigate what the place supplies.
 
-**Landscape ecology** studies how living communities relate to the arrangement of land, water and habitats—the places organisms live. These examples turn that idea into things you can notice on a walk, without needing to name every leaf you pass.
+These Australian examples are comparisons to explore, not guaranteed plant sightings or walking directions. The [Melbourne walks collection](../../🏙️-melbourne/hikes.md) and the linked park pages provide separate outing and access information.
 
-These examples describe habitats to investigate, rather than guaranteed species lists or walking itineraries. The cabinet's [Melbourne hikes](../../🏙️-melbourne/hikes.md) provides outing ideas; park pages provide current access information.
+## 🌿 Otways: why are the ferns down there?
 
-Treat each explanation as a possibility to investigate. The landscape has not read our notes and is under no obligation to behave neatly.
+Compare a sheltered gully with its slope. Notice shade, damp ground, litter and changes in tree height.
 
-## 🌿 Otways: compare a moist gully with its slope
+The gully may collect water and lose it more slowly. Ferns are a useful clue, though they don't by themselves prove that the vegetation is rainforest. Tall eucalypts can grow above a lush lower layer too.
 
-Start with tree ferns, small ground ferns, shaded litter and changes in tree height or composition as you move away from water. In appropriate rainforest patches, myrtle beech and blackwood may form part of the **canopy**, the overhead layer of leaves. Nearby wet eucalypt forest can look similarly lush while having a different structure.
+In suitable Otway rainforest patches, myrtle beech and blackwood help form the overhead leaf layer, or **canopy**. The region also contains drier forest and coastal vegetation. One waterfall doesn't describe all the Otways.
 
-The gully may combine reliable moisture with shelter, while the slope may have different drainage, light and exposure. Rainfall, rocks formed from accumulated sediments, and past events such as fires or clearing contribute to the broader setting.
+A useful check: does the vegetation change follow the creek, the slope's direction or a change in soil depth? [VicFlora's regional account](https://vicflora.rbg.vic.gov.au/pages/otway-range) provides context.
 
-Notice whether the vegetation change follows the creek, the direction the slope faces, or soil depth. Distinguish the presence of ferns from a confident rainforest classification; ferns occur in other vegetation too.
+## 🌲 Dandenongs: does everything have the same age?
 
-The Otways also contain drier forests, **heath**, vegetation dominated by low shrubs, and coastal communities. One waterfall visit cannot describe the whole region. [VicFlora's Otway account](https://vicflora.rbg.vic.gov.au/pages/otway-range) helps place individual observations in context.
+A tall tree can stand above a much younger layer of shrubs and ferns. The whole forest needn't have begun at once.
 
-## 🌲 Dandenongs: tall trees above a different understorey
+Look for seedlings, old stumps and changes between sheltered gullies and exposed ground. Near settlements, distinguish planted trees from surviving original vegetation.
 
-Tall eucalypts are the obvious starting point. Some otherwise smooth trunks have rough bark around their bases. Below them, look for broad-leaved shrubs, ferns and substantial leaf litter. Compare moist gullies with more exposed positions. Separate planted trees near settlements from **remnant vegetation**, surviving parts of the original community.
+Moisture helps explain the lush growth, while past fire or clearing may help explain its arrangement. Height alone can't tell you every part of the forest's age. The [park page](https://www.parks.vic.gov.au/places-to-see/parks/dandenong-ranges-national-park) supplies local context.
 
-Moist conditions can support tall wet forest, while local terrain and past disturbance influence the present arrangement. A mature canopy and a young **understorey**, the layer of plants beneath the main trees, can represent different establishment histories.
+## 🪨 You Yangs: where does rain go after hitting rock?
 
-Tree identity, the distribution of seedlings and signs of previous clearing or fire can help untangle that history. Tall trees alone cannot establish the age or continuity of every component of the forest.
+Granite outcrops shed water. Cracks, hollows and deeper pockets of soil can collect it.
 
-The [Dandenong Ranges National Park page](https://www.parks.vic.gov.au/places-to-see/parks/dandenong-ranges-national-park) provides park context and current notices. [Eucalypt identification](eucalypts.md) helps distinguish the trees without deriving too much from bark alone.
+Compare plant size on exposed rock with growth in those collecting places. The regional climate is relatively dry, but small differences in rooting space and water can create noticeably different patches.
 
-## 🪨 You Yangs: exposed granite and sheltered pockets
+Granite formed as molten material cooled underground and was later exposed by erosion. These hills aren't old volcanoes. Tracks, grazing and other past uses can also help explain bare ground.
 
-Here, start with the rock. **Granite** formed from molten material cooling underground; its exposed outcrops weather into coarse particles. Look for shallow soil on exposed slopes and deeper accumulations in hollows. Compare tree size and ground cover between those positions.
+## 🌊 Nepean Peninsula: pale sand, hidden chemistry
 
-The drier regional setting combines with strong local differences in water retention and rooting space. Rain running off rock can concentrate in cracks and depressions, creating small patches more favourable than the surrounding surface.
+Look for coastal scrub, wind-shaped plants and differences between dune crests and sheltered hollows. Coastal tea-tree and moonah occur in suitable patches.
 
-Does taller vegetation follow those collecting areas? Grazing, tracks and past land use are also worth examining as explanations for open ground.
+Some sands contain carbonate from shells or limestone. That can make the soil more alkaline, affecting which nutrients plants can obtain.
 
-This is a useful comparison with the Otways because the question becomes specific: which differences follow climate, and which follow soil depth or position? “One place has fewer ferns” is the observation, not yet the explanation.
+Compare this with Queensland's sandy wallum landscapes below. Both can have pale sand, yet their chemistry and water behaviour may differ greatly. Sand describes particle size, not one guaranteed lifestyle. [Point Nepean](https://www.parks.vic.gov.au/places-to-see/parks/point-nepean-national-park) provides a coastal setting for this story.
 
-## 🌊 Nepean Peninsula: coastal sand with carbonate
+## ☀️ Box–ironbark country: what appears in another season?
 
-Pale sand, low wind-shaped vegetation, coastal tea-tree and moonah in suitable patches are useful clues here. Compare exposed dune crests with sheltered hollows. Plant identification matters because several coastal shrubs look similar at a distance.
+Central Victorian woodlands can have open tree cover, hard-furrowed trunks and an easily overlooked ground layer.
 
-**Carbonate**, often derived from shells and limestone, influences soil chemistry, while wind, salt exposure and drainage constrain growth. Dense scrub can itself change light and litter conditions beneath it.
+Some plants are conspicuous mainly when flowering. Return in another season and herbs or orchids may change your impression without adding a single tree.
 
-The key checks are whether the sand is **calcareous**, meaning it contains carbonate, and whether the vegetation is remnant or planted. Weeds and disturbance can alter the scene too.
+Mining, cutting and grazing can also leave marks in tree form and the ground. Open vegetation alone doesn't prove either damage or frequent fire. Several clues are needed.
 
-The comparison with Sunshine Coast wallum is particularly useful. Both can involve pale coastal sand; their chemistry and water regimes can differ substantially. Sand has a texture, not a single ecological destiny.
+## 🌞 Sunshine Coast: why woodland beside wetland?
 
-[Parks Victoria's Point Nepean page](https://www.parks.vic.gov.au/places-to-see/parks/point-nepean-national-park) provides the local setting and access notices. The transition from dunes to the shore also connects with [coastal case studies](../coasts/coastal-case-studies.md).
+Moist hinterland forests, such as those around [Kondalilla](https://parks.qld.gov.au/parks/kondalilla), offer tall trees, vines and sheltered gullies.
 
-## ☀️ Central Victorian box–ironbark country
+On coastal sandplains, **wallum** is a patchwork of heath, woodland and wetlands. Banksias on a rise can sit near sedges or paperbarks in a hollow.
 
-Expect open forest or woodland, hard-furrowed ironbark, box-barked trees, grasses, herbs and shrubs. Compare ridges, slopes and drainage lines rather than treating the entire site as uniformly dry.
+A small change in height can mean a big change in the distance to underground water. Sandy ground can be seasonally wet. Drainage changes and clearing can alter this arrangement too.
 
-Water availability, soil depth and chemistry influence species distribution. Mining, repeated cutting, grazing and other land uses can also strongly influence current tree size, stem number and understorey condition.
+## 📓 The useful souvenir
 
-Several stems growing from old bases can suggest regrowth after cutting or damage. Mining may have reshaped the ground. Return in another season to see whether apparently sparse vegetation becomes much more varied.
+Record what you saw, what might explain it and what would help check that explanation. Photograph transitions as well as spectacular trees.
 
-Avoid reading openness as either proof of degradation or proof of frequent fire. Both claims need additional evidence. Spring herbs and orchids can make a quiet-looking patch remarkably busy without adding a single tree.
+Country and cultural histories belong to these places too. Consult local Traditional Owner sources for that knowledge.
 
-## 🌞 Sunshine Coast: rainforest edge and wallum
-
-The Sunshine Coast offers a particularly good puzzle: moist upland forests and low coastal **wallum**, a patchwork of heath, woodland and wetlands on nutrient-poor sandy ground, within the same region.
-
-**At a moist hinterland forest edge**, look for tall trees, vines, broad-leaved understorey plants and sheltered gullies. Ask whether rainforest species occur beneath eucalypts, and whether the pattern follows the shape of the land or past disturbance. [Kondalilla National Park](https://parks.qld.gov.au/parks/kondalilla) provides one regional setting in which to investigate forest contrasts.
-
-**On a wallum sandplain**, look for banksias, heath, sedges, eucalypts and paperbarks distributed across small changes in elevation. A sandy rise and a wet hollow can occur close together.
-
-A useful hypothesis is that soil chemistry and changes in the **water table**, the level below which ground is saturated, explain part of the contrast. Test it by checking the material beneath the plants, seasonal wetness and species identities. Not every sandy coastal site has the same subsurface layers, and not every patch of dense green vegetation is rainforest.
-
-Settlement and land-use history matter here too. Drainage, clearing and urban development can change both the vegetation and the way water moves through the remaining patches.
-
-## 📓 A field note that remains useful later
-
-Record the place, date and conditions, then distinguish three kinds of statement:
-
-- **Observed:** soil exposed beside the track is pale and sandy; sedges occupy the hollow; shrubs are taller on the rise.
-- **Inferred:** water-table depth may help explain the vegetation pattern.
-- **To check:** species identity, soil profile, recent rainfall and mapped vegetation type.
-
-Photographs of transitions are often more informative than another photograph of the most impressive tree. Return after rain or in another season if possible.
-
-Country, local names and cultural histories belong with these observations. Consult the relevant Traditional Owner sources for the place rather than assuming a regional ecology note captures that knowledge.
-
-For the general method, see [reading a landscape](../reading-a-landscape.md). For mechanisms behind the differences, see [climate and geology](climate-and-geology.md), [soil](reading-soil.md) and [disturbance and succession](fire-water-and-succession.md).
+[Reading a landscape](../reading-a-landscape.md) provides the general method. You don't need every answer before the walk; noticing a good question is already a worthwhile result.
 
 ## 📚 Sources and further reading
 

@@ -1,80 +1,64 @@
-# Kelp, Seagrass, Mangroves and Estuaries 🌿🌊
+# Forests, Meadows and Breathing Roots Under the Tide 🌿🌊
 
-An underwater forest, a flowering meadow beneath the waves and a tree with roots poking up through mud: coastal life has taken some wonderfully different approaches to living in salt water. These organisms also make places for other creatures to live.
+A kelp forest sways underwater. A seagrass meadow grows flowers beneath the waves. A mangrove sends roots up through mud to reach air.
 
-A **habitat** provides living conditions and resources. Kelp forms a leafy-looking overhead layer, or **canopy**; seagrasses root in sand or mud; mangroves grow where tides cover and uncover the ground, the **intertidal zone**. All change water movement and shelter smaller organisms.
+All three help make homes for other creatures, but they solve the problem of living near salt water in very different ways.
 
-An estuary is a different kind of category: a coastal system in which freshwater and seawater interact. It can contain several habitats, including seagrass, mudflats, saltmarsh and mangroves.
+## 🌳 A kelp forest has no tree trunks
 
-## 🌳 Kelp and other large brown algae
+**Kelp** are large brown algae, organisms that capture light energy but belong to a different group from land plants.
 
-Kelp are large **brown algae**, a group of organisms that capture light energy but are distinct from land plants. A **holdfast** anchors kelp to rock or another suitable surface. A stem-like **stipe** supports leaf-like **blades**, which perform much of the **photosynthesis**: using sunlight to build biological material from carbon dioxide and water. A holdfast is not a root extracting nutrients from soil.
+A gripping structure called a **holdfast** anchors kelp to a suitable surface. It resembles a root, but doesn't work like a plant root drawing nutrients from soil. Kelp absorbs supplies from the surrounding water.
 
-Golden kelp (*Ecklonia radiata*) is an important canopy-former on reefs in Australia's cooler, non-tropical waters. Other large brown algae, including crayweed, *Cystophora* and *Sargassum*, can produce structurally similar habitats while belonging to different groups. Bull kelp is another familiar common name, especially on exposed southern shores.
+Its leaf-like blades capture light for **photosynthesis**, making living material using carbon dioxide and water. Flexible parts move with waves rather than resisting every shove rigidly.
 
-A canopy needs enough light, appropriate temperature and nutrients, and attachment that survives the local water movement. Flow can replenish nutrients and gases while also applying force. Flexibility helps algae move with the water rather than resist every wave rigidly.
+The swaying cover creates shade, food and shelter. Small animals live among the holdfasts and blades. When pieces break off, they can feed creatures far from the original forest.
 
-Holdfasts and fronds provide habitat for many small animals. Detached material can feed **food webs**, the connected paths of who eats whom, beyond the reef where it grew. [Ocean ecology](../ocean-ecology.md) places this production within the wider system.
+## 🦔 When the grazers keep the forest short
 
-## 🦔 When grazing changes the habitat
+Sea urchins are normal members of many rocky-reef communities. Under some conditions, they eat large seaweeds faster than the seaweeds can recover.
 
-Urchins are normal members of many rocky-reef communities. Under some conditions, grazing removes large algae faster than they can recover, producing an **urchin barren** with little canopy.
+The result can be an **urchin barren**, an area with little large seaweed cover. It still contains life, but offers a different habitat.
 
-The cause can involve the arrival and survival of young urchins, the numbers of animals that eat them, temperature, food availability and other changes. A barren is not necessarily devoid of life, but it supports a different community from the former canopy.
+Temperature, predators, the arrival of young urchins and other changes can all matter. [Port Phillip restoration work](https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/kelp-forest-in-port-phillip-bay/) has investigated reducing grazing and helping kelp return. That provides evidence about particular places, rather than one answer for every bare reef.
 
-In Port Phillip, restoration projects have combined reductions in urchin grazing with efforts to establish kelp. [The Nature Conservancy describes its work and partners](https://www.natureaustralia.org.au/what-we-do/our-priorities/oceans/ocean-stories/kelp-forest-in-port-phillip-bay/). Results from managed patches show what interventions can achieve there; they do not establish one cause or one solution for every reef.
+## 🌱 Seagrass really does have flowers
 
-Canopy identity matters too. An introduced alga can form a conspicuous stand without restoring the original community. More seaweed is not a complete ecological assessment.
+Seagrasses descend from land plants. They have roots, leaves, flowers and underground stems that help them spread through suitable sand or mud.
 
-## 🌱 Seagrasses are flowering plants
+Their leaves need light underwater. Suspended sediment, greater depth or thick growth on the leaves can reduce the light reaching them.
 
-Seagrasses descend from plants whose ancestors lived on land. They retain roots, underground stems called **rhizomes**, leaves and flowers, with adaptations for life in seawater.
+A meadow slows flow, traps some particles and shelters small animals. Fish use the structure, grazers feed on material growing on the leaves, and dead leaves feed other communities.
 
-Roots and rhizomes help anchor them and obtain resources from sediment. Leaves photosynthesise underwater, making water clarity critical. Sediment suspended in the water, excessive growth on leaf surfaces or greater depth can reduce the light available.
+A pile of seagrass on the beach can result from normal shedding and transport. To know whether a meadow is disappearing, we need observations of the meadow over time, not just one untidy shoreline.
 
-Victorian examples include species of *Zostera*, *Amphibolis*, *Halophila* and *Posidonia*. Their distributions and tolerances differ. Some occupy intertidal flats; others remain submerged. Older references may use different generic names for some species, so match the actual plant as well as the label.
+## 🌳 Why are those roots pointing upwards?
 
-A meadow slows water locally, traps some particles and provides surfaces and shelter for other organisms. Small grazers consume material on the leaves; fish use the structure; dead leaves contribute to food webs supported by dead material.
+Mangroves are trees and shrubs adapted to ground that tides cover and uncover. Waterlogged mud offers little oxygen to buried roots.
 
-**Beach wrack**, material washed ashore, can reflect ordinary shedding and transport. Persistent meadow loss is a different observation requiring comparisons through time. One pile of leaves cannot distinguish the two.
+Grey mangroves, found in Victoria, produce upward-projecting breathing roots called **pneumatophores**. The name is lengthy; the job is wonderfully direct: reach air above the mud.
 
-## 🌳 Mangroves manage salt and oxygen
+Their leaves also have glands that release salt. Other mangrove species use different combinations of salt-management and root structures.
 
-Mangroves are woody plants adapted to intertidal conditions. They include several unrelated lineages with different ways to cope with salt, being covered by water and unstable ground.
+Mangrove roots and stems change water flow and sediment movement, creating shelter for smaller organisms. Short southern mangroves aren't failed tropical giants; their growth reflects different conditions.
 
-Victoria's mangrove is *Avicennia marina*, commonly called grey or white mangrove. Its upward-projecting **pneumatophores** are breathing roots, helping air reach tissues in waterlogged ground. The name looks formidable; the job is getting a breath above the mud. Salt glands in the leaves provide one route for managing salt.
+## 🌾 The low plants have their own habitat
 
-Establishment requires suitable flooding patterns, bottom material and shelter. Mangroves can occur in marine settings as well as estuaries; their presence does not prove that freshwater mixing is substantial at that spot.
+**Saltmarsh** contains salt-tolerant grasses, herbs, sedges and small shrubs. Small height differences can change how often it floods and how much salt builds up as water evaporates.
 
-Their roots and stems alter flow and sediment movement, while litter supports communities that break down dead material. Small organisms use the resulting structure. In cool southern settings, trees can be much smaller than tropical mangroves without being failed versions of them.
+It may occur inland of mangroves, but that arrangement isn't universal. If mangroves spread into marsh, one kind of habitat may replace another. More trees doesn't automatically mean more of the same ecological value.
 
-## 🌾 Saltmarsh is its own community
+## 💧 An estuary joins several stories
 
-Saltmarsh contains salt-tolerant herbs, grasses, sedges and low shrubs. It can occur landward of mangroves where flooding is less frequent, but that arrangement is not universal.
+An **estuary** is a coastal system where freshwater and seawater interact. It can contain mudflats, seagrass, mangroves and saltmarsh.
 
-Small changes in elevation can change how long water covers the ground and salt accumulation. Evaporation may make some upper marsh soils particularly saline despite their greater distance from the open water.
+Its **catchment** is the land draining into its waterways. Rain brings water, nutrients and sediment from that land. Tides exchange water with the sea.
 
-Mangrove expansion into marsh can alter habitat rather than simply add more of the same habitat. Both communities have ecological value. Explaining a shifting boundary requires attention to sea level, sediment supply, temperature, water movement and land use.
+Nutrients can feed growth, but excessive growth followed by decay can use up oxygen. Suspended sediment can block light. Timing and amount matter.
 
-## 💧 Estuaries change with the catchment
+Carbon stored in coastal habitats such as seagrass, mangroves and saltmarsh is often called **blue carbon**. Some is held in living bodies and some in accumulated sediment; its persistence depends on conditions.
 
-A **catchment** is the area of land draining towards a waterway. River flow brings freshwater, sediment, nutrients and organic matter. Tides and waves exchange water with the sea. The mouth's shape and depth influence how readily that exchange occurs.
-
-A river can form a fresher surface layer above saltier water. Stronger mixing reduces the difference between layers. If little fresh oxygen reaches deeper water, organisms breaking down dead material may use it up faster than it is replaced.
-
-Nutrients can support production, but excessive supply can also favour **blooms**, rapid increases in algae or other microscopic producers. When that material dies and decomposes, oxygen can run short. Sediment supplies material for habitats while simultaneously reducing underwater light when suspended. The effect depends on amount, timing and location.
-
-Port Phillip, Western Port and smaller coastal estuaries have different geometries and exchange patterns. They should not be treated as one generic “bay” habitat. [Tides and shorelines](tides-salt-and-shorelines.md) explains the physical differences.
-
-## 🔁 Connected habitats move material between them
-
-A fish may use different habitats at different life stages. Detached algae can reach a sandy beach; seagrass leaves can feed sediment communities; river material can influence coastal production well beyond the mouth.
-
-**Blue carbon** refers to carbon stored in coastal and marine ecosystems, particularly vegetated habitats such as seagrass, saltmarsh and mangroves. Carbon can accumulate in living bodies and seabed material, but storage rates and persistence depend on site conditions. Habitat damage can alter those stores as well as biodiversity.
-
-The connections make habitat boundaries ecologically useful but permeable. A seagrass meadow is a distinct habitat, not an independent aquarium with its own water supply.
-
-For animals using these structures, see [coastal animals](coastal-animals.md). For testing habitat predictions against observations, see [predicting marine habitats](predicting-marine-habitats.md).
+These habitats exchange water, animals and material. A meadow isn't a separate aquarium, and a tree beside the tide belongs to a story extending far beyond its roots.
 
 ## 📚 Sources and further reading
 

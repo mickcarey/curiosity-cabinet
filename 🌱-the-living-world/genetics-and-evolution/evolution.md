@@ -1,87 +1,62 @@
-# Evolution: How Living Populations Change 🌳
+# Why a Whale Still Has to Come Up for Air 🐋
 
-A whale has lungs and must come up for air. A fish uses gills underwater. Both live in the sea, so why did they end up with such different equipment?
+A whale lives in the sea, but it can drown. It has lungs and must surface to breathe. A fish nearby can get oxygen from the water through its gills.
 
-Their ancestors are part of the answer. **Evolution** is change in inherited characteristics across generations. It explains how descendants can become different from their ancestors while retaining parts of their history. Whales descend from land-dwelling mammals; their lungs did not appear as a fresh solution to being a fish.
+Why such different arrangements for animals sharing an ocean?
 
-A **population** is a group of organisms of the same species living in an area. A species is a kind of organism, although its boundaries can sometimes be fuzzy. Within a population, individuals differ, and some differences can pass to offspring. Evolution begins with what happens to those inherited differences over time.
+Whales descended from land-dwelling mammals. Over many generations, their descendants became wonderfully suited to life at sea, while keeping parts of their earlier equipment. Their history came swimming with them.
 
-Individuals develop, learn and acclimatise. Populations evolve. A moth does not darken its descendants by trying very hard to match a tree.
+That is one doorway into **evolution**: changes in inherited features across generations.
 
-## 🧬 Variation comes first
+## 🦋 Start with differences
 
-Inherited information is carried in **DNA**, or **deoxyribonucleic acid**, a long molecule—a structure of connected atoms—that helps **cells**, tiny living units, make and regulate working molecules. A **gene** is a region used to make a functional product; an **allele** is a version of a DNA sequence at a particular location.
+Members of a species aren't all identical. Some differences can pass from parents to offspring through **DNA**, or **deoxyribonucleic acid**, the molecule carrying inherited information.
 
-A **mutation** changes a DNA sequence. **Recombination** reshuffles existing DNA as reproductive cells form. Some microscopic organisms also receive genes from organisms other than their parents, called **horizontal gene transfer**. Different routes, but each can change the variation available.
+Changes in DNA, called **mutations**, can produce new versions. Reproduction also shuffles existing versions into new combinations.
 
-Mutations are not generally directed towards what an organism needs. Their rates and locations are affected by chemistry and repair machinery, but a useful outcome is not the purpose of the process.
+Now imagine a population of moths in which some are easier for birds to spot against tree bark. If better-hidden moths survive and leave more offspring, and their colouring is inherited, that colouring can become more common over generations.
 
-What happens to a variant then depends on several mechanisms:
+This is **natural selection**. The moths didn't choose new colours. Differences already present affected which moths left descendants.
 
-| Mechanism | What changes |
-| --- | --- |
-| Natural selection | Heritable differences affect survival or reproductive success |
-| Genetic drift | Chance changes which variants reach subsequent generations |
-| Gene flow | Migration and reproduction move variants between populations |
-| Mutation | New variants arise |
+An individual can grow or learn during its life. Evolution describes changes in populations across generations.
 
-These mechanisms can act together. Selection is central to explaining **adaptation**, inherited features that help organisms survive and reproduce in particular conditions, but evolution includes much more than selection.
+## 🎯 Useful here doesn't mean best everywhere
 
-## 🎯 Natural selection has no foresight
+A thick coat helps in cold conditions and can be a burden in heat. Bright colours might attract a mate while also attracting a predator.
 
-If individuals vary in an inherited trait, and that variation affects reproductive success, some variants tend to become more common.
+There is no single best animal design. An inherited feature's usefulness depends on the surroundings and the costs that come with it.
 
-“Fitness” here means reproductive contribution in a particular environment. It is not a universal ranking of strength, intelligence or general excellence. A small organism reproducing successfully in mud is doing extremely well by evolutionary standards.
+Nor does evolution plan ahead. Whales acquired changes to an existing mammal body; they didn't receive a blank page and order fish gills. Their flippers still contain a modified version of the limb bones found in other mammals.
 
-Consider bacteria exposed to an antibiotic. If some already have an inherited resistance variant, they may survive and reproduce while susceptible bacteria die. The antibiotic changes which variants succeed; it does not teach bacteria to resist it.
+That shared bone arrangement is evidence of ancestry. Fossils and DNA provide further clues, allowing scientists to check the story from several directions.
 
-Selection works with available variation and existing anatomy. It cannot pause reproduction while it redesigns a lineage from scratch. Trade-offs follow: a conspicuous display may attract mates and predators; rapid growth may leave fewer resources for defence.
+## 🎲 Sometimes chance chooses
 
-A trait useful today need not have originated for its present role. Feathers existed before powered bird flight. Features can be repurposed, or arise as consequences of other changes. Explaining an adaptation requires comparative, genetic, experimental or fossil evidence, not simply an attractive story about why it would be handy.
+Imagine a storm leaves only a few beetles alive on an island. Those survivors might happen to carry a rare colour version, even if colour had nothing to do with surviving the storm.
 
-## 🎲 Chance matters, especially in small populations
+Their descendants could make that version common. This is **genetic drift**: inherited versions becoming more or less common through chance.
 
-Even equally successful individuals do not contribute identical numbers of descendants. This sampling variation causes **genetic drift**. An allele can disappear by chance, including an allele that would have been beneficial.
+Chance has a stronger effect in small populations. If only a few individuals start a new population, they may carry just a fraction of the variation in the original group. Growing back to a large population doesn't instantly recover the missing versions.
 
-Drift is stronger when the effective population size is small. Effective size describes the genetic behaviour of a population, rather than simply counting its members. Unequal reproductive success, fluctuating numbers and other features can make it substantially smaller than the headcount.
+So every difference needs investigation. We shouldn't invent a survival advantage for each spot, stripe or DNA change simply because it exists.
 
-A **bottleneck** sharply reduces a population and may remove genetic diversity. A **founder effect** occurs when a small subset establishes a new population. Later numerical recovery does not automatically restore the variants lost.
+## 🌿 How do new species arise?
 
-At the molecular level, many changes have little or no effect on fitness. Neutral theory explains how such variants can accumulate through mutation and drift. Nearly neutral theory adds that a weakly harmful or beneficial variant may behave differently depending on the strength of drift. Not every difference between two **genomes**, complete sets of genetic information, is an adaptation waiting to be admired.
+Suppose one population becomes separated into two, perhaps by a barrier that prevents much interbreeding. Over generations, different changes accumulate in the two groups.
 
-## 🌿 How one lineage becomes several
+Eventually they may become distinct species. Differences in breeding time, preferred habitat or mate choice can also help separate groups.
 
-**Speciation** is the formation of separate species. It occurs as populations become independently evolving **lineages**: distinct lines of ancestors and descendants. Geographic separation can reduce gene flow, allowing mutation, drift and selection to produce divergence. Differences in habitat use, breeding time, mate choice or chromosome structure can also restrict exchange.
+The boundary can be messy. Recently separated species sometimes still interbreed. Nature doesn't always stop changing long enough for our labels to dry.
 
-The process need not be instant or complete. Recently separated species may still interbreed, producing **hybrids**. In plants, doubling the number of **chromosomes**, the packages containing DNA, can sometimes make reproduction with the original population difficult and establish a separate lineage unusually quickly.
+## 🦈 Similar shapes can have different histories
 
-No single species definition works equally well for sexually reproducing animals, fossils and bacteria. Reproductive isolation is useful in many cases; evolutionary history, ecology and genetic clustering help in others. [Open questions in biology](../open-questions-in-biology.md) explores why these boundaries can remain fuzzy without making the underlying diversity imaginary.
+A shark and a dolphin both have streamlined bodies. Similar demands from moving through water helped produce a similar outline in different branches of life. This is **convergent evolution**.
 
-## 🦇 Similarity can have different explanations
+By contrast, the bones shared by a human arm, bat wing and whale flipper were inherited from a common ancestor. Similarity can therefore be evidence of shared history, a similar challenge, or both.
 
-**Homology** is similarity inherited from a common ancestor. The bones in a human arm, whale flipper and bat wing are modified versions of an ancestral limb arrangement.
+Life's history even includes partnerships: mitochondria, the energy-processing compartments in our cells, descended from bacteria that became permanent residents inside other cells.
 
-**Convergence** is the independent evolution of similar features. Sharks and dolphins have streamlined bodies because moving efficiently through water imposes similar physical demands, not because dolphins are fish.
-
-Both processes can occur in the same comparison. Bat and bird forelimbs share the basic arrangement inherited from a four-limbed ancestor; their specialised arrangements for powered flight evolved separately. [Animal body plans](../bodies-and-energy/animal-body-plans.md) looks at the anatomical evidence.
-
-Living species are all contemporary branches. A bacterium is not an unfinished animal, and humans are not the destination of a process that started billions of years before we existed. Evolution can produce greater complexity, reduced complexity or long-term stability, depending on circumstances.
-
-## 🦠 Inheritance sometimes crosses branches
-
-A branching tree captures much of life's history, but individual genes can have different histories from the organisms carrying them.
-
-Bacteria and archaea, two major groups of single-celled organisms, exchange DNA through several routes, including uptake of environmental DNA, viruses and direct transfer between cells. This helps explain the spread of antibiotic-resistance genes across otherwise distinct lineages.
-
-**Endosymbiosis**—one organism living inside another—produced an even deeper combination. Mitochondria, compartments that help cells use food energy, descend from bacteria that became permanent partners inside another cell. Chloroplasts, the compartments that capture light energy in plants, descend from photosynthetic bacteria called cyanobacteria. The evolution of [complex cells](../cells-and-chemistry/cells-and-organelles.md) includes mergers as well as splits.
-
-## 🔬 What remains difficult
-
-Common descent and evolutionary change are supported by converging evidence from genetics, fossils, the geographical distribution of organisms and observed populations. The open questions concern particular histories and mechanisms: how much selection versus drift explains a change, how development limits possible forms, and why major transitions happened when they did.
-
-**Multicellularity**, living as a body made of many cells, for example, requires more than cells sticking together. The cells must coordinate reproduction, divide labour and limit conflicts between their own proliferation and the survival of the whole organism. Cancer exposes the difficulty of maintaining that cooperation.
-
-Evolution makes biology intelligible without making every biological detail obvious. Knowing the mechanisms gives us questions we can test. It does not give us permission to invent a confident backstory for every interesting beak.
+[Animal bodies](../bodies-and-energy/animal-body-plans.md) make these stories visible. Evolution isn't a ladder with humans perched on the top rung. It is a branching history of surviving descendants—including bacteria that are doing perfectly well without becoming anything else.
 
 ## 📚 Sources and further reading
 

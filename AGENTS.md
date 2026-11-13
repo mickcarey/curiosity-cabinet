@@ -44,6 +44,7 @@ Before finishing, read the opening and the densest section aloud. Could a newcom
 
 ### 💭 Content Approach
 
+- Write for a public audience. Never use the repository owner's name in articles or describe their personal setup, requests, or conversation history. Turn useful context into general examples; keep PR descriptions public-facing too. Names of article subjects and cited authors are welcome.
 - Embrace curiosity and wonder.
 - Make connections between ideas when they are genuinely useful.
 - Include interesting tangents, quirks, contradictions, and rabbit holes.

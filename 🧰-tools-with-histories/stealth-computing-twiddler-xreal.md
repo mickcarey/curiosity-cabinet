@@ -1,6 +1,6 @@
 # Stealth Computing With Twiddler 4 And XREAL One Pro 🥷
 
-Michael requested this article while using a Twiddler 4 with XREAL One Pro glasses. That is a rather good opening exhibit: the equipment being discussed is already helping its owner ask for the discussion.
+A workstation usually announces itself with a screen on a desk and a keyboard underneath. Pair a Twiddler 4 handheld keyboard with XREAL One Pro display glasses and a compatible host device, and those familiar parts can travel around a person instead.
 
 Here, **stealth computing** means using a computer with a small visible footprint—a display worn as glasses, discreet handheld input and a host device providing the applications. The appeal is being able to work without first unfolding a little office.
 
@@ -16,7 +16,7 @@ There are three distinct jobs:
 
 In a typical arrangement, the Twiddler connects to the host by Bluetooth, while the glasses connect to its video output. The keyboard and glasses cooperate through that host; they do not need to pair directly with each other. [Twiddler connectivity](https://www.tekgear.com/twiddler-4-wrap.html), [XREAL connection guide](https://tutorials.xreal.com/docs/glasses/one-series/first-use/connect-device/)
 
-The exact host in Michael’s setup is unspecified. A phone-based arrangement and a laptop-based arrangement can share this architecture while offering quite different application and window behaviour.
+A phone-based arrangement and a laptop-based arrangement can share this architecture while offering quite different application and window behaviour.
 
 ## 👓 What The Glasses Bring
 
@@ -34,7 +34,7 @@ A USB-C connector—the reversible oval plug—is not enough by itself. Direct c
 
 The host also determines whether applications mirror a phone screen, use a desktop-style environment, or offer external-display features. Charging while using the glasses introduces another practical question: whether the particular adapter or hub supports both the required video path and power delivery.
 
-An optional extension is a remote computer doing the heavy work. The local host can act as the terminal while a machine elsewhere runs the demanding applications. The cabinet’s [remote development article](remote-development-anywhere.md) explores that arrangement. It is an additional architecture, not an assumption about Michael’s current setup.
+An optional extension is a remote computer doing the heavy work. The local host can act as the terminal while a machine elsewhere runs the demanding applications. The cabinet’s [remote development article](remote-development-anywhere.md) explores that arrangement.
 
 ## ✍️ Why The Twiddler Completes The Idea
 

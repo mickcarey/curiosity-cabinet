@@ -34,6 +34,8 @@ Imagine a virtual monitor fixed in front of your chair. Turn your head right and
 
 Now keep facing forward and move your head sideways. A real monitor would appear from a slightly different angle. Reproducing that change requires tracking position too. Three degrees of freedom describe rotation; six add movement along three spatial axes. This is why “anchored” deserves a closer look: keeping a direction stable and attaching an object convincingly to a place in a room are different achievements. The One Pro’s built-in rotation tracking should be understood in that narrower sense. [XREAL’s description of native tracking](https://www.xreal.com/one-pro)
 
+XREAL offers an optional Eye camera module for six-degree-of-freedom spatial anchoring on the One series. That adds a different tracking capability to the arrangement; it should not be assumed from the glasses’ built-in rotation tracking alone. [XREAL Eye’s tracking description](https://www.xreal.com/eye)
+
 The image also lives inside a limited viewing window. A large virtual workspace does not mean its entire area is visible sharply at once. Think of looking at a mural through a frame: enlarging the mural and enlarging the frame solve different problems.
 
 For reading, distinguish two adjustments. Increasing application text size gives each character more of the available pixels, usually leaving room for fewer characters. Increasing the virtual screen’s apparent size changes how large the image looks. Neither creates additional source detail. That is why a spectacular diagonal measurement tells us surprisingly little about comfortable editing.

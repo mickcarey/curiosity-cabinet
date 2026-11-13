@@ -17,6 +17,7 @@ This is not an application repo. No app to compile. No service to deploy. No tin
 
 ### 🎨 Writing Style
 
+- Do not use em dashes. Choose commas, parentheses, colons or separate sentences to suit the meaning.
 - Keep notes fun, playful, and curious. This is a curiosity cabinet, not a corporate manual wearing sensible shoes.
 - Use personality, whimsy, emojis, metaphors, and creative language where they help.
 - Be conversational rather than sterile or professionally beige.
@@ -44,6 +45,7 @@ Before finishing, read the opening and the densest section aloud. Could a newcom
 
 ### 💭 Content Approach
 
+- Write for a public audience. Never use the repository owner's name in articles or describe their personal setup, requests, or conversation history. Turn useful context into general examples; keep PR descriptions public-facing too. Names of article subjects and cited authors are welcome.
 - Embrace curiosity and wonder.
 - Make connections between ideas when they are genuinely useful.
 - Include interesting tangents, quirks, contradictions, and rabbit holes.

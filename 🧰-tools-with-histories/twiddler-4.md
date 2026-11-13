@@ -8,7 +8,7 @@ The surprising part is the change in posture. Typing no longer requires putting 
 
 ## 🎹 How A Few Buttons Become An Alphabet
 
-Think about five imaginary buttons, each either pressed or released. There are 2 × 2 × 2 × 2 × 2 = 32 possible states. Remove “nothing pressed” and you have 31 combinations—already more than the English alphabet.
+Think about five imaginary buttons, each either pressed or released. There are 2 × 2 × 2 × 2 × 2 = 32 possible states. Remove “nothing pressed” and you have 31 combinations, already more than the English alphabet.
 
 That is a simplified illustration of chording, not a count of the Twiddler 4’s usable combinations. Real hands complicate the arithmetic: some combinations feel easy, some feel like your fingers have been asked to assemble a deckchair underwater. A useful layout has to respect the hand as well as the mathematics.
 

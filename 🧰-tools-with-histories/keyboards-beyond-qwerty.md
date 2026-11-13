@@ -18,7 +18,7 @@ For the inherited letter arrangement, the cabinet’s [QWERTY origin story](../�
 
 A **layer** gives existing keys another set of meanings. Imagine holding a thumb key and having a patch of letters become a number pad. Release it and the letters return. The physical keys stay put; the translation changes.
 
-QMK, short for Quantum Mechanical Keyboard, is firmware—the software running inside a keyboard—that supports programmable layers. Its keymaps can let one position serve different functions according to the active layer. [QMK’s keymap documentation](https://docs.qmk.fm/keymap)
+QMK, short for Quantum Mechanical Keyboard, is firmware (the software running inside a keyboard) that supports programmable layers. Its keymaps can let one position serve different functions according to the active layer. [QMK’s keymap documentation](https://docs.qmk.fm/keymap)
 
 Another trick is **tap-hold**: a quick tap produces one action, while holding the same key produces another. For example, a key could type a letter when tapped and act as a modifier when held. The difficulty is deciding what the user intended while their fingers are still moving. QMK exposes timing and decision settings because the distinction can feel different between users and typing patterns. [Tap-hold documentation](https://docs.qmk.fm/tap_hold)
 

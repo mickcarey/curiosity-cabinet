@@ -37,7 +37,7 @@ Instead of providing a separate physical button for every choice, the system pre
 
 This is a deep connection to [chord keyboards](keyboards-beyond-qwerty.md). Both can provide many commands through little hardware, but they do so differently. Chording uses combinations; scanning uses timing and a sequence of choices.
 
-## 👀 A Stare Can Become A Click—With A Catch
+## 👀 A Stare Can Become A Click, With A Catch
 
 **Dwell selection** means holding your gaze on a target long enough to activate it. Microsoft’s design guidance describes the tension: a short delay risks unwanted activation; a long delay makes interaction feel slow. Visual feedback can show the countdown and let the user look away before committing. [Eye-gaze and dwell](https://learn.microsoft.com/fi-fi/windows/mixed-reality/design/gaze-and-dwell-eyes)
 

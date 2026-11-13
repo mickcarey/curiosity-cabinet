@@ -22,7 +22,7 @@ This is where wearable displays become especially interesting. A product can imp
 
 The One Pro illustrates one approach taken by Xu’s company: glasses with local spatial-display processing that receive content from a connected host. The host supplies the applications; the glasses handle the view. This is a company and engineering-team achievement, rather than evidence that Xu personally designed each component. [One Pro product information](https://www.xreal.com/one-pro)
 
-For the wearer, that division suggests a useful possibility: existing software can remain on an existing computer while the display changes form. The arrangement still has to work as a whole—image, input, cables and power included.
+For the wearer, that division suggests a useful possibility: existing software can remain on an existing computer while the display changes form. The arrangement still has to work as a whole, with image, input, cables and power included.
 
 ## 🧭 Why He Belongs In This Cabinet
 

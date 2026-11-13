@@ -2,7 +2,7 @@
 
 A workstation usually announces itself with a screen on a desk and a keyboard underneath. Pair a Twiddler 4 handheld keyboard with XREAL One Pro display glasses and a compatible host device, and those familiar parts can travel around a person instead.
 
-Here, **stealth computing** means using a computer with a small visible footprint—a display worn as glasses, discreet handheld input and a host device providing the applications. The appeal is being able to work without first unfolding a little office.
+Here, **stealth computing** means using a computer with a small visible footprint: a display worn as glasses, discreet handheld input and a host device providing the applications. The appeal is being able to work without first unfolding a little office.
 
 ## 🧩 The Workstation Comes Apart
 
@@ -30,7 +30,7 @@ For text work, the useful target is readable characters and comfortable access t
 
 ## 🔌 The Host Is The Quietly Important Part
 
-A USB-C connector—the reversible oval plug—is not enough by itself. Direct connection requires the host port to support **DisplayPort** video output and provide power. XREAL’s guide specifies both requirements and describes adapters for other video sources. [Connection requirements](https://tutorials.xreal.com/docs/glasses/one-series/first-use/connect-device/)
+A USB-C connector (the reversible oval plug) is not enough by itself. Direct connection requires the host port to support **DisplayPort** video output and provide power. XREAL’s guide specifies both requirements and describes adapters for other video sources. [Connection requirements](https://tutorials.xreal.com/docs/glasses/one-series/first-use/connect-device/)
 
 The host also determines whether applications mirror a phone screen, use a desktop-style environment, or offer external-display features. Charging while using the glasses introduces another practical question: whether the particular adapter or hub supports both the required video path and power delivery.
 

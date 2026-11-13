@@ -28,6 +28,6 @@ There is a family resemblance to the [Twiddler 4](../🧰-tools-with-histories/t
 
 ## 🎬 The Demonstration Worth Watching
 
-On 9 December 1968, Engelbart demonstrated the NLS system—short for “oN-Line System”—in a presentation now remembered as the Mother of All Demos. The archived footage shows interactive text, links, collaboration and the input devices working together. [Original demonstration archive](https://dougengelbart.org/mousesite/1968Demo.html)
+On 9 December 1968, Engelbart demonstrated the NLS system (short for “oN-Line System”) in a presentation now remembered as the Mother of All Demos. The archived footage shows interactive text, links, collaboration and the input devices working together. [Original demonstration archive](https://dougengelbart.org/mousesite/1968Demo.html)
 
 The rewarding thing to watch is the flow between actions. Editing, navigating and discussing information appear as parts of one activity. His mouse is famous because we can point at it. The broader achievement is harder to put in a display case: a way for people, skills and tools to improve together.

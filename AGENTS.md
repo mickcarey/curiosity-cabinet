@@ -17,6 +17,7 @@ This is not an application repo. No app to compile. No service to deploy. No tin
 
 ### 🎨 Writing Style
 
+- Do not use em dashes. Choose commas, parentheses, colons or separate sentences to suit the meaning.
 - Keep notes fun, playful, and curious. This is a curiosity cabinet, not a corporate manual wearing sensible shoes.
 - Use personality, whimsy, emojis, metaphors, and creative language where they help.
 - Be conversational rather than sterile or professionally beige.

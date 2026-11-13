@@ -28,6 +28,16 @@ The advertised 171-inch screen is a perceived size at a stated virtual distance 
 
 For text work, the useful target is readable characters and comfortable access to the edges. Enlarging the apparent image does not manufacture more pixels. A modest, legible workspace may serve a paragraph better than a cinema-sized spreadsheet. The profile of [XREAL founder Chi Xu](../👤-people/chi-xu.md) follows the consumer-product ambition behind this approach.
 
+### 🧭 Turning Your Head Is Different From Moving It
+
+Imagine a virtual monitor fixed in front of your chair. Turn your head right and, for the monitor to seem stationary, its image must shift left within your view. Rotation tracking supplies information needed for that adjustment.
+
+Now keep facing forward and move your head sideways. A real monitor would appear from a slightly different angle. Reproducing that change requires tracking position too. Three degrees of freedom describe rotation; six add movement along three spatial axes. This is why “anchored” deserves a closer look: keeping a direction stable and attaching an object convincingly to a place in a room are different achievements. The One Pro’s built-in rotation tracking should be understood in that narrower sense. [XREAL’s description of native tracking](https://www.xreal.com/one-pro)
+
+The image also lives inside a limited viewing window. A large virtual workspace does not mean its entire area is visible sharply at once. Think of looking at a mural through a frame: enlarging the mural and enlarging the frame solve different problems.
+
+For reading, distinguish two adjustments. Increasing application text size gives each character more of the available pixels, usually leaving room for fewer characters. Increasing the virtual screen’s apparent size changes how large the image looks. Neither creates additional source detail. That is why a spectacular diagonal measurement tells us surprisingly little about comfortable editing.
+
 ## 🔌 The Host Is The Quietly Important Part
 
 A USB-C connector (the reversible oval plug) is not enough by itself. Direct connection requires the host port to support **DisplayPort** video output and provide power. XREAL’s guide specifies both requirements and describes adapters for other video sources. [Connection requirements](https://tutorials.xreal.com/docs/glasses/one-series/first-use/connect-device/)
@@ -43,6 +53,16 @@ A head-worn screen can make reading portable. Writing still needs a usable route
 The [Twiddler’s chord approach](twiddler-4.md) offers text entry in one hand, with pointer control alongside it. That makes the whole editing loop worth considering: type, correct, select, navigate and return to the sentence. Convenient access to Backspace, Escape and application shortcuts can matter as much as raw typing speed.
 
 There is also an older lineage here. [Thad Starner](../👤-people/thad-starner.md) has described wearing a computer with a head-up display in daily life since 1993. Today’s arrangement revisits that wearable-computing ambition with different hardware and a consumer display ecosystem. [Starner’s biography](https://faculty.cc.gatech.edu/~thad/01_cv.htm)
+
+## 📨 Follow One Sentence Through The System
+
+Consider a hypothetical seated session: open a document, write a sentence, correct a word and switch to a reference page. The Twiddler sends input to the host. The host decides which application receives it and updates the document. Its video output carries the resulting image to the glasses. The wearer sees the result and makes the next correction.
+
+That route explains several otherwise puzzling failures. A pointer that moves while letters go nowhere may indicate that the wrong window has keyboard focus, meaning it is the one receiving typed input. A working keyboard with a blank display says little about whether the host is sending compatible video. A readable phone interface can still be awkward if the application expects touch gestures that have no convenient keyboard equivalent.
+
+These are diagnostic examples, not reports from a tested combination. The architecture shows what must cooperate; it cannot certify every phone, adapter and application.
+
+It also changes what counts as a successful demonstration. Showing a desktop establishes that an image can arrive. Completing the sentence, fixing the mistake and returning from the reference page establishes much more about whether the arrangement can support work. The unglamorous correction is where a portable workstation starts earning its name.
 
 ## 🫥 Small Footprint, Real Tradeoffs
 

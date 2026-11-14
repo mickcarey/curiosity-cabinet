@@ -24,6 +24,14 @@ Another trick is **tap-hold**: a quick tap produces one action, while holding th
 
 Fewer physical keys therefore move some complexity into timing and memory. That can be a useful exchange, but the missing keys have not taken their responsibilities with them.
 
+### ⏱️ When “A” Might Mean Shift
+
+Suppose a key types “a” when tapped but acts as Shift when held. You press it, then press “b” before releasing it. Did you intend a capital “B”, or are your fingers simply overlapping while typing “ab”?
+
+The keyboard sees a sequence of presses and releases, not your sentence. QMK’s tap-hold settings can consider elapsed time and whether another key was pressed or completed while the first remained down. Different rules resolve the same movement differently. [QMK’s decision-mode examples](https://docs.qmk.fm/tap_hold)
+
+Waiting longer can help distinguish intentions, but postpones the output. Deciding earlier can feel responsive while increasing the chance of choosing the wrong action. This is why a compact keyboard can feel superb to its owner and baffling to a visitor: some of its design lives in timing habits that are invisible on the keycaps.
+
 ## 🎼 Chording Changes The Unit Of Typing
 
 A chord keyboard interprets a combination of pressed buttons as one input. The [Twiddler 4](twiddler-4.md) puts that idea in one hand. Stenography develops it into a language for writing speech.
@@ -31,6 +39,14 @@ A chord keyboard interprets a combination of pressed buttons as one input. The [
 In machine stenography, combinations can represent sounds, words or phrases. Translation software uses dictionaries to turn strokes into ordinary text. Open Steno’s Plover makes this approach available through free, open-source software, including support for compatible ordinary keyboards as well as dedicated machines. The project describes expert court-reporting speeds above 200 words per minute; that is a trained skill, not an installation bonus. [Open Steno](https://opensteno.org/)
 
 The conceptual jump is wonderful: the machine no longer needs one physical event for every printed letter. A practiced movement can carry a larger piece of language.
+
+### 🐈 How A Stroke Becomes A Word
+
+Plover’s dictionary documentation gives a small, concrete example: the steno outline `KAT` maps to “cat”. The letters in the outline describe a stroke, a combination entered together, rather than three ordinary keystrokes. Its examples also show multi-stroke outlines, separated by slashes, translating to “catalog”. [Plover’s dictionary format](https://plover.readthedocs.io/en/v5.4.0/dict_formats.html)
+
+That dictionary is doing essential work. The physical device reports a pattern; the software turns a recognised outline into spelling. An unfamiliar name or specialist term needs a way to be written too, so fluent use involves more than memorising shortcuts for common words.
+
+This makes stenography different from merely shrinking QWERTY. Ordinary typing gives a beginner a fairly direct route from a printed letter to a key. Steno asks the learner to acquire a system of representation, then rewards fluency by carrying more language in each movement. The speed has an explanation: some of the work has moved from repeated finger actions into learned patterns and translation.
 
 ## 🐭 The Mouse Once Had A Chording Partner
 

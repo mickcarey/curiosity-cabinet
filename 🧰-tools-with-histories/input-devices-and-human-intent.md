@@ -65,4 +65,4 @@ Recovery belongs in that loop too. Choosing the wrong drawing colour and sending
 
 A useful design principle follows: give each channel the job it handles well. A pen can draw while a keyboard changes tools. Gaze can identify a target while a switch confirms it. A handheld keyboard can enter text while glasses provide feedback.
 
-This last combination is the appeal of [stealth computing with the Twiddler 4 and XREAL One Pro](stealth-computing-twiddler-xreal.md). The glasses solve where the output appears; the handheld controller solves how instructions get back in. Putting a screen on a face only completes half the conversation.
+This last combination is the appeal of stealth computing: a workstation with a small visible footprint, such as a Twiddler 4 handheld keyboard paired with XREAL One Pro display glasses and a host computer. The glasses solve where the output appears; the handheld controller solves how instructions get back in. Putting a screen on a face only completes half the conversation.

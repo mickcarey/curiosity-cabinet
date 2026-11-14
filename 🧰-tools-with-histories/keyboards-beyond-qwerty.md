@@ -34,7 +34,7 @@ Waiting longer can help distinguish intentions, but postpones the output. Decidi
 
 ## 🎼 Chording Changes The Unit Of Typing
 
-A chord keyboard interprets a combination of pressed buttons as one input. The [Twiddler 4](twiddler-4.md) puts that idea in one hand. Stenography develops it into a language for writing speech.
+A chord keyboard interprets a combination of pressed buttons as one input. The Twiddler 4 puts that idea in one hand. Stenography develops it into a language for writing speech.
 
 In machine stenography, combinations can represent sounds, words or phrases. Translation software uses dictionaries to turn strokes into ordinary text. Open Steno’s Plover makes this approach available through free, open-source software, including support for compatible ordinary keyboards as well as dedicated machines. The project describes expert court-reporting speeds above 200 words per minute; that is a trained skill, not an installation bonus. [Open Steno](https://opensteno.org/)
 

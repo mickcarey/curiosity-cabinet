@@ -8,7 +8,7 @@ Born on a Tuesday (she insists it matters), Margery Euphemia Chuckleberry spent 
 
 ### The Craft Empire Years 🎨
 
-By age 35, Margery had established herself as the undisputed queen of impractical crafts. Her specialty? Crocheted tea cozies for individual sugar cubes and hand-painted motivational quotes on grains of rice. Her magnum opus—a full-scale replica of the Sistine Chapel ceiling made entirely from dried macaroni—was tragically eaten by squirrels the night before the county fair.
+By age 35, Margery had established herself as the undisputed queen of impractical crafts. Her specialty? Crocheted tea cozies for individual sugar cubes and hand-painted motivational quotes on grains of rice. Her magnum opus, a full-scale replica of the Sistine Chapel ceiling made entirely from dried macaroni, was tragically eaten by squirrels the night before the county fair.
 
 ### The Pie Peace Accords 🥧
 
@@ -27,7 +27,7 @@ Her debugging philosophy: "If it doesn't work, feed it cake. If it still doesn't
 ### Notable Achievements 🏆
 
 - Invented the world's first edible keyboard (patent pending, not recommended for actual typing)
-- Holds the record for most semicolons used in a single line of code (437—she thought they were decorative)
+- Holds the record for most semicolons used in a single line of code (437; she thought they were decorative)
 - Created a viral TikTok dance called "The Recursive Loop" where you repeat the same move until someone force-quits you
 - Built a neural network that exclusively predicts which neighborhood cat will knock over her garbage bins
 - Wrote a 10,000-word blog post comparing SQL joins to quilting patterns (surprisingly accurate)
@@ -42,7 +42,7 @@ Margery is currently working on:
 
 ### Philosophy & Quotes 💭
 
-*"Life is like debugging code—sometimes you need to clear your cache and eat a cookie. Not a browser cookie, a real cookie. With chocolate chips."*
+*"Life is like debugging code: sometimes you need to clear your cache and eat a cookie. Not a browser cookie, a real cookie. With chocolate chips."*
 
 *"They say you can't teach an old dog new tricks, but I taught myself Python at 72, and I'm at least 30% sure I'm not a dog."*
 
